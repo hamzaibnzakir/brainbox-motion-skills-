@@ -18,6 +18,9 @@ The host's voice is a **voice clone in your voice studio**. Use the same clone a
    ```
    It prints each phrase with its time range. Skim it against the audio. If phrases got merged or split wrongly (fast delivery with tiny pauses), write the phrases into `voice/<id>/runs.txt` as `start end text` lines (see `voice/03-ai-descriptions/runs.txt`) and run
    `python3 tools/words_from_runs.py scripts/<id>.json voice/<id>/runs.txt voice/<id>/words.json`.
+   **Smooth, pause-free deliveries** (long runs with only tiny breaths) work better with
+   `python3 tools/align_speech.py scripts/<id>.json voice/<id>/voice.wav voice/<id>/words.json`.
+   It anchors on the few real pauses, spreads syllables over the actual speaking time, and snaps line starts to breaths.
 5. Render. The renderer picks up `voice/03-name/` automatically:
    ```bash
    node tools/render.mjs scripts/03-name.json

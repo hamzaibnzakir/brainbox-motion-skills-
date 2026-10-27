@@ -1,0 +1,921 @@
+{
+ "audio": "voice.wav",
+ "words": [
+  {
+   "text": "This",
+   "start": 0.24,
+   "end": 0.52
+  },
+  {
+   "text": "product",
+   "start": 0.54,
+   "end": 0.94
+  },
+  {
+   "text": "page",
+   "start": 0.96,
+   "end": 1.19
+  },
+  {
+   "text": "is",
+   "start": 1.21,
+   "end": 1.35
+  },
+  {
+   "text": "losing",
+   "start": 1.37,
+   "end": 1.64
+  },
+  {
+   "text": "sales.",
+   "start": 1.66,
+   "end": 2.03
+  },
+  {
+   "text": "Let",
+   "start": 2.05,
+   "end": 2.18
+  },
+  {
+   "text": "me",
+   "start": 2.21,
+   "end": 2.64
+  },
+  {
+   "text": "fix",
+   "start": 2.66,
+   "end": 2.95
+  },
+  {
+   "text": "it",
+   "start": 2.98,
+   "end": 3.11
+  },
+  {
+   "text": "with",
+   "start": 3.13,
+   "end": 3.26
+  },
+  {
+   "text": "AI,",
+   "start": 3.29,
+   "end": 3.47
+  },
+  {
+   "text": "live,",
+   "start": 3.49,
+   "end": 3.79
+  },
+  {
+   "text": "with",
+   "start": 3.81,
+   "end": 4.02
+  },
+  {
+   "text": "the",
+   "start": 4.04,
+   "end": 4.18
+  },
+  {
+   "text": "exact",
+   "start": 4.2,
+   "end": 4.73
+  },
+  {
+   "text": "prompts.",
+   "start": 4.75,
+   "end": 5.16
+  },
+  {
+   "text": "Generic",
+   "start": 5.67,
+   "end": 6.16
+  },
+  {
+   "text": "title.",
+   "start": 6.18,
+   "end": 6.4
+  },
+  {
+   "text": "One",
+   "start": 6.42,
+   "end": 6.65
+  },
+  {
+   "text": "photo.",
+   "start": 6.68,
+   "end": 6.99
+  },
+  {
+   "text": "No",
+   "start": 7.01,
+   "end": 7.14
+  },
+  {
+   "text": "reviews.",
+   "start": 7.16,
+   "end": 7.52
+  },
+  {
+   "text": "And",
+   "start": 7.55,
+   "end": 7.72
+  },
+  {
+   "text": "a",
+   "start": 7.74,
+   "end": 7.87
+  },
+  {
+   "text": "wall",
+   "start": 7.89,
+   "end": 8.02
+  },
+  {
+   "text": "of",
+   "start": 8.04,
+   "end": 8.32
+  },
+  {
+   "text": "text",
+   "start": 8.34,
+   "end": 8.56
+  },
+  {
+   "text": "nobody",
+   "start": 8.58,
+   "end": 8.9
+  },
+  {
+   "text": "reads.",
+   "start": 8.92,
+   "end": 9.14
+  },
+  {
+   "text": "It",
+   "start": 9.16,
+   "end": 9.44
+  },
+  {
+   "text": "doesn't",
+   "start": 9.46,
+   "end": 9.64
+  },
+  {
+   "text": "answer",
+   "start": 9.66,
+   "end": 9.93
+  },
+  {
+   "text": "a",
+   "start": 9.95,
+   "end": 10.12
+  },
+  {
+   "text": "single",
+   "start": 10.14,
+   "end": 10.27
+  },
+  {
+   "text": "question",
+   "start": 10.29,
+   "end": 10.64
+  },
+  {
+   "text": "the",
+   "start": 10.66,
+   "end": 10.78
+  },
+  {
+   "text": "buyer",
+   "start": 10.81,
+   "end": 10.93
+  },
+  {
+   "text": "has.",
+   "start": 10.95,
+   "end": 11.2
+  },
+  {
+   "text": "Three",
+   "start": 11.23,
+   "end": 11.33
+  },
+  {
+   "text": "steps.",
+   "start": 11.35,
+   "end": 11.69
+  },
+  {
+   "text": "Two",
+   "start": 11.71,
+   "end": 11.81
+  },
+  {
+   "text": "prompts.",
+   "start": 11.83,
+   "end": 12.17
+  },
+  {
+   "text": "No",
+   "start": 12.19,
+   "end": 12.41
+  },
+  {
+   "text": "copywriter",
+   "start": 12.43,
+   "end": 12.99
+  },
+  {
+   "text": "needed.",
+   "start": 13.01,
+   "end": 13.44
+  },
+  {
+   "text": "Step",
+   "start": 13.53,
+   "end": 13.75
+  },
+  {
+   "text": "one.",
+   "start": 13.82,
+   "end": 14.28
+  },
+  {
+   "text": "Paste",
+   "start": 14.84,
+   "end": 15.11
+  },
+  {
+   "text": "your",
+   "start": 15.13,
+   "end": 15.26
+  },
+  {
+   "text": "page",
+   "start": 15.28,
+   "end": 15.65
+  },
+  {
+   "text": "into",
+   "start": 15.67,
+   "end": 16.01
+  },
+  {
+   "text": "any",
+   "start": 16.03,
+   "end": 16.26
+  },
+  {
+   "text": "AI",
+   "start": 16.28,
+   "end": 16.47
+  },
+  {
+   "text": "chat",
+   "start": 16.49,
+   "end": 16.62
+  },
+  {
+   "text": "and",
+   "start": 16.64,
+   "end": 16.77
+  },
+  {
+   "text": "say:",
+   "start": 16.79,
+   "end": 17.07
+  },
+  {
+   "text": "act",
+   "start": 17.09,
+   "end": 17.22
+  },
+  {
+   "text": "as",
+   "start": 17.24,
+   "end": 17.49
+  },
+  {
+   "text": "a",
+   "start": 17.51,
+   "end": 17.64
+  },
+  {
+   "text": "skeptical",
+   "start": 17.67,
+   "end": 18.16
+  },
+  {
+   "text": "first-time",
+   "start": 18.18,
+   "end": 18.46
+  },
+  {
+   "text": "buyer,",
+   "start": 18.48,
+   "end": 18.89
+  },
+  {
+   "text": "list",
+   "start": 18.91,
+   "end": 19.1
+  },
+  {
+   "text": "the",
+   "start": 19.12,
+   "end": 19.25
+  },
+  {
+   "text": "top",
+   "start": 19.32,
+   "end": 19.45
+  },
+  {
+   "text": "five",
+   "start": 19.47,
+   "end": 19.6
+  },
+  {
+   "text": "reasons",
+   "start": 19.62,
+   "end": 19.99
+  },
+  {
+   "text": "you",
+   "start": 20.01,
+   "end": 20.26
+  },
+  {
+   "text": "would",
+   "start": 20.28,
+   "end": 20.49
+  },
+  {
+   "text": "not",
+   "start": 20.51,
+   "end": 20.64
+  },
+  {
+   "text": "buy.",
+   "start": 20.66,
+   "end": 20.88
+  },
+  {
+   "text": "It",
+   "start": 20.9,
+   "end": 21.03
+  },
+  {
+   "text": "finds",
+   "start": 21.05,
+   "end": 21.18
+  },
+  {
+   "text": "them:",
+   "start": 21.2,
+   "end": 21.84
+  },
+  {
+   "text": "price,",
+   "start": 21.86,
+   "end": 22.13
+  },
+  {
+   "text": "fit,",
+   "start": 22.15,
+   "end": 22.49
+  },
+  {
+   "text": "trust,",
+   "start": 22.52,
+   "end": 22.69
+  },
+  {
+   "text": "delivery,",
+   "start": 22.71,
+   "end": 23.64
+  },
+  {
+   "text": "and",
+   "start": 23.66,
+   "end": 23.85
+  },
+  {
+   "text": "returns.",
+   "start": 23.87,
+   "end": 24.21
+  },
+  {
+   "text": "Step",
+   "start": 24.23,
+   "end": 24.44
+  },
+  {
+   "text": "two.",
+   "start": 24.46,
+   "end": 24.68
+  },
+  {
+   "text": "Every",
+   "start": 24.7,
+   "end": 25.19
+  },
+  {
+   "text": "objection",
+   "start": 25.21,
+   "end": 25.68
+  },
+  {
+   "text": "becomes",
+   "start": 25.71,
+   "end": 26.08
+  },
+  {
+   "text": "a",
+   "start": 26.1,
+   "end": 26.31
+  },
+  {
+   "text": "section.",
+   "start": 26.33,
+   "end": 26.72
+  },
+  {
+   "text": "Price",
+   "start": 26.74,
+   "end": 27.02
+  },
+  {
+   "text": "gets",
+   "start": 27.04,
+   "end": 27.17
+  },
+  {
+   "text": "a",
+   "start": 27.19,
+   "end": 27.44
+  },
+  {
+   "text": "bundle",
+   "start": 27.46,
+   "end": 27.64
+  },
+  {
+   "text": "and",
+   "start": 27.66,
+   "end": 27.79
+  },
+  {
+   "text": "a",
+   "start": 27.81,
+   "end": 28.0
+  },
+  {
+   "text": "guarantee.",
+   "start": 28.02,
+   "end": 28.47
+  },
+  {
+   "text": "Fit",
+   "start": 28.91,
+   "end": 29.17
+  },
+  {
+   "text": "gets",
+   "start": 29.19,
+   "end": 29.44
+  },
+  {
+   "text": "a",
+   "start": 29.46,
+   "end": 29.58
+  },
+  {
+   "text": "who-it's-for",
+   "start": 29.6,
+   "end": 30.01
+  },
+  {
+   "text": "line.",
+   "start": 30.04,
+   "end": 30.24
+  },
+  {
+   "text": "Trust",
+   "start": 30.26,
+   "end": 30.43
+  },
+  {
+   "text": "gets",
+   "start": 30.45,
+   "end": 30.57
+  },
+  {
+   "text": "reviews",
+   "start": 30.59,
+   "end": 31.04
+  },
+  {
+   "text": "at",
+   "start": 31.06,
+   "end": 31.18
+  },
+  {
+   "text": "the",
+   "start": 31.2,
+   "end": 31.54
+  },
+  {
+   "text": "top.",
+   "start": 31.56,
+   "end": 31.96
+  },
+  {
+   "text": "Delivery",
+   "start": 31.98,
+   "end": 32.72
+  },
+  {
+   "text": "gets",
+   "start": 32.74,
+   "end": 32.92
+  },
+  {
+   "text": "a",
+   "start": 32.94,
+   "end": 33.11
+  },
+  {
+   "text": "ship",
+   "start": 33.13,
+   "end": 33.29
+  },
+  {
+   "text": "date.",
+   "start": 33.32,
+   "end": 33.6
+  },
+  {
+   "text": "Returns",
+   "start": 33.62,
+   "end": 34.37
+  },
+  {
+   "text": "get",
+   "start": 34.39,
+   "end": 34.51
+  },
+  {
+   "text": "a",
+   "start": 34.53,
+   "end": 34.68
+  },
+  {
+   "text": "badge.",
+   "start": 34.7,
+   "end": 35.06
+  },
+  {
+   "text": "And",
+   "start": 35.57,
+   "end": 35.72
+  },
+  {
+   "text": "step",
+   "start": 35.74,
+   "end": 35.86
+  },
+  {
+   "text": "three?",
+   "start": 35.88,
+   "end": 36.24
+  },
+  {
+   "text": "Ask",
+   "start": 36.62,
+   "end": 36.75
+  },
+  {
+   "text": "it",
+   "start": 36.77,
+   "end": 36.93
+  },
+  {
+   "text": "to",
+   "start": 36.95,
+   "end": 37.27
+  },
+  {
+   "text": "rewrite",
+   "start": 37.29,
+   "end": 37.78
+  },
+  {
+   "text": "the",
+   "start": 37.8,
+   "end": 37.99
+  },
+  {
+   "text": "page:",
+   "start": 38.01,
+   "end": 38.46
+  },
+  {
+   "text": "a",
+   "start": 38.49,
+   "end": 38.62
+  },
+  {
+   "text": "benefit-first",
+   "start": 38.64,
+   "end": 39.4
+  },
+  {
+   "text": "headline,",
+   "start": 39.42,
+   "end": 39.8
+  },
+  {
+   "text": "three",
+   "start": 39.82,
+   "end": 40.0
+  },
+  {
+   "text": "bullets",
+   "start": 40.02,
+   "end": 40.29
+  },
+  {
+   "text": "in",
+   "start": 40.31,
+   "end": 40.55
+  },
+  {
+   "text": "your",
+   "start": 40.57,
+   "end": 40.7
+  },
+  {
+   "text": "customers'",
+   "start": 40.72,
+   "end": 41.13
+  },
+  {
+   "text": "words",
+   "start": 41.15,
+   "end": 41.34
+  },
+  {
+   "text": "from",
+   "start": 41.36,
+   "end": 41.49
+  },
+  {
+   "text": "real",
+   "start": 41.51,
+   "end": 41.68
+  },
+  {
+   "text": "reviews,",
+   "start": 41.7,
+   "end": 42.1
+  },
+  {
+   "text": "and",
+   "start": 42.12,
+   "end": 42.31
+  },
+  {
+   "text": "an",
+   "start": 42.33,
+   "end": 42.47
+  },
+  {
+   "text": "answer",
+   "start": 42.49,
+   "end": 42.78
+  },
+  {
+   "text": "to",
+   "start": 42.8,
+   "end": 43.14
+  },
+  {
+   "text": "every",
+   "start": 43.16,
+   "end": 43.76
+  },
+  {
+   "text": "objection.",
+   "start": 43.79,
+   "end": 44.45
+  },
+  {
+   "text": "Same",
+   "start": 44.86,
+   "end": 45.03
+  },
+  {
+   "text": "product.",
+   "start": 45.05,
+   "end": 45.41
+  },
+  {
+   "text": "Completely",
+   "start": 45.43,
+   "end": 46.74
+  },
+  {
+   "text": "different",
+   "start": 46.76,
+   "end": 47.24
+  },
+  {
+   "text": "page.",
+   "start": 47.26,
+   "end": 47.65
+  },
+  {
+   "text": "Bonus:",
+   "start": 47.85,
+   "end": 48.24
+  },
+  {
+   "text": "swap",
+   "start": 48.57,
+   "end": 48.78
+  },
+  {
+   "text": "it",
+   "start": 48.8,
+   "end": 48.94
+  },
+  {
+   "text": "in",
+   "start": 48.96,
+   "end": 49.08
+  },
+  {
+   "text": "for",
+   "start": 49.1,
+   "end": 49.21
+  },
+  {
+   "text": "a",
+   "start": 49.23,
+   "end": 49.34
+  },
+  {
+   "text": "week",
+   "start": 49.37,
+   "end": 49.48
+  },
+  {
+   "text": "and",
+   "start": 49.5,
+   "end": 49.61
+  },
+  {
+   "text": "compare",
+   "start": 49.63,
+   "end": 49.94
+  },
+  {
+   "text": "sales.",
+   "start": 49.96,
+   "end": 50.35
+  },
+  {
+   "text": "Let",
+   "start": 50.37,
+   "end": 50.48
+  },
+  {
+   "text": "the",
+   "start": 50.5,
+   "end": 50.68
+  },
+  {
+   "text": "data",
+   "start": 50.7,
+   "end": 50.9
+  },
+  {
+   "text": "decide,",
+   "start": 50.92,
+   "end": 51.23
+  },
+  {
+   "text": "not",
+   "start": 51.26,
+   "end": 51.42
+  },
+  {
+   "text": "your",
+   "start": 51.44,
+   "end": 51.55
+  },
+  {
+   "text": "opinion.",
+   "start": 51.57,
+   "end": 51.99
+  },
+  {
+   "text": "Buyers",
+   "start": 52.31,
+   "end": 52.43
+  },
+  {
+   "text": "don't",
+   "start": 52.45,
+   "end": 52.58
+  },
+  {
+   "text": "need",
+   "start": 52.6,
+   "end": 52.72
+  },
+  {
+   "text": "more",
+   "start": 52.74,
+   "end": 52.87
+  },
+  {
+   "text": "hype.",
+   "start": 52.89,
+   "end": 53.17
+  },
+  {
+   "text": "They",
+   "start": 53.19,
+   "end": 53.64
+  },
+  {
+   "text": "need",
+   "start": 53.66,
+   "end": 53.84
+  },
+  {
+   "text": "answers.",
+   "start": 53.87,
+   "end": 54.26
+  },
+  {
+   "text": "Screenshot",
+   "start": 54.28,
+   "end": 54.67
+  },
+  {
+   "text": "those",
+   "start": 54.69,
+   "end": 54.81
+  },
+  {
+   "text": "two",
+   "start": 54.84,
+   "end": 55.01
+  },
+  {
+   "text": "prompts,",
+   "start": 55.03,
+   "end": 55.3
+  },
+  {
+   "text": "and",
+   "start": 55.32,
+   "end": 55.55
+  },
+  {
+   "text": "follow",
+   "start": 55.57,
+   "end": 55.82
+  },
+  {
+   "text": "for",
+   "start": 55.84,
+   "end": 55.97
+  },
+  {
+   "text": "more",
+   "start": 55.99,
+   "end": 56.11
+  },
+  {
+   "text": "AI",
+   "start": 56.13,
+   "end": 56.31
+  },
+  {
+   "text": "store",
+   "start": 56.33,
+   "end": 56.63
+  },
+  {
+   "text": "fixes.",
+   "start": 56.66,
+   "end": 56.98
+  }
+ ],
+ "provider": "speech-aligned"
+}

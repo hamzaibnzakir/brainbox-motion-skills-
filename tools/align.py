@@ -27,6 +27,8 @@ def silences(wav, db=-38, d=0.18):
                                capture_output=True, text=True).stdout)
     return list(zip(st, en[:len(st)])), dur
 
+import os
+DB = float(os.environ.get('ALIGN_DB', -38)); MIN = float(os.environ.get('ALIGN_MIN', 0.18))  # finer: ALIGN_DB=-32 ALIGN_MIN=0.09
 script = json.load(open(sys.argv[1])); wav = sys.argv[2]
 words, line_end = [], []
 for b in script['beats']:
@@ -41,7 +43,7 @@ def strength(i):
     if re.search(r'[,;]$', words[i]): return 1
     return 0
 S = [strength(i) for i in range(len(words))]
-sil, dur = silences(wav)
+sil, dur = silences(wav, DB, MIN)
 sil = [s for s in sil if s[0] > 0.05 and s[1] < dur - 0.05]
 # speech runs boundaries: start of audio .. each silence .. end
 lead = 0.0
