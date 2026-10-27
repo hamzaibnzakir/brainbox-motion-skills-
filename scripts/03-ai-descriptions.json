@@ -1,0 +1,100 @@
+{
+  "id": "03-ai-descriptions",
+  "title": "My AI writes my product descriptions",
+  "caption": "Your customers already wrote your copy. You just didn't read it. Comment PROMPT 👇 #aitools #shopify #copywriting",
+  "avatar": { "dir": "assets/hero" },
+  "beats": [
+    {
+      "layout": "bix", "pose": "presenting", "bg": "ink", "bix": "smug",
+      "headline": "I stopped *writing* copy.",
+      "chips": [
+        { "icon": "file", "text": "Product copy", "at": "product" },
+        { "icon": "sparkles", "text": "AI-written", "kind": "hot", "at": "ai" }
+      ],
+      "say": "I stopped writing product descriptions. *AI* does it better."
+    },
+    {
+      "bg": "ink", "bix": "talk",
+      "headline": "Steal my *prompt*",
+      "visual": { "type": "icon", "icon": "wand", "badge": "check", "badgeTone": "good", "badgeAt": "prompt" },
+      "stamp": { "text": "COPY-PASTE PROMPT", "at": "exact", "y": 860 },
+      "say": "Here's my *exact* prompt."
+    },
+    {
+      "layout": "punch", "bg": "neon", "bix": "serious",
+      "headline": "Specs don't *sell.*",
+      "say": "[dissatisfaction-hnn] Most stores list specs. Specs don't *sell.*"
+    },
+    {
+      "layout": "punch", "bg": "void", "bix": "smug",
+      "header": "3 *INPUTS*",
+      "headline": "The last one's the *secret.*",
+      "say": "AI needs three inputs. The last one's the *secret.*"
+    },
+    {
+      "bg": "ink", "bix": "talk",
+      "header": "1 · WHO *BUYS IT*",
+      "visual": { "type": "icon", "icon": "users" },
+      "chips": [
+        { "icon": "user", "text": "Busy mums?", "at": "busy" },
+        { "icon": "target", "text": "Be specific", "kind": "hot", "at": "specific" }
+      ],
+      "say": "One: who buys it. Busy mums? Gym beginners? Be *specific.*"
+    },
+    {
+      "bg": "ink", "bix": "serious",
+      "header": "2 · THE *PROBLEM*",
+      "visual": { "type": "icon", "icon": "alert", "tone": "bad" },
+      "chips": [
+        { "icon": "list", "text": "Not features", "at": "features" },
+        { "icon": "flame", "text": "The pain", "kind": "bad", "at": "pain" }
+      ],
+      "say": "Two: the problem it solves. Not features. The *pain.*"
+    },
+    {
+      "layout": "punch", "bg": "void", "bix": "think",
+      "headline": "And *three?*",
+      "say": "And three?"
+    },
+    {
+      "bg": "ink", "bix": "shock",
+      "header": "3 · REAL *REVIEWS*",
+      "visual": { "type": "icon", "icon": "star", "badge": "message", "badgeTone": "good", "badgeAt": "now" },
+      "chips": [
+        { "icon": "star", "text": "5 reviews", "at": "five" },
+        { "icon": "message", "text": "Their words", "kind": "hot", "at": "their" }
+      ],
+      "say": "[surprise-oh] Three: paste five real customer reviews. Now it writes in *their* words."
+    },
+    {
+      "bg": "ink", "bix": "happy",
+      "headline": "The *result*",
+      "visual": { "type": "checklist", "items": [
+        { "text": "Benefits first", "at": "benefits" },
+        { "text": "Objections handled", "at": "objections" },
+        { "text": "Sounds human", "at": "human" }
+      ] },
+      "say": "The result: *benefits* first, objections handled, and it sounds human."
+    },
+    {
+      "layout": "punch", "bg": "neon", "bix": "smug",
+      "headline": "Still writing *specs?*",
+      "say": "Still writing *specs?* [laughter]"
+    },
+    {
+      "layout": "punch", "bg": "void", "bix": "serious",
+      "headline": "Your buyers already *wrote* it.",
+      "say": "Your customers already *wrote* your copy."
+    },
+    {
+      "layout": "bix", "pose": "celebrating", "bg": "ink", "bix": "happy",
+      "label": "Free prompt",
+      "headline": "Comment *PROMPT*",
+      "chips": [
+        { "icon": "message", "text": "Comment PROMPT", "kind": "hot", "at": "comment" },
+        { "icon": "gift", "text": "Free", "at": "free" }
+      ],
+      "say": "Want my exact prompt? *Comment* prompt and I'll send it free."
+    }
+  ]
+}
