@@ -1,0 +1,101 @@
+{
+  "id": "10-reviews-to-ads",
+  "title": "Turn 100 reviews into a month of ad hooks (2 prompts)",
+  "caption": "Your best ad is already written. It's hiding in your reviews. Both prompts are on screen, screenshot them. #adcreative #aitools #ecommercemarketing #facebookads",
+  "avatar": { "dir": "assets/hero" },
+  "beats": [
+    {
+      "layout": "bix", "pose": "presenting", "bg": "ink", "bix": "smug",
+      "headline": "Your best ad is *hiding.*",
+      "chips": [{ "icon": "star", "text": "In your reviews", "kind": "hot", "at": "reviews" }],
+      "say": "Your best-performing ad is already written. It's hiding in your *reviews.*"
+    },
+    {
+      "bg": "ink", "bix": "talk",
+      "headline": "Reviews → *ad hooks*",
+      "visual": { "type": "icon", "icon": "message", "badge": "sparkles", "badgeTone": "good", "badgeAt": "month" },
+      "stamp": { "text": "2 PROMPTS", "at": "two", "y": 860 },
+      "say": "Two prompts turn a hundred reviews into a month of ad *angles.*"
+    },
+    {
+      "layout": "punch", "bg": "neon", "bix": "serious",
+      "headline": "Stop guessing | your *ads.*",
+      "say": "Stop guessing what to say in your *ads.*"
+    },
+    {
+      "layout": "punch", "bg": "void", "bix": "smug",
+      "header": "3 *STEPS*",
+      "headline": "Step three is | where it *pays.*",
+      "say": "Three steps. Step three is where it *pays.*"
+    },
+    {
+      "bg": "ink", "bix": "talk",
+      "header": "1 · COLLECT *REVIEWS*",
+      "visual": { "type": "flow", "nodes": [
+        { "icon": "file", "text": "Export yours as CSV", "at": "export" },
+        { "icon": "spy", "text": "Copy competitor reviews", "at": "copy" },
+        { "icon": "star", "text": "Keep the 1-star ones too", "at": "keep" }
+      ] },
+      "say": "One. *Export* your reviews from your reviews app, or copy your competitor's from their product pages. Keep the one-star reviews too. Trust me."
+    },
+    {
+      "bg": "ink", "bix": "talk",
+      "header": "2 · FIND THE *THEMES*",
+      "visual": { "type": "prompt",
+        "prompt": "Here are 100 customer reviews. Group them into the top 5 reasons people bought. Quote their exact words.",
+        "at": "paste",
+        "reply": ["1. Fit: \"finally fits right\"", "2. Gift: \"bought it for my mum\"", "3. Time: \"saves me 20 minutes\"", "4. Comfort: \"forgot it was on\"", "5. Value: \"cheaper than salon\""],
+        "replyAt": "quote" },
+      "say": "Two. *Paste* them into any AI and say: group these into the top five reasons people bought, and quote their exact words."
+    },
+    {
+      "layout": "punch", "bg": "void", "bix": "think",
+      "headline": "And *three?*",
+      "say": "And three? [question-oh]"
+    },
+    {
+      "bg": "ink", "bix": "shock",
+      "header": "3 · WRITE THE *HOOKS*",
+      "visual": { "type": "prompt",
+        "prompt": "For each reason, write 3 ad hooks under 10 words. Use the customers' exact phrases.",
+        "at": "ask",
+        "reply": ["\"It finally fits. First try.\"", "\"The gift my mum actually uses.\"", "\"20 minutes back every morning.\"", "\"Cheaper than the salon. Better.\""],
+        "replyAt": "that's" },
+      "say": "[surprise-oh] Three. *Ask* it: for each reason, write three ad hooks under ten words, using the customers' exact phrases. That's fifteen hooks, written by real buyers."
+    },
+    {
+      "bg": "ink", "bix": "smug",
+      "headline": "Which one *stops* you?",
+      "visual": { "type": "compare",
+        "before": ["\"Premium quality\"", "\"Shop the collection\"", "\"Made for you\""],
+        "after": ["\"It finally fits.\"", "\"My mum uses it daily\"", "\"20 minutes back\""],
+        "at": "which" },
+      "say": "*Which* ad would you stop scrolling for? Exactly. [laughter]"
+    },
+    {
+      "bg": "ink", "bix": "serious",
+      "header": "BONUS · ONE-STAR *GOLD*",
+      "visual": { "type": "checklist", "items": [
+        { "text": "\"Runs small\" → true to size", "at": "runs" },
+        { "text": "\"Slow shipping\" → ships in 2 days", "at": "slow" },
+        { "text": "Only if it's true", "at": "only", "ok": false }
+      ] },
+      "say": "Bonus. Every one-star complaint is an *objection.* Runs small? Your ad says true to size. Slow shipping? Say ships in two days. Only if it's true."
+    },
+    {
+      "layout": "punch", "bg": "neon", "bix": "smug",
+      "headline": "Your buyers write | *better* ads.",
+      "say": "Your buyers write better ads than you *do.*"
+    },
+    {
+      "layout": "bix", "pose": "celebrating", "bg": "ink", "bix": "happy",
+      "label": "Screenshot the prompts",
+      "headline": "Follow for *more*",
+      "chips": [
+        { "icon": "camera", "text": "Save the prompts", "at": "save" },
+        { "icon": "users", "text": "Follow", "kind": "hot", "at": "follow" }
+      ],
+      "say": "*Save* these prompts, and follow for more AI ad tricks."
+    }
+  ]
+}
