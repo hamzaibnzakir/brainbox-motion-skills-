@@ -1,0 +1,16 @@
+0.08 3.26 Your best-performing ad is already written.
+3.36 4.55 It's hiding in your reviews.
+4.60 8.56 Two prompts turn a hundred reviews into a month of ad angles.
+8.60 11.57 Stop guessing what to say in your ads.
+11.83 13.85 Three steps. Step three is where it pays.
+14.17 18.92 One. Export your reviews from your reviews app, or copy your competitor's from their product pages.
+19.11 21.43 Keep the one-star reviews too. Trust me.
+21.50 23.72 Two. Paste them into any AI and say:
+24.21 27.79 group these into the top five reasons people bought, and quote their exact words.
+27.79 28.81 And three? [question-oh]
+28.81 29.14 [surprise-oh]
+29.14 36.35 Three. Ask it: for each reason, write three ad hooks under ten words, using the customers' exact phrases. That's fifteen hooks, written by real buyers.
+36.40 38.87 Which ad would you stop scrolling for? Exactly. [laughter]
+38.87 43.92 Bonus. Every one-star complaint is an objection. Runs small? Your ad says true to size. Slow shipping? Say ships in two days. Only if it's true.
+43.92 46.26 Your buyers write better ads than you do.
+46.26 50.73 Save these prompts, and follow for more AI ad tricks.

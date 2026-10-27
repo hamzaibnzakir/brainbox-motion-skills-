@@ -381,11 +381,14 @@
   function fitAll() {
     layers.forEach((P) => {
       P.L.style.display = 'block';
-      const fit = (el, maxBottom, min) => {
+      const fit = (el, maxBottom, min, maxLines) => {
         if (!el) return; let fs = parseFloat(getComputedStyle(el).fontSize);
-        while (el.offsetTop + el.offsetHeight > maxBottom && fs > min) { fs -= 4; el.style.fontSize = fs + 'px'; }
+        const lines = () => el.offsetHeight / (parseFloat(getComputedStyle(el).lineHeight) || fs * 1.02);
+        while ((el.offsetTop + el.offsetHeight > maxBottom || (maxLines && lines() > maxLines + 0.3)) && fs > min) { fs -= 4; el.style.fontSize = fs + 'px'; }
       };
-      if (P.layout === 'punch') { fit(P.header, P.headline ? 860 : 1220, 60); fit(P.headline, 1215, 64); }
+      const segs = (txt) => (txt ? Math.max(2, txt.split('|').length) : 2);
+      const b = D.beats[layers.indexOf(P)];
+      if (P.layout === 'punch') { fit(P.header, P.headline ? 860 : 1220, 60, 1); fit(P.headline, 1215, 64, segs(b.headline)); }
       else if (P.layout === 'bix') { fit(P.headline, 405, 56); }
       else { fit(P.header, P.headline ? 350 : 455, 60); fit(P.headline, 455, 56); }
       P.L.style.display = 'none';
