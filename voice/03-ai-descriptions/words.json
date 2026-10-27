@@ -1,0 +1,466 @@
+{
+ "audio": "voice.wav",
+ "words": [
+  {
+   "text": "I",
+   "start": 0.05,
+   "end": 0.225
+  },
+  {
+   "text": "stopped",
+   "start": 0.245,
+   "end": 0.541
+  },
+  {
+   "text": "writing",
+   "start": 0.561,
+   "end": 0.858
+  },
+  {
+   "text": "product",
+   "start": 0.878,
+   "end": 1.174
+  },
+  {
+   "text": "descriptions.",
+   "start": 1.194,
+   "end": 1.71
+  },
+  {
+   "text": "AI",
+   "start": 2.08,
+   "end": 2.241
+  },
+  {
+   "text": "does",
+   "start": 2.261,
+   "end": 2.423
+  },
+  {
+   "text": "it",
+   "start": 2.443,
+   "end": 2.604
+  },
+  {
+   "text": "better.",
+   "start": 2.624,
+   "end": 2.99
+  },
+  {
+   "text": "Here's",
+   "start": 3.26,
+   "end": 3.5
+  },
+  {
+   "text": "my",
+   "start": 3.52,
+   "end": 3.66
+  },
+  {
+   "text": "exact",
+   "start": 3.68,
+   "end": 3.92
+  },
+  {
+   "text": "prompt.",
+   "start": 3.94,
+   "end": 4.16
+  },
+  {
+   "text": "Most",
+   "start": 4.85,
+   "end": 5.105
+  },
+  {
+   "text": "stores",
+   "start": 5.125,
+   "end": 5.552
+  },
+  {
+   "text": "list",
+   "start": 5.572,
+   "end": 5.827
+  },
+  {
+   "text": "specs.",
+   "start": 5.847,
+   "end": 6.24
+  },
+  {
+   "text": "Specs",
+   "start": 6.63,
+   "end": 6.924
+  },
+  {
+   "text": "don't",
+   "start": 6.944,
+   "end": 7.239
+  },
+  {
+   "text": "sell.",
+   "start": 7.259,
+   "end": 7.71
+  },
+  {
+   "text": "AI",
+   "start": 8.09,
+   "end": 8.345
+  },
+  {
+   "text": "needs",
+   "start": 8.365,
+   "end": 8.62
+  },
+  {
+   "text": "three",
+   "start": 8.64,
+   "end": 8.895
+  },
+  {
+   "text": "inputs.",
+   "start": 8.915,
+   "end": 9.48
+  },
+  {
+   "text": "The",
+   "start": 9.76,
+   "end": 9.891
+  },
+  {
+   "text": "last",
+   "start": 9.911,
+   "end": 10.042
+  },
+  {
+   "text": "one's",
+   "start": 10.062,
+   "end": 10.288
+  },
+  {
+   "text": "the",
+   "start": 10.308,
+   "end": 10.439
+  },
+  {
+   "text": "secret.",
+   "start": 10.459,
+   "end": 10.76
+  },
+  {
+   "text": "One:",
+   "start": 11.16,
+   "end": 11.47
+  },
+  {
+   "text": "who",
+   "start": 11.7,
+   "end": 11.811
+  },
+  {
+   "text": "buys",
+   "start": 11.831,
+   "end": 11.943
+  },
+  {
+   "text": "it.",
+   "start": 11.963,
+   "end": 12.14
+  },
+  {
+   "text": "Busy",
+   "start": 12.32,
+   "end": 12.664
+  },
+  {
+   "text": "mums?",
+   "start": 12.684,
+   "end": 13.0
+  },
+  {
+   "text": "Gym",
+   "start": 13.18,
+   "end": 13.389
+  },
+  {
+   "text": "beginners?",
+   "start": 13.409,
+   "end": 14.02
+  },
+  {
+   "text": "Be",
+   "start": 14.56,
+   "end": 14.74
+  },
+  {
+   "text": "specific.",
+   "start": 14.76,
+   "end": 15.29
+  },
+  {
+   "text": "Two:",
+   "start": 15.57,
+   "end": 15.898
+  },
+  {
+   "text": "the",
+   "start": 15.918,
+   "end": 16.129
+  },
+  {
+   "text": "problem",
+   "start": 16.149,
+   "end": 16.506
+  },
+  {
+   "text": "it",
+   "start": 16.526,
+   "end": 16.738
+  },
+  {
+   "text": "solves.",
+   "start": 16.758,
+   "end": 17.23
+  },
+  {
+   "text": "Not",
+   "start": 17.51,
+   "end": 17.709
+  },
+  {
+   "text": "features.",
+   "start": 17.729,
+   "end": 18.31
+  },
+  {
+   "text": "The",
+   "start": 18.68,
+   "end": 18.884
+  },
+  {
+   "text": "pain.",
+   "start": 18.904,
+   "end": 19.22
+  },
+  {
+   "text": "And",
+   "start": 19.61,
+   "end": 19.774
+  },
+  {
+   "text": "three?",
+   "start": 19.794,
+   "end": 20.05
+  },
+  {
+   "text": "Three:",
+   "start": 20.85,
+   "end": 21.42
+  },
+  {
+   "text": "paste",
+   "start": 21.52,
+   "end": 21.722
+  },
+  {
+   "text": "five",
+   "start": 21.742,
+   "end": 21.944
+  },
+  {
+   "text": "real",
+   "start": 21.964,
+   "end": 22.166
+  },
+  {
+   "text": "customer",
+   "start": 22.186,
+   "end": 22.666
+  },
+  {
+   "text": "reviews.",
+   "start": 22.686,
+   "end": 23.138
+  },
+  {
+   "text": "Now",
+   "start": 23.158,
+   "end": 23.36
+  },
+  {
+   "text": "it",
+   "start": 23.38,
+   "end": 23.582
+  },
+  {
+   "text": "writes",
+   "start": 23.602,
+   "end": 23.943
+  },
+  {
+   "text": "in",
+   "start": 23.963,
+   "end": 24.165
+  },
+  {
+   "text": "their",
+   "start": 24.185,
+   "end": 24.387
+  },
+  {
+   "text": "words.",
+   "start": 24.407,
+   "end": 24.72
+  },
+  {
+   "text": "The",
+   "start": 25.16,
+   "end": 25.333
+  },
+  {
+   "text": "result:",
+   "start": 25.353,
+   "end": 25.742
+  },
+  {
+   "text": "benefits",
+   "start": 25.762,
+   "end": 26.175
+  },
+  {
+   "text": "first,",
+   "start": 26.195,
+   "end": 26.367
+  },
+  {
+   "text": "objections",
+   "start": 26.387,
+   "end": 26.8
+  },
+  {
+   "text": "handled,",
+   "start": 26.82,
+   "end": 27.113
+  },
+  {
+   "text": "and",
+   "start": 27.133,
+   "end": 27.306
+  },
+  {
+   "text": "it",
+   "start": 27.326,
+   "end": 27.498
+  },
+  {
+   "text": "sounds",
+   "start": 27.518,
+   "end": 27.691
+  },
+  {
+   "text": "human.",
+   "start": 27.711,
+   "end": 28.1
+  },
+  {
+   "text": "Still",
+   "start": 28.46,
+   "end": 28.687
+  },
+  {
+   "text": "writing",
+   "start": 28.707,
+   "end": 29.089
+  },
+  {
+   "text": "specs?",
+   "start": 29.109,
+   "end": 29.46
+  },
+  {
+   "text": "Your",
+   "start": 30.69,
+   "end": 30.866
+  },
+  {
+   "text": "customers",
+   "start": 30.886,
+   "end": 31.308
+  },
+  {
+   "text": "already",
+   "start": 31.328,
+   "end": 31.75
+  },
+  {
+   "text": "wrote",
+   "start": 31.77,
+   "end": 31.946
+  },
+  {
+   "text": "your",
+   "start": 31.966,
+   "end": 32.143
+  },
+  {
+   "text": "copy.",
+   "start": 32.163,
+   "end": 32.56
+  },
+  {
+   "text": "Want",
+   "start": 33.01,
+   "end": 33.218
+  },
+  {
+   "text": "my",
+   "start": 33.238,
+   "end": 33.447
+  },
+  {
+   "text": "exact",
+   "start": 33.467,
+   "end": 33.818
+  },
+  {
+   "text": "prompt?",
+   "start": 33.838,
+   "end": 34.16
+  },
+  {
+   "text": "Comment",
+   "start": 34.44,
+   "end": 34.754
+  },
+  {
+   "text": "prompt",
+   "start": 34.774,
+   "end": 34.96
+  },
+  {
+   "text": "and",
+   "start": 34.98,
+   "end": 35.165
+  },
+  {
+   "text": "I'll",
+   "start": 35.185,
+   "end": 35.371
+  },
+  {
+   "text": "send",
+   "start": 35.391,
+   "end": 35.576
+  },
+  {
+   "text": "it",
+   "start": 35.596,
+   "end": 35.782
+  },
+  {
+   "text": "free.",
+   "start": 35.802,
+   "end": 36.09
+  }
+ ],
+ "provider": "runs"
+}

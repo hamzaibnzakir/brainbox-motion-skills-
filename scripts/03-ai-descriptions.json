@@ -17,7 +17,7 @@
       "bg": "ink", "bix": "talk",
       "headline": "Steal my *prompt*",
       "visual": { "type": "icon", "icon": "wand", "badge": "check", "badgeTone": "good", "badgeAt": "prompt" },
-      "stamp": { "text": "COPY-PASTE PROMPT", "at": "exact", "y": 860 },
+      "stamp": { "text": "COPY-PASTE", "at": "exact", "y": 860 },
       "say": "Here's my *exact* prompt."
     },
     {
