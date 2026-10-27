@@ -1,0 +1,107 @@
+{
+  "id": "11-mobile-speed",
+  "title": "Your store is slow on mobile. The 10-second test + 3 fixes",
+  "caption": "Free test, 3 fixes, and the AI prompt that ranks them for you. Run it on your store tonight. #pagespeed #shopify #websitetips #ecommerce",
+  "avatar": { "dir": "assets/hero" },
+  "beats": [
+    {
+      "layout": "bix", "pose": "presenting", "bg": "ink", "bix": "shock",
+      "headline": "Your store is *slow.*",
+      "chips": [
+        { "icon": "phone", "text": "Mobile buyers", "kind": "hot", "at": "phone" },
+        { "icon": "snail", "text": "Slow load", "kind": "bad", "at": "slow" }
+      ],
+      "say": "Most of your buyers shop on their *phone.* And on mobile, your store is probably slow."
+    },
+    {
+      "bg": "ink", "bix": "talk",
+      "headline": "Test it in *10 seconds*",
+      "visual": { "type": "icon", "icon": "gauge", "badge": "check", "badgeTone": "good", "badgeAt": "exact" },
+      "stamp": { "text": "FREE TEST", "at": "free", "y": 860 },
+      "say": "Here's the *free* ten-second test, and the exact fixes."
+    },
+    {
+      "layout": "punch", "bg": "neon", "bix": "serious",
+      "headline": "Slow pages | lose *buyers.*",
+      "say": "[sigh] Every extra second loses *buyers.*"
+    },
+    {
+      "bg": "ink", "bix": "shock",
+      "header": "THE *TEST*",
+      "visual": { "type": "gauge", "from": 31, "label": "Mobile score", "at": "mobile" },
+      "chips": [{ "icon": "link", "text": "pagespeed.web.dev", "at": "pagespeed" }],
+      "say": "Go to PageSpeed Insights, paste your store link, and open the *mobile* tab. Under fifty? You're leaking sales."
+    },
+    {
+      "layout": "punch", "bg": "void", "bix": "smug",
+      "header": "3 *FIXES*",
+      "headline": "The last one | nobody *checks.*",
+      "say": "Now, three fixes. The last one, nobody *checks.*"
+    },
+    {
+      "bg": "ink", "bix": "talk",
+      "header": "1 · SHRINK YOUR *IMAGES*",
+      "visual": { "type": "compare",
+        "before": ["Banner: 4 MB", "Autoplay hero video", "6-slide slideshow"],
+        "after": ["Banner: under 300 KB", "One static hero", "One strong image"],
+        "at": "kill" },
+      "say": "One. *Compress* every image before you upload it. Banners under three hundred kilobytes. Then kill the autoplay video and the six-slide slideshow. One strong image wins."
+    },
+    {
+      "bg": "ink", "bix": "serious",
+      "header": "2 · DELETE UNUSED *APPS*",
+      "visual": { "type": "checklist", "items": [
+        { "text": "Popup app you forgot", "ok": false, "at": "delete" },
+        { "text": "Old reviews widget", "ok": false, "at": "actively" },
+        { "text": "Trial upsell app", "ok": false, "at": "code" }
+      ] },
+      "say": "Two. *Delete* every app you're not actively using. Each one loads its own code on every page."
+    },
+    {
+      "layout": "punch", "bg": "void", "bix": "think",
+      "headline": "And *three?*",
+      "say": "And three?"
+    },
+    {
+      "bg": "ink", "bix": "shock",
+      "header": "3 · KILL GHOST *CODE*",
+      "visual": { "type": "icon", "icon": "bug", "tone": "bad", "badge": "x", "badgeAt": "search" },
+      "chips": [
+        { "icon": "code", "text": "Leftover code", "kind": "bad", "at": "leave" },
+        { "icon": "shield", "text": "Back up first", "kind": "hot", "at": "back" }
+      ],
+      "say": "[surprise-oh] Three. Uninstalled apps often leave code behind in your theme. *Search* your theme files for the old app's name, or ask its support to remove it. Back up your theme first."
+    },
+    {
+      "bg": "ink", "bix": "happy",
+      "header": "BONUS · *ASK AI*",
+      "visual": { "type": "prompt",
+        "prompt": "Here's my PageSpeed report. Rank the fixes by impact for a Shopify store, with steps a non-developer can follow.",
+        "at": "copy",
+        "reply": ["1. Compress the hero banner", "2. Remove 3 unused app scripts", "3. Lazy-load lower images", "4. Use 1 font, not 3"],
+        "replyAt": "rank" },
+      "say": "Bonus. *Copy* the report into any AI and ask it to rank the fixes by impact, with steps a non-developer can follow."
+    },
+    {
+      "bg": "ink", "bix": "happy",
+      "headline": "Then *re-test*",
+      "visual": { "type": "gauge", "from": 31, "to": 78, "label": "Example score", "at": "run", "at2": "watch" },
+      "say": "Then run the test again, and watch the score *climb.* [confirmation-en]"
+    },
+    {
+      "layout": "punch", "bg": "neon", "bix": "smug",
+      "headline": "Speed is a | *sales* thing.",
+      "say": "Speed isn't a tech thing. It's a *sales* thing."
+    },
+    {
+      "layout": "bix", "pose": "celebrating", "bg": "ink", "bix": "happy",
+      "label": "Run it tonight",
+      "headline": "Follow for *more*",
+      "chips": [
+        { "icon": "star", "text": "Save this", "at": "save" },
+        { "icon": "users", "text": "Follow", "kind": "hot", "at": "follow" }
+      ],
+      "say": "*Save* this, run the test tonight, and follow for more store fixes."
+    }
+  ]
+}

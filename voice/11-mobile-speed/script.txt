@@ -1,0 +1,25 @@
+Most of your buyers shop on their phone. And on mobile, your store is probably slow.
+
+Here's the free ten-second test, and the exact fixes.
+
+[sigh] Every extra second loses buyers.
+
+Go to PageSpeed Insights, paste your store link, and open the mobile tab. Under fifty? You're leaking sales.
+
+Now, three fixes. The last one, nobody checks.
+
+One. Compress every image before you upload it. Banners under three hundred kilobytes. Then kill the autoplay video and the six-slide slideshow. One strong image wins.
+
+Two. Delete every app you're not actively using. Each one loads its own code on every page.
+
+And three?
+
+[surprise-oh] Three. Uninstalled apps often leave code behind in your theme. Search your theme files for the old app's name, or ask its support to remove it. Back up your theme first.
+
+Bonus. Copy the report into any AI and ask it to rank the fixes by impact, with steps a non-developer can follow.
+
+Then run the test again, and watch the score climb. [confirmation-en]
+
+Speed isn't a tech thing. It's a sales thing.
+
+Save this, run the test tonight, and follow for more store fixes.
