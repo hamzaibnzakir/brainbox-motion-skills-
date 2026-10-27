@@ -3,324 +3,324 @@
  "words": [
   {
    "text": "People",
-   "start": 0.05,
-   "end": 0.261
+   "start": 0.06,
+   "end": 0.3
   },
   {
    "text": "don't",
-   "start": 0.281,
-   "end": 0.492
+   "start": 0.36,
+   "end": 0.5
   },
   {
    "text": "quit",
-   "start": 0.512,
-   "end": 0.723
+   "start": 0.58,
+   "end": 0.74
   },
   {
    "text": "checkout",
-   "start": 0.743,
-   "end": 1.098
+   "start": 0.8,
+   "end": 1.18
   },
   {
    "text": "because",
-   "start": 1.118,
-   "end": 1.473
+   "start": 1.26,
+   "end": 1.5
   },
   {
    "text": "of",
-   "start": 1.493,
-   "end": 1.704
+   "start": 1.58,
+   "end": 1.62
   },
   {
    "text": "price.",
-   "start": 1.724,
-   "end": 2.05
+   "start": 1.68,
+   "end": 1.96
   },
   {
    "text": "They",
-   "start": 2.2,
-   "end": 2.381
+   "start": 2.18,
+   "end": 2.28
   },
   {
    "text": "quit",
-   "start": 2.401,
-   "end": 2.581
+   "start": 2.34,
+   "end": 2.5
   },
   {
    "text": "because",
-   "start": 2.601,
-   "end": 2.907
+   "start": 2.56,
+   "end": 2.82
   },
   {
    "text": "of",
-   "start": 2.927,
-   "end": 3.108
+   "start": 2.88,
+   "end": 2.92
   },
   {
    "text": "surprises.",
-   "start": 3.128,
-   "end": 3.66
+   "start": 3.0,
+   "end": 3.56
   },
   {
    "text": "You",
-   "start": 4.07,
-   "end": 4.21
+   "start": 4.04,
+   "end": 4.1
   },
   {
    "text": "add",
-   "start": 4.23,
-   "end": 4.37
+   "start": 4.2,
+   "end": 4.3
   },
   {
    "text": "to",
-   "start": 4.39,
-   "end": 4.53
+   "start": 4.34,
+   "end": 4.4
   },
   {
    "text": "cart,",
-   "start": 4.55,
-   "end": 4.69
+   "start": 4.48,
+   "end": 4.7
   },
   {
    "text": "hit",
-   "start": 4.91,
-   "end": 5.124
+   "start": 4.86,
+   "end": 5.0
   },
   {
    "text": "checkout,",
-   "start": 5.144,
-   "end": 5.505
+   "start": 5.06,
+   "end": 5.48
   },
   {
    "text": "and",
-   "start": 5.525,
-   "end": 5.739
+   "start": 5.62,
+   "end": 5.7
   },
   {
    "text": "boom.",
-   "start": 5.759,
-   "end": 6.09
+   "start": 5.78,
+   "end": 6.0
   },
   {
    "text": "Surprise",
-   "start": 6.49,
-   "end": 6.86
+   "start": 6.52,
+   "end": 6.92
   },
   {
    "text": "shipping.",
-   "start": 6.88,
-   "end": 7.37
+   "start": 7.02,
+   "end": 7.34
   },
   {
    "text": "Surprises",
-   "start": 9.08,
-   "end": 9.604
+   "start": 9.12,
+   "end": 9.64
   },
   {
    "text": "kill",
-   "start": 9.624,
-   "end": 9.846
+   "start": 9.72,
+   "end": 9.9
   },
   {
    "text": "sales.",
-   "start": 9.866,
-   "end": 10.36
+   "start": 10.0,
+   "end": 10.28
   },
   {
    "text": "Two",
-   "start": 10.65,
-   "end": 10.841
+   "start": 10.66,
+   "end": 10.78
   },
   {
    "text": "easy",
-   "start": 10.861,
-   "end": 11.184
+   "start": 10.92,
+   "end": 11.12
   },
   {
    "text": "fixes.",
-   "start": 11.204,
-   "end": 11.632
+   "start": 11.2,
+   "end": 11.56
   },
   {
    "text": "Pick",
-   "start": 11.652,
-   "end": 11.843
+   "start": 11.68,
+   "end": 11.82
   },
   {
    "text": "one.",
-   "start": 11.863,
-   "end": 12.16
+   "start": 12.02,
+   "end": 12.1
   },
   {
    "text": "One:",
-   "start": 12.51,
-   "end": 12.831
+   "start": 12.66,
+   "end": 12.74
   },
   {
    "text": "show",
-   "start": 12.851,
-   "end": 13.058
+   "start": 13.12,
+   "end": 13.26
   },
   {
    "text": "shipping",
-   "start": 13.078,
-   "end": 13.428
+   "start": 13.36,
+   "end": 13.64
   },
   {
    "text": "right",
-   "start": 13.448,
-   "end": 13.655
+   "start": 13.72,
+   "end": 13.86
   },
   {
    "text": "on",
-   "start": 13.675,
-   "end": 13.882
+   "start": 13.92,
+   "end": 13.96
   },
   {
    "text": "the",
-   "start": 13.902,
-   "end": 14.11
+   "start": 14.0,
+   "end": 14.06
   },
   {
    "text": "product",
-   "start": 14.13,
-   "end": 14.479
+   "start": 14.1,
+   "end": 14.42
   },
   {
    "text": "page.",
-   "start": 14.499,
-   "end": 14.82
+   "start": 14.48,
+   "end": 14.74
   },
   {
    "text": "Two:",
-   "start": 15.14,
-   "end": 15.469
+   "start": 15.16,
+   "end": 15.32
   },
   {
    "text": "build",
-   "start": 15.489,
-   "end": 15.701
+   "start": 15.66,
+   "end": 15.84
   },
   {
    "text": "it",
-   "start": 15.721,
-   "end": 15.934
+   "start": 15.92,
+   "end": 15.96
   },
   {
    "text": "into",
-   "start": 15.954,
-   "end": 16.311
+   "start": 16.02,
+   "end": 16.18
   },
   {
    "text": "the",
-   "start": 16.331,
-   "end": 16.544
+   "start": 16.22,
+   "end": 16.3
   },
   {
    "text": "price,",
-   "start": 16.564,
-   "end": 16.776
+   "start": 16.34,
+   "end": 16.64
   },
   {
    "text": "and",
-   "start": 16.796,
-   "end": 17.009
+   "start": 16.88,
+   "end": 16.94
   },
   {
    "text": "call",
-   "start": 17.029,
-   "end": 17.241
+   "start": 17.0,
+   "end": 17.18
   },
   {
    "text": "it",
-   "start": 17.261,
-   "end": 17.474
+   "start": 17.24,
+   "end": 17.3
   },
   {
    "text": "free",
-   "start": 17.494,
-   "end": 17.706
+   "start": 17.4,
+   "end": 17.58
   },
   {
    "text": "shipping.",
-   "start": 17.726,
-   "end": 18.2
+   "start": 17.68,
+   "end": 18.0
   },
   {
    "text": "No",
-   "start": 18.41,
-   "end": 18.635
+   "start": 18.46,
+   "end": 18.54
   },
   {
    "text": "surprises.",
-   "start": 18.655,
-   "end": 19.31
+   "start": 18.64,
+   "end": 19.2
   },
   {
    "text": "More",
-   "start": 19.71,
-   "end": 19.902
+   "start": 19.76,
+   "end": 19.94
   },
   {
    "text": "sales.",
-   "start": 19.922,
-   "end": 20.351
+   "start": 20.04,
+   "end": 20.38
   },
   {
    "text": "Save",
-   "start": 21.04,
-   "end": 21.286
+   "start": 21.56,
+   "end": 21.74
   },
   {
    "text": "this",
-   "start": 21.306,
-   "end": 21.552
+   "start": 21.8,
+   "end": 21.9
   },
   {
    "text": "for",
-   "start": 21.572,
-   "end": 21.819
+   "start": 21.96,
+   "end": 22.04
   },
   {
    "text": "your",
-   "start": 21.839,
-   "end": 22.085
+   "start": 22.12,
+   "end": 22.2
   },
   {
    "text": "next",
-   "start": 22.105,
-   "end": 22.351
+   "start": 22.24,
+   "end": 22.38
   },
   {
    "text": "store",
-   "start": 22.371,
-   "end": 22.617
+   "start": 22.44,
+   "end": 22.66
   },
   {
    "text": "update,",
-   "start": 22.637,
-   "end": 23.05
+   "start": 22.72,
+   "end": 23.04
   },
   {
    "text": "and",
-   "start": 23.33,
-   "end": 23.521
+   "start": 23.34,
+   "end": 23.42
   },
   {
    "text": "follow",
-   "start": 23.541,
-   "end": 23.863
+   "start": 23.5,
+   "end": 23.76
   },
   {
    "text": "for",
-   "start": 23.883,
-   "end": 24.074
+   "start": 23.86,
+   "end": 23.96
   },
   {
    "text": "more.",
-   "start": 24.094,
-   "end": 24.39
+   "start": 24.04,
+   "end": 24.24
   }
  ],
- "provider": "runs"
+ "provider": "ctc-forced"
 }

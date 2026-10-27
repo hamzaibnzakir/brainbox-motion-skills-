@@ -3,504 +3,504 @@
  "words": [
   {
    "text": "This",
-   "start": 0.05,
-   "end": 0.302
+   "start": 0.04,
+   "end": 0.18
   },
   {
    "text": "store",
-   "start": 0.322,
-   "end": 0.575
+   "start": 0.22,
+   "end": 0.54
   },
   {
    "text": "gets",
-   "start": 0.595,
-   "end": 0.847
+   "start": 0.64,
+   "end": 0.8
   },
   {
    "text": "traffic...",
-   "start": 0.867,
-   "end": 1.29
+   "start": 0.88,
+   "end": 1.3
   },
   {
    "text": "but",
-   "start": 1.95,
-   "end": 2.156
+   "start": 2.02,
+   "end": 2.18
   },
   {
    "text": "zero",
-   "start": 2.176,
-   "end": 2.523
+   "start": 2.36,
+   "end": 2.56
   },
   {
    "text": "sales.",
-   "start": 2.543,
-   "end": 2.89
+   "start": 2.66,
+   "end": 2.88
   },
   {
    "text": "Let",
-   "start": 2.93,
-   "end": 3.105
+   "start": 2.94,
+   "end": 3.0
   },
   {
    "text": "me",
-   "start": 3.125,
-   "end": 3.3
+   "start": 3.06,
+   "end": 3.1
   },
   {
    "text": "find",
-   "start": 3.32,
-   "end": 3.496
+   "start": 3.18,
+   "end": 3.36
   },
   {
    "text": "the",
-   "start": 3.516,
-   "end": 3.691
+   "start": 3.42,
+   "end": 3.48
   },
   {
    "text": "leaks",
-   "start": 3.711,
-   "end": 3.886
+   "start": 3.56,
+   "end": 3.86
   },
   {
    "text": "in",
-   "start": 3.906,
-   "end": 4.081
+   "start": 4.18,
+   "end": 4.22
   },
   {
    "text": "60",
-   "start": 4.101,
-   "end": 4.643
+   "start": 4.32,
+   "end": 4.56
   },
   {
    "text": "seconds.",
-   "start": 4.663,
-   "end": 4.96
+   "start": 4.66,
+   "end": 5.44
   },
   {
    "text": "This",
-   "start": 5.47,
-   "end": 5.709
+   "start": 5.46,
+   "end": 5.62
   },
   {
    "text": "store",
-   "start": 5.729,
-   "end": 5.969
+   "start": 5.68,
+   "end": 6.04
   },
   {
    "text": "is",
-   "start": 5.989,
-   "end": 6.228
+   "start": 6.26,
+   "end": 6.3
   },
   {
    "text": "a",
-   "start": 6.248,
-   "end": 6.487
+   "start": 6.42,
+   "end": 6.44
   },
   {
    "text": "leaky",
-   "start": 6.507,
-   "end": 6.909
+   "start": 6.56,
+   "end": 6.82
   },
   {
    "text": "bucket.",
-   "start": 6.929,
-   "end": 7.33
+   "start": 6.98,
+   "end": 7.34
   },
   {
    "text": "Three",
-   "start": 8.1,
-   "end": 8.45
+   "start": 8.099,
+   "end": 8.24
   },
   {
    "text": "leaks.",
-   "start": 8.47,
+   "start": 8.38,
    "end": 8.82
   },
   {
    "text": "The",
    "start": 9.36,
-   "end": 9.564
+   "end": 9.42
   },
   {
    "text": "last",
-   "start": 9.584,
-   "end": 9.788
+   "start": 9.5,
+   "end": 9.72
   },
   {
    "text": "one's",
-   "start": 9.808,
-   "end": 10.152
+   "start": 9.9,
+   "end": 10.04
   },
   {
    "text": "the",
-   "start": 10.172,
-   "end": 10.376
+   "start": 10.1,
+   "end": 10.18
   },
   {
    "text": "worst.",
-   "start": 10.396,
-   "end": 10.6
+   "start": 10.28,
+   "end": 10.48
   },
   {
    "text": "One:",
-   "start": 11.57,
-   "end": 11.834
+   "start": 11.82,
+   "end": 11.94
   },
   {
    "text": "the",
-   "start": 11.854,
-   "end": 12.119
+   "start": 12.22,
+   "end": 12.3
   },
   {
    "text": "headline",
-   "start": 12.139,
-   "end": 12.581
+   "start": 12.4,
+   "end": 12.82
   },
   {
    "text": "says",
-   "start": 12.601,
-   "end": 12.866
+   "start": 12.94,
+   "end": 13.14
   },
   {
    "text": "elevate",
-   "start": 12.886,
-   "end": 13.506
+   "start": 13.34,
+   "end": 13.66
   },
   {
    "text": "your",
-   "start": 13.526,
-   "end": 13.79
+   "start": 13.7,
+   "end": 13.82
   },
   {
    "text": "lifestyle.",
-   "start": 13.81,
-   "end": 14.43
+   "start": 13.88,
+   "end": 14.38
   },
   {
    "text": "What",
    "start": 14.7,
-   "end": 15.088
+   "end": 14.82
   },
   {
    "text": "do",
-   "start": 15.107,
-   "end": 15.495
+   "start": 14.88,
+   "end": 14.92
   },
   {
    "text": "they",
-   "start": 15.515,
-   "end": 15.902
+   "start": 14.96,
+   "end": 15.06
   },
   {
    "text": "sell?",
-   "start": 15.922,
-   "end": 16.31
+   "start": 15.1,
+   "end": 15.22
   },
   {
    "text": "It",
-   "start": 17.27,
-   "end": 17.54
+   "start": 15.26,
+   "end": 15.34
   },
   {
    "text": "says",
-   "start": 17.87,
-   "end": 18.04
+   "start": 15.5,
+   "end": 15.8
   },
   {
    "text": "nothing.",
-   "start": 18.06,
-   "end": 18.35
+   "start": 15.96,
+   "end": 16.22
   },
   {
    "text": "Two:",
-   "start": 18.63,
-   "end": 19.13
+   "start": 17.26,
+   "end": 17.42
   },
   {
    "text": "shipping",
-   "start": 19.51,
-   "end": 19.755
+   "start": 17.9,
+   "end": 18.26
   },
   {
    "text": "only",
-   "start": 19.775,
-   "end": 20.02
+   "start": 18.74,
+   "end": 18.98
   },
   {
    "text": "shows",
-   "start": 20.38,
-   "end": 20.62
+   "start": 19.54,
+   "end": 19.8
   },
   {
    "text": "up",
-   "start": 20.9,
-   "end": 21.07
+   "start": 19.94,
+   "end": 20.02
   },
   {
    "text": "at",
-   "start": 21.09,
-   "end": 21.261
+   "start": 20.52,
+   "end": 20.58
   },
   {
    "text": "checkout.",
-   "start": 21.281,
-   "end": 21.57
+   "start": 20.96,
+   "end": 21.38
   },
   {
    "text": "Surprise",
-   "start": 21.83,
-   "end": 22.278
+   "start": 21.5,
+   "end": 22.3
   },
   {
    "text": "fees",
-   "start": 22.298,
-   "end": 22.566
+   "start": 22.4,
+   "end": 22.58
   },
   {
    "text": "make",
-   "start": 22.586,
-   "end": 22.854
+   "start": 22.68,
+   "end": 22.84
   },
   {
    "text": "people",
-   "start": 22.874,
-   "end": 23.142
+   "start": 22.88,
+   "end": 23.14
   },
   {
    "text": "leave.",
-   "start": 23.162,
-   "end": 23.43
+   "start": 23.22,
+   "end": 23.4
   },
   {
    "text": "And",
-   "start": 23.68,
-   "end": 23.92
+   "start": 23.72,
+   "end": 23.78
   },
   {
    "text": "three?",
-   "start": 23.94,
-   "end": 24.18
+   "start": 23.82,
+   "end": 24.08
   },
   {
    "text": "Three:",
-   "start": 24.93,
-   "end": 25.139
+   "start": 24.96,
+   "end": 25.1
   },
   {
    "text": "it",
-   "start": 25.159,
-   "end": 25.368
+   "start": 25.46,
+   "end": 25.5
   },
   {
    "text": "takes",
-   "start": 25.388,
-   "end": 25.74
+   "start": 25.56,
+   "end": 25.76
   },
   {
    "text": "six",
-   "start": 25.76,
-   "end": 25.969
+   "start": 25.8,
+   "end": 25.94
   },
   {
    "text": "seconds",
-   "start": 25.989,
-   "end": 26.341
+   "start": 26.02,
+   "end": 26.38
   },
   {
    "text": "to",
-   "start": 26.361,
-   "end": 26.57
+   "start": 26.4,
+   "end": 26.52
   },
   {
    "text": "load",
-   "start": 26.59,
-   "end": 26.799
+   "start": 26.66,
+   "end": 26.88
   },
   {
    "text": "on",
-   "start": 26.819,
-   "end": 27.028
+   "start": 26.94,
+   "end": 26.98
   },
   {
    "text": "mobile.",
-   "start": 27.048,
-   "end": 27.4
+   "start": 27.08,
+   "end": 27.36
   },
   {
    "text": "Half",
-   "start": 28.13,
-   "end": 28.454
+   "start": 28.18,
+   "end": 28.36
   },
   {
    "text": "the",
-   "start": 28.474,
-   "end": 28.798
+   "start": 28.44,
+   "end": 28.52
   },
   {
    "text": "visitors",
-   "start": 28.818,
-   "end": 29.572
+   "start": 28.58,
+   "end": 28.94
   },
   {
    "text": "are",
-   "start": 29.592,
-   "end": 29.916
+   "start": 29.02,
+   "end": 29.1
   },
   {
    "text": "gone.",
-   "start": 29.936,
-   "end": 30.26
+   "start": 29.14,
+   "end": 29.34
   },
   {
    "text": "The",
-   "start": 30.51,
-   "end": 30.899
+   "start": 29.74,
+   "end": 29.9
   },
   {
    "text": "fix:",
-   "start": 30.919,
-   "end": 31.308
+   "start": 30.7,
+   "end": 30.88
   },
   {
    "text": "a",
-   "start": 31.328,
-   "end": 31.717
+   "start": 31.1,
+   "end": 31.12
   },
   {
    "text": "clear",
-   "start": 31.737,
-   "end": 32.126
+   "start": 31.2,
+   "end": 31.36
   },
   {
    "text": "headline,",
-   "start": 32.146,
-   "end": 32.79
+   "start": 31.42,
+   "end": 31.8
   },
   {
    "text": "shipping",
-   "start": 33.11,
-   "end": 33.33
+   "start": 32.12,
+   "end": 32.48
   },
   {
    "text": "upfront,",
-   "start": 33.35,
-   "end": 33.57
+   "start": 32.7,
+   "end": 33.46
   },
   {
    "text": "and",
-   "start": 34.13,
-   "end": 34.348
+   "start": 34.18,
+   "end": 34.24
   },
   {
    "text": "compress",
-   "start": 34.368,
-   "end": 34.736
+   "start": 34.3,
+   "end": 34.76
   },
   {
    "text": "your",
-   "start": 34.756,
-   "end": 34.974
+   "start": 34.84,
+   "end": 34.98
   },
   {
    "text": "images.",
-   "start": 34.994,
-   "end": 35.51
+   "start": 35.08,
+   "end": 35.84
   },
   {
    "text": "Still",
-   "start": 35.83,
-   "end": 36.405
+   "start": 35.9,
+   "end": 36.42
   },
   {
    "text": "buying",
-   "start": 36.425,
+   "start": 36.64,
    "end": 37.0
   },
   {
    "text": "more",
-   "start": 37.02,
-   "end": 37.595
+   "start": 37.06,
+   "end": 37.2
   },
   {
    "text": "ads?",
-   "start": 37.615,
-   "end": 38.19
+   "start": 37.34,
+   "end": 37.54
   },
   {
    "text": "That's",
-   "start": 38.7,
-   "end": 38.984
+   "start": 37.8,
+   "end": 38.06
   },
   {
    "text": "burning",
-   "start": 39.004,
-   "end": 39.477
+   "start": 38.78,
+   "end": 39.14
   },
   {
    "text": "money.",
-   "start": 39.497,
-   "end": 39.97
+   "start": 39.22,
+   "end": 39.46
   },
   {
    "text": "Want",
-   "start": 40.39,
-   "end": 40.676
+   "start": 40.44,
+   "end": 40.66
   },
   {
    "text": "yours",
-   "start": 40.696,
-   "end": 40.982
+   "start": 40.82,
+   "end": 41.1
   },
   {
    "text": "checked?",
-   "start": 41.002,
-   "end": 41.48
+   "start": 41.22,
+   "end": 41.52
   },
   {
    "text": "Comment",
-   "start": 41.87,
-   "end": 42.237
+   "start": 41.88,
+   "end": 42.26
   },
   {
    "text": "audit",
-   "start": 42.257,
-   "end": 42.624
+   "start": 42.64,
+   "end": 42.9
   },
   {
    "text": "and",
-   "start": 42.644,
-   "end": 42.862
+   "start": 43.1,
+   "end": 43.18
   },
   {
    "text": "I'll",
-   "start": 42.882,
-   "end": 43.1
+   "start": 43.26,
+   "end": 43.34
   },
   {
    "text": "look",
-   "start": 43.12,
-   "end": 43.338
+   "start": 43.36,
+   "end": 43.54
   },
   {
    "text": "at",
-   "start": 43.358,
-   "end": 43.576
+   "start": 43.62,
+   "end": 43.72
   },
   {
    "text": "it",
-   "start": 43.596,
-   "end": 43.814
+   "start": 43.74,
+   "end": 43.8
   },
   {
    "text": "for",
-   "start": 43.834,
-   "end": 44.052
+   "start": 43.88,
+   "end": 43.98
   },
   {
    "text": "free.",
-   "start": 44.072,
-   "end": 44.29
+   "start": 44.08,
+   "end": 44.24
   }
  ],
- "provider": "file-aligned"
+ "provider": "ctc-forced"
 }

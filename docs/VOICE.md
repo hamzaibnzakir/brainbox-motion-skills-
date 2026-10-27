@@ -12,16 +12,15 @@ The host's voice is a **voice clone in your voice studio**. Use the same clone a
    - **Best:** one audio file per line, which gives perfect timing.
    - **Fine:** one long file with natural pauses between lines.
 3. Save the audio as `voice/03-name/voice.wav`
-4. Align the words to the audio:
+4. Align the words to the audio with **forced alignment** (the accurate method, ~20 ms precision):
    ```bash
-   python3 tools/align.py scripts/03-name.json voice/03-name/voice.wav voice/03-name/words.json
+   pip install onnxruntime numpy        # once
+   python3 tools/align_ctc.py scripts/03-name.json voice/03-name/voice.wav voice/03-name/words.json
    ```
-   It prints each phrase with its time range. Skim it against the audio. If phrases got merged or split wrongly (fast delivery with tiny pauses), write the phrases into `voice/<id>/runs.txt` as `start end text` lines (see `voice/03-ai-descriptions/runs.txt`) and run
-   `python3 tools/words_from_runs.py scripts/<id>.json voice/<id>/runs.txt voice/<id>/words.json`.
-   **Smooth, pause-free deliveries** (long runs with only tiny breaths) work better with
-   `python3 tools/align_speech.py scripts/<id>.json voice/<id>/voice.wav voice/<id>/words.json`.
-   It anchors on the few real pauses, spreads syllables over the actual speaking time, and snaps line starts to breaths.
-   **Most reliable for this voice clone:** `python3 tools/align_peaks.py scripts/<id>.json voice/<id>/voice.wav voice/<id>/words.json`. It locks lines to real pauses, then maps syllable counts onto detected syllable peaks between them. To hand-fix a couple of boundaries: `python3 tools/runs_from_words.py scripts/<id>.json voice/<id>/words.json > voice/<id>/runs.txt`, edit the times, then run `words_from_runs.py`.
+   A wav2vec2 speech model (downloaded once from Hugging Face, ~95 MB) listens to the voice and pins every script word to the moment it's spoken. Words are also snapped out of real silences. It prints each line with its time range.
+   - Verify a stretch: `python3 tools/transcribe.py voice/03-name/voice.wav 10 20` prints what the model hears, with timestamps.
+   - Hand-fix a boundary: `python3 tools/runs_from_words.py scripts/03-name.json voice/03-name/words.json > voice/03-name/runs.txt`, edit, then `python3 tools/words_from_runs.py …`.
+   - **Don't assume pauses are line breaks.** The clone often pauses mid-line ("Under fifty? … You're leaking sales."). That assumption caused 1–3 s drift in early renders of videos 08, 10 and 11. The older pause-based tools (`align.py`, `align_peaks.py`, `align_speech.py`) are kept only as fallbacks.
 5. Render. The renderer picks up `voice/03-name/` automatically:
    ```bash
    node tools/render.mjs scripts/03-name.json

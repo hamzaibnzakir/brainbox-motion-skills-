@@ -3,429 +3,429 @@
  "words": [
   {
    "text": "Want",
-   "start": 0.05,
-   "end": 0.223
+   "start": 0.08,
+   "end": 0.22
   },
   {
    "text": "your",
-   "start": 0.243,
-   "end": 0.415
+   "start": 0.28,
+   "end": 0.38
   },
   {
    "text": "competitor's",
-   "start": 0.435,
-   "end": 0.968
+   "start": 0.42,
+   "end": 0.92
   },
   {
    "text": "best",
-   "start": 0.988,
-   "end": 1.161
+   "start": 0.98,
+   "end": 1.16
   },
   {
    "text": "seller?",
-   "start": 1.181,
-   "end": 1.57
+   "start": 1.22,
+   "end": 1.5
   },
   {
    "text": "They'll",
-   "start": 1.8,
-   "end": 1.969
+   "start": 1.78,
+   "end": 2.0
   },
   {
    "text": "tell",
-   "start": 1.989,
-   "end": 2.157
+   "start": 2.04,
+   "end": 2.2
   },
   {
    "text": "you.",
-   "start": 2.177,
-   "end": 2.44
+   "start": 2.26,
+   "end": 2.36
   },
   {
    "text": "No",
-   "start": 2.79,
-   "end": 3.067
+   "start": 2.82,
+   "end": 2.92
   },
   {
    "text": "spy",
-   "start": 3.087,
-   "end": 3.364
+   "start": 3.04,
+   "end": 3.26
   },
   {
    "text": "tools.",
-   "start": 3.384,
-   "end": 3.81
+   "start": 3.38,
+   "end": 3.7
   },
   {
    "text": "Just",
    "start": 3.94,
-   "end": 4.184
+   "end": 4.12
   },
   {
    "text": "the",
-   "start": 4.204,
-   "end": 4.449
+   "start": 4.16,
+   "end": 4.22
   },
   {
    "text": "URL",
-   "start": 4.469,
-   "end": 4.713
+   "start": 4.36,
+   "end": 4.74
   },
   {
    "text": "bar.",
-   "start": 4.733,
-   "end": 5.11
+   "start": 4.82,
+   "end": 5.0
   },
   {
    "text": "Stop",
-   "start": 5.32,
-   "end": 5.556
+   "start": 5.38,
+   "end": 5.56
   },
   {
    "text": "guessing",
-   "start": 5.576,
-   "end": 5.971
+   "start": 5.66,
+   "end": 5.94
   },
   {
    "text": "what",
-   "start": 5.991,
-   "end": 6.227
+   "start": 5.98,
+   "end": 6.1
   },
   {
    "text": "sells.",
-   "start": 6.247,
-   "end": 6.61
+   "start": 6.18,
+   "end": 6.52
   },
   {
    "text": "Three",
-   "start": 6.74,
-   "end": 6.896
+   "start": 6.7,
+   "end": 6.86
   },
   {
    "text": "steps.",
-   "start": 6.916,
-   "end": 7.16
+   "start": 6.94,
+   "end": 7.26
   },
   {
    "text": "Step",
-   "start": 7.27,
-   "end": 7.451
+   "start": 7.52,
+   "end": 7.68
   },
   {
    "text": "three",
-   "start": 7.471,
-   "end": 7.653
+   "start": 7.76,
+   "end": 7.92
   },
   {
    "text": "saves",
-   "start": 7.673,
-   "end": 7.98
+   "start": 8.0,
+   "end": 8.2
   },
   {
    "text": "you",
-   "start": 8.0,
-   "end": 8.182
+   "start": 8.24,
+   "end": 8.32
   },
   {
    "text": "money.",
-   "start": 8.202,
-   "end": 8.61
+   "start": 8.38,
+   "end": 8.56
   },
   {
    "text": "One:",
-   "start": 8.93,
-   "end": 9.28
+   "start": 9.08,
+   "end": 9.2
   },
   {
    "text": "open",
-   "start": 9.53,
-   "end": 9.857
+   "start": 9.58,
+   "end": 9.74
   },
   {
    "text": "their",
-   "start": 9.877,
-   "end": 10.07
+   "start": 9.78,
+   "end": 9.92
   },
   {
    "text": "all",
-   "start": 10.09,
-   "end": 10.283
+   "start": 9.98,
+   "end": 10.1
   },
   {
    "text": "products",
-   "start": 10.303,
-   "end": 10.63
+   "start": 10.16,
+   "end": 10.52
   },
   {
    "text": "page.",
-   "start": 10.65,
-   "end": 10.95
+   "start": 10.58,
+   "end": 10.86
   },
   {
    "text": "Two:",
    "start": 11.22,
-   "end": 11.558
+   "end": 11.36
   },
   {
    "text": "sort",
-   "start": 11.578,
-   "end": 11.796
+   "start": 11.76,
+   "end": 11.94
   },
   {
    "text": "by",
-   "start": 11.816,
-   "end": 12.035
+   "start": 12.02,
+   "end": 12.1
   },
   {
    "text": "best",
-   "start": 12.055,
-   "end": 12.273
+   "start": 12.18,
+   "end": 12.36
   },
   {
    "text": "selling.",
-   "start": 12.293,
-   "end": 12.78
+   "start": 12.4,
+   "end": 12.7
   },
   {
    "text": "The",
-   "start": 13.12,
-   "end": 13.288
+   "start": 12.78,
+   "end": 13.16
   },
   {
    "text": "first",
-   "start": 13.308,
-   "end": 13.477
+   "start": 13.22,
+   "end": 13.4
   },
   {
    "text": "products",
-   "start": 13.497,
-   "end": 13.783
+   "start": 13.46,
+   "end": 13.8
   },
   {
    "text": "are",
-   "start": 13.803,
-   "end": 13.971
+   "start": 13.88,
+   "end": 13.96
   },
   {
    "text": "their",
-   "start": 13.991,
-   "end": 14.16
+   "start": 14.0,
+   "end": 14.12
   },
   {
    "text": "winners.",
    "start": 14.18,
-   "end": 14.56
+   "end": 14.46
   },
   {
    "text": "And",
-   "start": 14.92,
-   "end": 15.12
+   "start": 14.96,
+   "end": 15.04
   },
   {
    "text": "three?",
-   "start": 15.14,
-   "end": 15.45
+   "start": 15.1,
+   "end": 15.34
   },
   {
    "text": "Three:",
-   "start": 16.59,
-   "end": 16.92
+   "start": 16.56,
+   "end": 16.8
   },
   {
    "text": "search",
-   "start": 17.22,
-   "end": 17.426
+   "start": 17.3,
+   "end": 17.52
   },
   {
    "text": "those",
-   "start": 17.446,
-   "end": 17.652
+   "start": 17.66,
+   "end": 17.86
   },
   {
    "text": "products",
-   "start": 17.672,
-   "end": 18.02
+   "start": 17.96,
+   "end": 18.34
   },
   {
    "text": "in",
-   "start": 18.04,
-   "end": 18.246
+   "start": 18.38,
+   "end": 18.42
   },
   {
    "text": "the",
-   "start": 18.266,
-   "end": 18.472
+   "start": 18.48,
+   "end": 18.56
   },
   {
    "text": "Ad",
-   "start": 18.492,
-   "end": 18.698
+   "start": 18.64,
+   "end": 18.74
   },
   {
    "text": "Library.",
-   "start": 18.718,
-   "end": 19.32
+   "start": 18.82,
+   "end": 19.24
   },
   {
    "text": "Running",
-   "start": 19.57,
-   "end": 19.961
+   "start": 19.6,
+   "end": 19.84
   },
   {
    "text": "ads?",
-   "start": 19.981,
-   "end": 20.34
+   "start": 20.02,
+   "end": 20.22
   },
   {
    "text": "Winner",
-   "start": 20.73,
-   "end": 20.881
+   "start": 20.76,
+   "end": 20.98
   },
   {
    "text": "confirmed.",
-   "start": 20.901,
-   "end": 21.17
+   "start": 21.04,
+   "end": 21.52
   },
   {
    "text": "Don't",
-   "start": 22.05,
-   "end": 22.297
+   "start": 22.48,
+   "end": 22.66
   },
   {
    "text": "copy",
-   "start": 22.317,
-   "end": 22.73
+   "start": 22.74,
+   "end": 23.02
   },
   {
    "text": "it.",
-   "start": 22.75,
-   "end": 23.13
+   "start": 23.08,
+   "end": 23.12
   },
   {
    "text": "Read",
-   "start": 23.64,
-   "end": 23.833
+   "start": 23.66,
+   "end": 23.78
   },
   {
    "text": "their",
-   "start": 23.853,
-   "end": 24.046
+   "start": 23.8,
+   "end": 23.92
   },
   {
    "text": "one-star",
-   "start": 24.066,
-   "end": 24.524
+   "start": 24.0,
+   "end": 24.36
   },
   {
    "text": "reviews,",
-   "start": 24.544,
-   "end": 24.87
+   "start": 24.42,
+   "end": 24.78
   },
   {
    "text": "find",
-   "start": 25.21,
-   "end": 25.424
+   "start": 25.2,
+   "end": 25.38
   },
   {
    "text": "the",
-   "start": 25.444,
-   "end": 25.659
+   "start": 25.44,
+   "end": 25.5
   },
   {
    "text": "complaint,",
-   "start": 25.679,
-   "end": 26.04
+   "start": 25.54,
+   "end": 26.02
   },
   {
    "text": "and",
-   "start": 26.42,
-   "end": 26.607
+   "start": 26.46,
+   "end": 26.54
   },
   {
    "text": "fix",
-   "start": 26.627,
-   "end": 26.815
+   "start": 26.64,
+   "end": 26.76
   },
   {
    "text": "it",
-   "start": 26.835,
-   "end": 27.022
+   "start": 26.92,
+   "end": 26.96
   },
   {
    "text": "in",
-   "start": 27.042,
-   "end": 27.229
+   "start": 27.02,
+   "end": 27.06
   },
   {
    "text": "yours.",
-   "start": 27.249,
-   "end": 27.54
+   "start": 27.12,
+   "end": 27.38
   },
   {
    "text": "Their",
-   "start": 27.78,
-   "end": 27.888
+   "start": 27.76,
+   "end": 27.9
   },
   {
    "text": "research.",
-   "start": 27.908,
-   "end": 28.16
+   "start": 27.96,
+   "end": 28.38
   },
   {
    "text": "Your",
-   "start": 28.18,
-   "end": 28.288
+   "start": 28.8,
+   "end": 28.96
   },
   {
    "text": "win.",
-   "start": 28.308,
-   "end": 28.48
+   "start": 29.06,
+   "end": 29.24
   },
   {
    "text": "Follow",
-   "start": 29.58,
-   "end": 30.018
+   "start": 30.4,
+   "end": 30.66
   },
   {
    "text": "for",
-   "start": 30.038,
-   "end": 30.299
+   "start": 30.72,
+   "end": 30.82
   },
   {
    "text": "more",
-   "start": 30.319,
-   "end": 30.581
+   "start": 30.88,
+   "end": 31.02
   },
   {
    "text": "competitor",
-   "start": 30.601,
-   "end": 31.391
+   "start": 31.08,
+   "end": 31.54
   },
   {
    "text": "tricks,",
-   "start": 31.411,
-   "end": 31.672
+   "start": 31.6,
+   "end": 31.84
   },
   {
    "text": "and",
-   "start": 31.692,
-   "end": 31.954
+   "start": 32.12,
+   "end": 32.2
   },
   {
    "text": "save",
-   "start": 31.974,
-   "end": 32.236
+   "start": 32.24,
+   "end": 32.44
   },
   {
    "text": "this",
-   "start": 32.256,
-   "end": 32.517
+   "start": 32.5,
+   "end": 32.62
   },
   {
    "text": "one.",
-   "start": 32.538,
-   "end": 32.94
+   "start": 32.74,
+   "end": 32.82
   }
  ],
- "provider": "runs"
+ "provider": "ctc-forced"
 }

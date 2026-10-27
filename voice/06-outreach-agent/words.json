@@ -3,484 +3,484 @@
  "words": [
   {
    "text": "I",
-   "start": 0.06,
-   "end": 0.272
+   "start": 0.1,
+   "end": 0.12
   },
   {
    "text": "wake",
-   "start": 0.292,
-   "end": 0.503
+   "start": 0.18,
+   "end": 0.36
   },
   {
    "text": "up",
-   "start": 0.523,
-   "end": 0.735
+   "start": 0.44,
+   "end": 0.48
   },
   {
    "text": "to",
-   "start": 0.755,
-   "end": 0.966
+   "start": 0.54,
+   "end": 0.62
   },
   {
    "text": "client",
-   "start": 0.986,
-   "end": 1.198
+   "start": 0.68,
+   "end": 0.94
   },
   {
    "text": "replies.",
-   "start": 1.218,
-   "end": 1.69
+   "start": 1.0,
+   "end": 1.4
   },
   {
    "text": "I",
-   "start": 1.71,
-   "end": 1.922
+   "start": 1.72,
+   "end": 1.74
   },
   {
    "text": "didn't",
-   "start": 1.942,
-   "end": 2.153
+   "start": 1.8,
+   "end": 1.98
   },
   {
    "text": "send",
-   "start": 2.173,
-   "end": 2.385
+   "start": 2.04,
+   "end": 2.24
   },
   {
    "text": "a",
-   "start": 2.405,
-   "end": 2.616
+   "start": 2.4,
+   "end": 2.42
   },
   {
    "text": "single",
-   "start": 2.636,
-   "end": 2.848
+   "start": 2.52,
+   "end": 2.8
   },
   {
    "text": "email.",
-   "start": 2.868,
-   "end": 3.34
+   "start": 2.94,
+   "end": 3.26
   },
   {
    "text": "My",
-   "start": 3.58,
-   "end": 3.744
+   "start": 3.6,
+   "end": 3.7
   },
   {
    "text": "AI",
-   "start": 3.764,
-   "end": 3.928
+   "start": 3.84,
+   "end": 4.04
   },
   {
    "text": "agent",
-   "start": 3.948,
-   "end": 4.227
+   "start": 4.14,
+   "end": 4.36
   },
   {
    "text": "does",
-   "start": 4.247,
-   "end": 4.412
+   "start": 4.42,
+   "end": 4.54
   },
   {
    "text": "it",
-   "start": 4.432,
-   "end": 4.596
+   "start": 4.58,
+   "end": 4.62
   },
   {
    "text": "while",
-   "start": 4.616,
-   "end": 4.78
+   "start": 4.66,
+   "end": 4.8
   },
   {
    "text": "I",
-   "start": 4.8,
-   "end": 4.964
+   "start": 4.86,
+   "end": 4.88
   },
   {
    "text": "sleep.",
-   "start": 4.984,
+   "start": 4.98,
    "end": 5.24
   },
   {
    "text": "And",
-   "start": 6.2,
-   "end": 6.38
+   "start": 6.24,
+   "end": 6.3
   },
   {
    "text": "no,",
-   "start": 6.4,
-   "end": 6.58
+   "start": 6.38,
+   "end": 6.48
   },
   {
    "text": "it",
-   "start": 6.69,
-   "end": 6.886
+   "start": 6.72,
+   "end": 6.76
   },
   {
    "text": "doesn't",
-   "start": 6.906,
-   "end": 7.101
+   "start": 6.82,
+   "end": 7.04
   },
   {
    "text": "use",
-   "start": 7.121,
-   "end": 7.317
+   "start": 7.18,
+   "end": 7.3
   },
   {
    "text": "templates.",
-   "start": 7.337,
-   "end": 7.91
+   "start": 7.36,
+   "end": 7.82
   },
   {
    "text": "It",
-   "start": 8.09,
-   "end": 8.314
+   "start": 8.1,
+   "end": 8.14
   },
   {
    "text": "does",
-   "start": 8.334,
-   "end": 8.559
+   "start": 8.18,
+   "end": 8.32
   },
   {
    "text": "three",
-   "start": 8.579,
-   "end": 8.803
+   "start": 8.42,
+   "end": 8.62
   },
   {
    "text": "jobs.",
-   "start": 8.823,
-   "end": 9.17
+   "start": 8.7,
+   "end": 9.08
   },
   {
    "text": "The",
-   "start": 9.5,
-   "end": 9.693
+   "start": 9.48,
+   "end": 9.54
   },
   {
    "text": "last",
-   "start": 9.713,
-   "end": 9.907
+   "start": 9.6,
+   "end": 9.82
   },
   {
    "text": "one's",
-   "start": 9.927,
-   "end": 10.253
+   "start": 10.02,
+   "end": 10.2
   },
   {
    "text": "the",
-   "start": 10.273,
-   "end": 10.467
+   "start": 10.36,
+   "end": 10.44
   },
   {
    "text": "magic.",
-   "start": 10.487,
-   "end": 10.92
+   "start": 10.5,
+   "end": 10.82
   },
   {
    "text": "One:",
-   "start": 11.17,
-   "end": 11.52
+   "start": 11.34,
+   "end": 11.44
   },
   {
    "text": "it",
-   "start": 11.83,
-   "end": 12.023
+   "start": 11.84,
+   "end": 11.88
   },
   {
    "text": "finds",
-   "start": 12.043,
-   "end": 12.237
+   "start": 11.96,
+   "end": 12.18
   },
   {
    "text": "stores",
-   "start": 12.257,
-   "end": 12.583
+   "start": 12.2,
+   "end": 12.46
   },
   {
    "text": "that",
-   "start": 12.603,
-   "end": 12.797
+   "start": 12.5,
+   "end": 12.6
   },
   {
    "text": "match",
-   "start": 12.817,
-   "end": 13.01
+   "start": 12.64,
+   "end": 12.8
   },
   {
    "text": "my",
-   "start": 13.03,
-   "end": 13.223
+   "start": 12.9,
+   "end": 12.98
   },
   {
    "text": "ideal",
-   "start": 13.243,
-   "end": 13.57
+   "start": 13.1,
+   "end": 13.36
   },
   {
    "text": "client.",
-   "start": 13.59,
-   "end": 13.89
+   "start": 13.46,
+   "end": 13.8
   },
   {
    "text": "Two:",
-   "start": 14.49,
-   "end": 14.837
+   "start": 14.5,
+   "end": 14.66
   },
   {
    "text": "it",
-   "start": 14.857,
-   "end": 15.081
+   "start": 15.02,
+   "end": 15.06
   },
   {
    "text": "audits",
-   "start": 15.101,
-   "end": 15.479
+   "start": 15.18,
+   "end": 15.44
   },
   {
    "text": "each",
-   "start": 15.499,
-   "end": 15.723
+   "start": 15.54,
+   "end": 15.66
   },
   {
    "text": "store.",
-   "start": 15.743,
-   "end": 16.09
+   "start": 15.74,
+   "end": 16.02
   },
   {
    "text": "Slow",
-   "start": 16.49,
-   "end": 16.921
+   "start": 16.54,
+   "end": 16.76
   },
   {
    "text": "mobile,",
-   "start": 16.941,
-   "end": 17.655
+   "start": 16.84,
+   "end": 17.18
   },
   {
    "text": "weak",
-   "start": 17.675,
-   "end": 18.106
+   "start": 17.36,
+   "end": 17.52
   },
   {
    "text": "headline,",
-   "start": 18.126,
-   "end": 18.84
+   "start": 17.6,
+   "end": 18.02
   },
   {
    "text": "hidden",
-   "start": 19.23,
-   "end": 19.466
+   "start": 18.16,
+   "end": 18.38
   },
   {
    "text": "shipping.",
-   "start": 19.486,
-   "end": 19.8
+   "start": 18.44,
+   "end": 18.76
   },
   {
    "text": "And",
-   "start": 20.13,
-   "end": 20.202
+   "start": 19.28,
+   "end": 19.34
   },
   {
    "text": "three?",
-   "start": 20.222,
-   "end": 20.34
+   "start": 19.44,
+   "end": 19.68
   },
   {
    "text": "Three:",
-   "start": 21.6,
-   "end": 21.81
+   "start": 21.48,
+   "end": 21.68
   },
   {
    "text": "it",
-   "start": 22.16,
-   "end": 22.344
+   "start": 22.2,
+   "end": 22.24
   },
   {
    "text": "writes",
-   "start": 22.364,
-   "end": 22.675
+   "start": 22.3,
+   "end": 22.5
   },
   {
    "text": "about",
-   "start": 22.695,
-   "end": 23.006
+   "start": 22.56,
+   "end": 22.72
   },
   {
    "text": "their",
-   "start": 23.026,
-   "end": 23.21
+   "start": 22.76,
+   "end": 22.88
   },
   {
    "text": "problems,",
-   "start": 23.23,
-   "end": 23.541
+   "start": 22.94,
+   "end": 23.36
   },
   {
    "text": "sends",
-   "start": 23.561,
-   "end": 23.745
+   "start": 23.64,
+   "end": 23.88
   },
   {
    "text": "it,",
-   "start": 23.765,
-   "end": 23.949
+   "start": 23.98,
+   "end": 24.02
   },
   {
    "text": "and",
-   "start": 23.969,
-   "end": 24.153
+   "start": 24.14,
+   "end": 24.2
   },
   {
    "text": "follows",
-   "start": 24.173,
-   "end": 24.484
+   "start": 24.28,
+   "end": 24.62
   },
   {
    "text": "up.",
-   "start": 24.504,
-   "end": 24.79
+   "start": 24.74,
+   "end": 24.8
   },
   {
    "text": "I",
-   "start": 25.28,
-   "end": 25.451
+   "start": 25.3,
+   "end": 25.32
   },
   {
    "text": "only",
-   "start": 25.471,
-   "end": 25.761
+   "start": 25.4,
+   "end": 25.54
   },
   {
    "text": "show",
-   "start": 25.781,
-   "end": 25.952
+   "start": 25.62,
+   "end": 25.76
   },
   {
    "text": "up",
-   "start": 25.972,
-   "end": 26.142
+   "start": 25.88,
+   "end": 25.94
   },
   {
    "text": "when",
-   "start": 26.162,
-   "end": 26.333
+   "start": 26.02,
+   "end": 26.12
   },
   {
    "text": "someone",
-   "start": 26.353,
-   "end": 26.643
+   "start": 26.18,
+   "end": 26.44
   },
   {
    "text": "says",
-   "start": 26.663,
-   "end": 26.834
+   "start": 26.5,
+   "end": 26.66
   },
   {
    "text": "yes.",
-   "start": 26.854,
-   "end": 27.12
+   "start": 26.74,
+   "end": 26.96
   },
   {
    "text": "Automate",
-   "start": 27.42,
-   "end": 27.824
+   "start": 27.48,
+   "end": 27.8
   },
   {
    "text": "the",
-   "start": 27.844,
-   "end": 28.012
+   "start": 27.86,
+   "end": 27.92
   },
   {
    "text": "boring",
-   "start": 28.032,
-   "end": 28.318
+   "start": 27.96,
+   "end": 28.24
   },
   {
    "text": "part.",
-   "start": 28.338,
-   "end": 28.6
+   "start": 28.34,
+   "end": 28.52
   },
   {
    "text": "Keep",
    "start": 29.06,
-   "end": 29.228
+   "end": 29.22
   },
   {
    "text": "the",
-   "start": 29.248,
-   "end": 29.416
+   "start": 29.28,
+   "end": 29.36
   },
   {
    "text": "human",
-   "start": 29.436,
-   "end": 29.722
+   "start": 29.4,
+   "end": 29.64
   },
   {
    "text": "part",
-   "start": 29.742,
-   "end": 29.91
+   "start": 29.72,
+   "end": 29.9
   },
   {
    "text": "human.",
-   "start": 29.93,
-   "end": 30.31
+   "start": 29.98,
+   "end": 30.26
   },
   {
    "text": "Want",
-   "start": 30.68,
-   "end": 30.841
+   "start": 30.7,
+   "end": 30.84
   },
   {
    "text": "the",
-   "start": 30.861,
-   "end": 31.023
+   "start": 30.9,
+   "end": 30.96
   },
   {
    "text": "full",
-   "start": 31.043,
-   "end": 31.204
+   "start": 31.0,
+   "end": 31.18
   },
   {
    "text": "setup?",
-   "start": 31.224,
-   "end": 31.59
+   "start": 31.26,
+   "end": 31.6
   },
   {
    "text": "Comment",
    "start": 32.14,
-   "end": 32.472
+   "end": 32.44
   },
   {
    "text": "agent",
-   "start": 32.492,
-   "end": 32.824
+   "start": 32.56,
+   "end": 32.82
   },
   {
    "text": "and",
-   "start": 32.844,
-   "end": 33.04
+   "start": 32.94,
+   "end": 33.0
   },
   {
    "text": "I'll",
-   "start": 33.06,
-   "end": 33.257
+   "start": 33.04,
+   "end": 33.18
   },
   {
    "text": "send",
-   "start": 33.277,
-   "end": 33.473
+   "start": 33.22,
+   "end": 33.38
   },
   {
    "text": "the",
-   "start": 33.493,
-   "end": 33.69
+   "start": 33.42,
+   "end": 33.48
   },
   {
    "text": "breakdown.",
-   "start": 33.71,
-   "end": 34.15
+   "start": 33.54,
+   "end": 33.98
   }
  ],
- "provider": "runs"
+ "provider": "ctc-forced"
 }

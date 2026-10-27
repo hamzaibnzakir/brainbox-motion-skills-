@@ -31,7 +31,7 @@ idea (content/30-reel-ideas.md)
 | `legacy/` | The first vector mascot (Bix) |
 
 ## Setup
-Requires **Node 18+**, **Python 3** and **ffmpeg** on PATH.
+Requires **Node 18+**, **Python 3** (with `pip install onnxruntime numpy`) and **ffmpeg** on PATH.
 ```bash
 npm install
 npx playwright install chromium
@@ -42,7 +42,7 @@ npx playwright install chromium
 # 1. write scripts/03-name.json with docs/SCRIPT_PROMPT.md
 node tools/export-voice-script.mjs scripts/03-name.json        # 2. lines for the voice studio
 #    generate in the voice studio, then save as voice/03-name/voice.wav
-python3 tools/align.py scripts/03-name.json voice/03-name/voice.wav voice/03-name/words.json   # 3. timings
+python3 tools/align_ctc.py scripts/03-name.json voice/03-name/voice.wav voice/03-name/words.json   # 3. forced-alignment timings
 node tools/render.mjs scripts/03-name.json --preview-only       # 4. open out/03-name/preview.html and scrub
 node tools/render.mjs scripts/03-name.json                      # 5. final MP4 (~3–5 min)
 ```
