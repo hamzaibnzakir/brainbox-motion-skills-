@@ -1,0 +1,416 @@
+{
+ "audio": "voice.wav",
+ "words": [
+  {
+   "text": "Do",
+   "start": 0.057,
+   "end": 0.259
+  },
+  {
+   "text": "this",
+   "start": 0.279,
+   "end": 0.482
+  },
+  {
+   "text": "test",
+   "start": 0.502,
+   "end": 0.704
+  },
+  {
+   "text": "on",
+   "start": 0.724,
+   "end": 0.927
+  },
+  {
+   "text": "your",
+   "start": 0.947,
+   "end": 1.149
+  },
+  {
+   "text": "store",
+   "start": 1.169,
+   "end": 1.371
+  },
+  {
+   "text": "right",
+   "start": 1.391,
+   "end": 1.594
+  },
+  {
+   "text": "now.",
+   "start": 1.614,
+   "end": 1.816
+  },
+  {
+   "text": "It",
+   "start": 2.13,
+   "end": 2.326
+  },
+  {
+   "text": "takes",
+   "start": 2.346,
+   "end": 2.677
+  },
+  {
+   "text": "three",
+   "start": 2.697,
+   "end": 2.893
+  },
+  {
+   "text": "seconds.",
+   "start": 2.913,
+   "end": 3.244
+  },
+  {
+   "text": "Show",
+   "start": 3.631,
+   "end": 3.816
+  },
+  {
+   "text": "your",
+   "start": 3.836,
+   "end": 4.021
+  },
+  {
+   "text": "homepage",
+   "start": 4.041,
+   "end": 4.484
+  },
+  {
+   "text": "to",
+   "start": 4.504,
+   "end": 4.689
+  },
+  {
+   "text": "a",
+   "start": 4.709,
+   "end": 4.894
+  },
+  {
+   "text": "friend.",
+   "start": 4.914,
+   "end": 5.1
+  },
+  {
+   "text": "Three",
+   "start": 5.353,
+   "end": 5.627
+  },
+  {
+   "text": "seconds.",
+   "start": 5.647,
+   "end": 6.104
+  },
+  {
+   "text": "Then",
+   "start": 6.325,
+   "end": 6.509
+  },
+  {
+   "text": "hide",
+   "start": 6.529,
+   "end": 6.712
+  },
+  {
+   "text": "it.",
+   "start": 6.732,
+   "end": 6.915
+  },
+  {
+   "text": "Now",
+   "start": 7.397,
+   "end": 7.681
+  },
+  {
+   "text": "ask",
+   "start": 7.701,
+   "end": 7.984
+  },
+  {
+   "text": "three",
+   "start": 8.004,
+   "end": 8.288
+  },
+  {
+   "text": "questions.",
+   "start": 8.308,
+   "end": 8.781
+  },
+  {
+   "text": "Miss",
+   "start": 8.999,
+   "end": 9.151
+  },
+  {
+   "text": "one,",
+   "start": 9.171,
+   "end": 9.43
+  },
+  {
+   "text": "and",
+   "start": 9.45,
+   "end": 9.602
+  },
+  {
+   "text": "you're",
+   "start": 9.622,
+   "end": 9.773
+  },
+  {
+   "text": "losing",
+   "start": 9.793,
+   "end": 10.052
+  },
+  {
+   "text": "sales.",
+   "start": 10.072,
+   "end": 10.331
+  },
+  {
+   "text": "One:",
+   "start": 10.72,
+   "end": 11.095
+  },
+  {
+   "text": "what",
+   "start": 11.364,
+   "end": 11.51
+  },
+  {
+   "text": "do",
+   "start": 11.53,
+   "end": 11.676
+  },
+  {
+   "text": "we",
+   "start": 11.696,
+   "end": 11.842
+  },
+  {
+   "text": "sell?",
+   "start": 11.862,
+   "end": 12.008
+  },
+  {
+   "text": "Two:",
+   "start": 12.27,
+   "end": 12.581
+  },
+  {
+   "text": "who",
+   "start": 12.949,
+   "end": 13.078
+  },
+  {
+   "text": "is",
+   "start": 13.098,
+   "end": 13.227
+  },
+  {
+   "text": "it",
+   "start": 13.247,
+   "end": 13.376
+  },
+  {
+   "text": "for?",
+   "start": 13.396,
+   "end": 13.525
+  },
+  {
+   "text": "And",
+   "start": 13.952,
+   "end": 14.163
+  },
+  {
+   "text": "three?",
+   "start": 14.183,
+   "end": 14.394
+  },
+  {
+   "text": "Three:",
+   "start": 15.377,
+   "end": 15.681
+  },
+  {
+   "text": "why",
+   "start": 15.953,
+   "end": 16.119
+  },
+  {
+   "text": "buy",
+   "start": 16.139,
+   "end": 16.306
+  },
+  {
+   "text": "here,",
+   "start": 16.326,
+   "end": 16.61
+  },
+  {
+   "text": "and",
+   "start": 16.63,
+   "end": 16.796
+  },
+  {
+   "text": "not",
+   "start": 16.816,
+   "end": 16.983
+  },
+  {
+   "text": "from",
+   "start": 17.003,
+   "end": 17.17
+  },
+  {
+   "text": "anyone",
+   "start": 17.19,
+   "end": 17.473
+  },
+  {
+   "text": "else?",
+   "start": 17.493,
+   "end": 17.777
+  },
+  {
+   "text": "If",
+   "start": 18.853,
+   "end": 19.04
+  },
+  {
+   "text": "your",
+   "start": 19.06,
+   "end": 19.248
+  },
+  {
+   "text": "friend",
+   "start": 19.268,
+   "end": 19.455
+  },
+  {
+   "text": "can't",
+   "start": 19.475,
+   "end": 19.663
+  },
+  {
+   "text": "answer",
+   "start": 19.683,
+   "end": 20.0
+  },
+  {
+   "text": "all",
+   "start": 20.02,
+   "end": 20.207
+  },
+  {
+   "text": "three,",
+   "start": 20.227,
+   "end": 20.415
+  },
+  {
+   "text": "your",
+   "start": 20.435,
+   "end": 20.622
+  },
+  {
+   "text": "headline",
+   "start": 20.642,
+   "end": 20.959
+  },
+  {
+   "text": "is",
+   "start": 20.979,
+   "end": 21.167
+  },
+  {
+   "text": "the",
+   "start": 21.187,
+   "end": 21.374
+  },
+  {
+   "text": "problem.",
+   "start": 21.394,
+   "end": 21.711
+  },
+  {
+   "text": "Clarity",
+   "start": 22.114,
+   "end": 22.595
+  },
+  {
+   "text": "beats",
+   "start": 22.615,
+   "end": 22.818
+  },
+  {
+   "text": "clever.",
+   "start": 22.838,
+   "end": 23.18
+  },
+  {
+   "text": "Try",
+   "start": 23.677,
+   "end": 23.868
+  },
+  {
+   "text": "it",
+   "start": 23.888,
+   "end": 24.079
+  },
+  {
+   "text": "today,",
+   "start": 24.099,
+   "end": 24.422
+  },
+  {
+   "text": "comment",
+   "start": 24.686,
+   "end": 25.006
+  },
+  {
+   "text": "your",
+   "start": 25.026,
+   "end": 25.215
+  },
+  {
+   "text": "score",
+   "start": 25.235,
+   "end": 25.424
+  },
+  {
+   "text": "out",
+   "start": 25.444,
+   "end": 25.633
+  },
+  {
+   "text": "of",
+   "start": 25.653,
+   "end": 25.842
+  },
+  {
+   "text": "three,",
+   "start": 25.862,
+   "end": 26.052
+  },
+  {
+   "text": "and",
+   "start": 26.292,
+   "end": 26.476
+  },
+  {
+   "text": "follow",
+   "start": 26.496,
+   "end": 26.808
+  },
+  {
+   "text": "for",
+   "start": 26.828,
+   "end": 27.012
+  },
+  {
+   "text": "more.",
+   "start": 27.032,
+   "end": 27.344
+  }
+ ],
+ "provider": "file-aligned"
+}
