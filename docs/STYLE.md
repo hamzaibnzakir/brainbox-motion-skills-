@@ -15,7 +15,7 @@ Rule: a video uses the full purple screen at most 2–3 times. If everything is 
 ## 2. Type
 | Role | Font | Rule |
 |---|---|---|
-| Headline | Inter Display Black, tight tracking | One `*accent*` word per headline |
+| Headline | Inter Display Black, tight tracking | One `*accent*` word per headline. `|` forces a line break (`"Their research. | Your *win.*"`). Long headlines auto-shrink |
 | Accent word | Lora Italic in purple | The Brainbox signature: machine-bold text with one human, handwritten-feeling word |
 | Section header | TeX Gyre Heros Condensed Bold, caps | Two-tone: `VAGUE *HEADLINE*`, with the number in a tilted neon tag |
 | Labels / HUD | DejaVu Sans Mono Bold, caps, wide tracking | Small and techy: "FREE STORE AUDIT", "● LIVE" |

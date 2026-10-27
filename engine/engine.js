@@ -11,7 +11,7 @@
   const icon = (n) => (window.ICONS && window.ICONS[n]) || window.ICONS.sparkles;
   const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
   // "*word*" → accent span
-  const accent = (s) => esc(s).replace(/\*([^*]+)\*/g, '<span class="acc">$1</span>');
+  const accent = (s) => esc(s).replace(/\*([^*]+)\*/g, '<span class="acc">$1</span>').replace(/\s*\|\s*/g, '<br>'); // "|" = manual line break
   const h = (tag, cls, html) => { const e = document.createElement(tag); if (cls) e.className = cls; if (html != null) e.innerHTML = html; return e; };
 
   // pop-in: opacity + scale with overshoot
@@ -145,7 +145,7 @@
       });
       return { el, update(t) {
         nodes.forEach(({ n, d }, i) => {
-          const p = rise(t, n.t, 0.35, 50); setT(d, `translateY(${p.y}px)`, p.o);
+          const p = rise(t, n.t - 0.25, 0.35, 30); setT(d, `translateY(${p.y}px)`, 0.3 + 0.7 * p.o);
           const next = nodes[i + 1]; d.classList.toggle('on', t >= n.t && (!next || t < next.n.t));
         });
       } };
@@ -187,8 +187,8 @@
       parts.header = h('div', 'header', html); const hl = b.header.replace(/\*/g, '').length; if (hl > 15) parts.header.style.fontSize = (hl > 20 ? 82 : 96) + 'px'; parts.header.style.top = layout === 'punch' ? '640px' : '230px'; L.append(parts.header);
     }
     if (b.headline) {
-      parts.headline = h('div', 'headline', accent(b.headline)); const ll = b.headline.replace(/\*/g, '').length; if (layout !== 'punch' && ll > 20) parts.headline.style.fontSize = (ll > 26 ? 70 : 80) + 'px';
-      if (layout === 'punch') { parts.headline.style.fontSize = '128px'; parts.headline.style.top = b.header ? '900px' : '660px'; parts.headline.style.letterSpacing = '-4px'; }
+      parts.headline = h('div', 'headline', accent(b.headline)); const ll = Math.max(...b.headline.replace(/\*/g, '').split('|').map((x) => x.trim().length)); if (layout !== 'punch' && ll > 20) parts.headline.style.fontSize = (ll > 26 ? 70 : 80) + 'px';
+      if (layout === 'punch') { parts.headline.style.fontSize = (ll > 30 ? 92 : ll > 21 ? 104 : 128) + 'px'; parts.headline.style.top = b.header ? '900px' : '660px'; parts.headline.style.letterSpacing = '-4px'; }
       else parts.headline.style.top = b.header ? '360px' : '240px';
       L.append(parts.headline);
     }

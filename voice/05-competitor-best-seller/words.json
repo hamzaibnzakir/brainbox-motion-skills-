@@ -1,0 +1,431 @@
+{
+ "audio": "voice.wav",
+ "words": [
+  {
+   "text": "Want",
+   "start": 0.05,
+   "end": 0.223
+  },
+  {
+   "text": "your",
+   "start": 0.243,
+   "end": 0.415
+  },
+  {
+   "text": "competitor's",
+   "start": 0.435,
+   "end": 0.968
+  },
+  {
+   "text": "best",
+   "start": 0.988,
+   "end": 1.161
+  },
+  {
+   "text": "seller?",
+   "start": 1.181,
+   "end": 1.57
+  },
+  {
+   "text": "They'll",
+   "start": 1.8,
+   "end": 1.969
+  },
+  {
+   "text": "tell",
+   "start": 1.989,
+   "end": 2.157
+  },
+  {
+   "text": "you.",
+   "start": 2.177,
+   "end": 2.44
+  },
+  {
+   "text": "No",
+   "start": 2.79,
+   "end": 3.067
+  },
+  {
+   "text": "spy",
+   "start": 3.087,
+   "end": 3.364
+  },
+  {
+   "text": "tools.",
+   "start": 3.384,
+   "end": 3.81
+  },
+  {
+   "text": "Just",
+   "start": 3.94,
+   "end": 4.184
+  },
+  {
+   "text": "the",
+   "start": 4.204,
+   "end": 4.449
+  },
+  {
+   "text": "URL",
+   "start": 4.469,
+   "end": 4.713
+  },
+  {
+   "text": "bar.",
+   "start": 4.733,
+   "end": 5.11
+  },
+  {
+   "text": "Stop",
+   "start": 5.32,
+   "end": 5.556
+  },
+  {
+   "text": "guessing",
+   "start": 5.576,
+   "end": 5.971
+  },
+  {
+   "text": "what",
+   "start": 5.991,
+   "end": 6.227
+  },
+  {
+   "text": "sells.",
+   "start": 6.247,
+   "end": 6.61
+  },
+  {
+   "text": "Three",
+   "start": 6.74,
+   "end": 6.896
+  },
+  {
+   "text": "steps.",
+   "start": 6.916,
+   "end": 7.16
+  },
+  {
+   "text": "Step",
+   "start": 7.27,
+   "end": 7.451
+  },
+  {
+   "text": "three",
+   "start": 7.471,
+   "end": 7.653
+  },
+  {
+   "text": "saves",
+   "start": 7.673,
+   "end": 7.98
+  },
+  {
+   "text": "you",
+   "start": 8.0,
+   "end": 8.182
+  },
+  {
+   "text": "money.",
+   "start": 8.202,
+   "end": 8.61
+  },
+  {
+   "text": "One:",
+   "start": 8.93,
+   "end": 9.28
+  },
+  {
+   "text": "open",
+   "start": 9.53,
+   "end": 9.857
+  },
+  {
+   "text": "their",
+   "start": 9.877,
+   "end": 10.07
+  },
+  {
+   "text": "all",
+   "start": 10.09,
+   "end": 10.283
+  },
+  {
+   "text": "products",
+   "start": 10.303,
+   "end": 10.63
+  },
+  {
+   "text": "page.",
+   "start": 10.65,
+   "end": 10.95
+  },
+  {
+   "text": "Two:",
+   "start": 11.22,
+   "end": 11.558
+  },
+  {
+   "text": "sort",
+   "start": 11.578,
+   "end": 11.796
+  },
+  {
+   "text": "by",
+   "start": 11.816,
+   "end": 12.035
+  },
+  {
+   "text": "best",
+   "start": 12.055,
+   "end": 12.273
+  },
+  {
+   "text": "selling.",
+   "start": 12.293,
+   "end": 12.78
+  },
+  {
+   "text": "The",
+   "start": 13.12,
+   "end": 13.288
+  },
+  {
+   "text": "first",
+   "start": 13.308,
+   "end": 13.477
+  },
+  {
+   "text": "products",
+   "start": 13.497,
+   "end": 13.783
+  },
+  {
+   "text": "are",
+   "start": 13.803,
+   "end": 13.971
+  },
+  {
+   "text": "their",
+   "start": 13.991,
+   "end": 14.16
+  },
+  {
+   "text": "winners.",
+   "start": 14.18,
+   "end": 14.56
+  },
+  {
+   "text": "And",
+   "start": 14.92,
+   "end": 15.12
+  },
+  {
+   "text": "three?",
+   "start": 15.14,
+   "end": 15.45
+  },
+  {
+   "text": "Three:",
+   "start": 16.59,
+   "end": 16.92
+  },
+  {
+   "text": "search",
+   "start": 17.22,
+   "end": 17.426
+  },
+  {
+   "text": "those",
+   "start": 17.446,
+   "end": 17.652
+  },
+  {
+   "text": "products",
+   "start": 17.672,
+   "end": 18.02
+  },
+  {
+   "text": "in",
+   "start": 18.04,
+   "end": 18.246
+  },
+  {
+   "text": "the",
+   "start": 18.266,
+   "end": 18.472
+  },
+  {
+   "text": "Ad",
+   "start": 18.492,
+   "end": 18.698
+  },
+  {
+   "text": "Library.",
+   "start": 18.718,
+   "end": 19.32
+  },
+  {
+   "text": "Running",
+   "start": 19.57,
+   "end": 19.961
+  },
+  {
+   "text": "ads?",
+   "start": 19.981,
+   "end": 20.34
+  },
+  {
+   "text": "Winner",
+   "start": 20.73,
+   "end": 20.881
+  },
+  {
+   "text": "confirmed.",
+   "start": 20.901,
+   "end": 21.17
+  },
+  {
+   "text": "Don't",
+   "start": 22.05,
+   "end": 22.297
+  },
+  {
+   "text": "copy",
+   "start": 22.317,
+   "end": 22.73
+  },
+  {
+   "text": "it.",
+   "start": 22.75,
+   "end": 23.13
+  },
+  {
+   "text": "Read",
+   "start": 23.64,
+   "end": 23.833
+  },
+  {
+   "text": "their",
+   "start": 23.853,
+   "end": 24.046
+  },
+  {
+   "text": "one-star",
+   "start": 24.066,
+   "end": 24.524
+  },
+  {
+   "text": "reviews,",
+   "start": 24.544,
+   "end": 24.87
+  },
+  {
+   "text": "find",
+   "start": 25.21,
+   "end": 25.424
+  },
+  {
+   "text": "the",
+   "start": 25.444,
+   "end": 25.659
+  },
+  {
+   "text": "complaint,",
+   "start": 25.679,
+   "end": 26.04
+  },
+  {
+   "text": "and",
+   "start": 26.42,
+   "end": 26.607
+  },
+  {
+   "text": "fix",
+   "start": 26.627,
+   "end": 26.815
+  },
+  {
+   "text": "it",
+   "start": 26.835,
+   "end": 27.022
+  },
+  {
+   "text": "in",
+   "start": 27.042,
+   "end": 27.229
+  },
+  {
+   "text": "yours.",
+   "start": 27.249,
+   "end": 27.54
+  },
+  {
+   "text": "Their",
+   "start": 27.78,
+   "end": 27.888
+  },
+  {
+   "text": "research.",
+   "start": 27.908,
+   "end": 28.16
+  },
+  {
+   "text": "Your",
+   "start": 28.18,
+   "end": 28.288
+  },
+  {
+   "text": "win.",
+   "start": 28.308,
+   "end": 28.48
+  },
+  {
+   "text": "Follow",
+   "start": 29.58,
+   "end": 30.018
+  },
+  {
+   "text": "for",
+   "start": 30.038,
+   "end": 30.299
+  },
+  {
+   "text": "more",
+   "start": 30.319,
+   "end": 30.581
+  },
+  {
+   "text": "competitor",
+   "start": 30.601,
+   "end": 31.391
+  },
+  {
+   "text": "tricks,",
+   "start": 31.411,
+   "end": 31.672
+  },
+  {
+   "text": "and",
+   "start": 31.692,
+   "end": 31.954
+  },
+  {
+   "text": "save",
+   "start": 31.974,
+   "end": 32.236
+  },
+  {
+   "text": "this",
+   "start": 32.256,
+   "end": 32.517
+  },
+  {
+   "text": "one.",
+   "start": 32.538,
+   "end": 32.94
+  }
+ ],
+ "provider": "runs"
+}
