@@ -1,0 +1,75 @@
+{
+  "id": "04-three-second-test",
+  "title": "The 3-second test for your homepage",
+  "caption": "Clarity beats clever. Try it and comment your score out of 3 👇 #ecommercetips #webdesign #shopify",
+  "avatar": { "dir": "assets/hero" },
+  "beats": [
+    {
+      "layout": "bix", "pose": "presenting", "bg": "ink", "bix": "smug",
+      "headline": "Do this test *now.*",
+      "chips": [{ "icon": "timer", "text": "3 seconds", "kind": "hot", "at": "three" }],
+      "say": "Do this test on your store right now. It takes *three* seconds."
+    },
+    {
+      "bg": "ink", "bix": "talk",
+      "headline": "The *3-second* test",
+      "visual": { "type": "browser", "url": "yourstore.com", "brand": "YOUR STORE", "hero": "Elevate your lifestyle" },
+      "stamp": { "text": "3 · 2 · 1", "at": "three", "y": 820 },
+      "say": "Show your homepage to a *friend.* Three seconds. Then hide it."
+    },
+    {
+      "layout": "punch", "bg": "void", "bix": "serious",
+      "header": "3 *QUESTIONS*",
+      "headline": "Miss one? You lose *sales.*",
+      "say": "Now ask three questions. Miss one, and you're losing *sales.*"
+    },
+    {
+      "bg": "ink", "bix": "talk",
+      "header": "1 · WHAT DO WE *SELL?*",
+      "visual": { "type": "icon", "icon": "bag" },
+      "chips": [{ "icon": "help", "text": "What is it?", "at": "what" }],
+      "say": "One: what do we *sell?*"
+    },
+    {
+      "bg": "ink", "bix": "talk",
+      "header": "2 · WHO IS IT *FOR?*",
+      "visual": { "type": "icon", "icon": "users" },
+      "chips": [{ "icon": "target", "text": "Who exactly?", "at": "who" }],
+      "say": "Two: who is it *for?*"
+    },
+    {
+      "layout": "punch", "bg": "void", "bix": "think",
+      "headline": "And *three?*",
+      "say": "And three? [question-oh]"
+    },
+    {
+      "bg": "ink", "bix": "smug",
+      "header": "3 · WHY BUY *HERE?*",
+      "visual": { "type": "icon", "icon": "crown" },
+      "chips": [{ "icon": "store", "text": "Why you?", "kind": "hot", "at": "why" }],
+      "say": "Three: why buy *here*, and not from anyone else?"
+    },
+    {
+      "bg": "ink", "bix": "serious",
+      "headline": "Can't *answer?*",
+      "visual": { "type": "browser", "url": "yourstore.com", "brand": "YOUR STORE", "hero": "Elevate your lifestyle",
+        "marks": [{ "target": "hero", "kind": "bad", "text": "FIX THIS FIRST", "at": "headline" }] },
+      "say": "[sigh] If your friend can't answer all three, your *headline* is the problem."
+    },
+    {
+      "layout": "punch", "bg": "neon", "bix": "smug",
+      "headline": "Clarity beats *clever.*",
+      "say": "Clarity beats *clever.*"
+    },
+    {
+      "layout": "bix", "pose": "celebrating", "bg": "ink", "bix": "happy",
+      "label": "Try it today",
+      "headline": "Comment your *score*",
+      "chips": [
+        { "icon": "message", "text": "Score out of 3", "kind": "hot", "at": "comment" },
+        { "icon": "users", "text": "Follow for more", "at": "follow" }
+      ],
+      "say": "Try it today, *comment* your score out of three, and follow for more."
+    }
+  ]
+}
