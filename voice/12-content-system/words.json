@@ -1,0 +1,856 @@
+{
+ "audio": "voice.wav",
+ "words": [
+  {
+   "text": "I",
+   "start": 0.22,
+   "end": 0.24
+  },
+  {
+   "text": "post",
+   "start": 0.3,
+   "end": 0.46
+  },
+  {
+   "text": "twice",
+   "start": 0.54,
+   "end": 0.78
+  },
+  {
+   "text": "a",
+   "start": 0.84,
+   "end": 0.86
+  },
+  {
+   "text": "day,",
+   "start": 0.92,
+   "end": 1.08
+  },
+  {
+   "text": "and",
+   "start": 1.32,
+   "end": 1.4
+  },
+  {
+   "text": "I",
+   "start": 1.58,
+   "end": 1.6
+  },
+  {
+   "text": "never",
+   "start": 1.7,
+   "end": 1.9
+  },
+  {
+   "text": "run",
+   "start": 1.94,
+   "end": 2.04
+  },
+  {
+   "text": "out",
+   "start": 2.1,
+   "end": 2.16
+  },
+  {
+   "text": "of",
+   "start": 2.2,
+   "end": 2.24
+  },
+  {
+   "text": "ideas.",
+   "start": 2.32,
+   "end": 2.64
+  },
+  {
+   "text": "Here's",
+   "start": 2.78,
+   "end": 2.98
+  },
+  {
+   "text": "the",
+   "start": 3.02,
+   "end": 3.08
+  },
+  {
+   "text": "AI",
+   "start": 3.16,
+   "end": 3.34
+  },
+  {
+   "text": "system",
+   "start": 3.46,
+   "end": 3.72
+  },
+  {
+   "text": "behind",
+   "start": 3.8,
+   "end": 4.04
+  },
+  {
+   "text": "it.",
+   "start": 4.14,
+   "end": 4.18
+  },
+  {
+   "text": "Three",
+   "start": 4.3,
+   "end": 4.46
+  },
+  {
+   "text": "prompts,",
+   "start": 4.52,
+   "end": 4.82
+  },
+  {
+   "text": "one",
+   "start": 4.94,
+   "end": 5.02
+  },
+  {
+   "text": "afternoon,",
+   "start": 5.08,
+   "end": 5.48
+  },
+  {
+   "text": "a",
+   "start": 5.54,
+   "end": 5.56
+  },
+  {
+   "text": "full",
+   "start": 5.8,
+   "end": 5.98
+  },
+  {
+   "text": "month",
+   "start": 6.04,
+   "end": 6.22
+  },
+  {
+   "text": "planned.",
+   "start": 6.34,
+   "end": 6.64
+  },
+  {
+   "text": "The",
+   "start": 7.18,
+   "end": 7.24
+  },
+  {
+   "text": "blank",
+   "start": 7.3,
+   "end": 7.48
+  },
+  {
+   "text": "page",
+   "start": 7.56,
+   "end": 7.78
+  },
+  {
+   "text": "kills",
+   "start": 7.86,
+   "end": 8.1
+  },
+  {
+   "text": "more",
+   "start": 8.22,
+   "end": 8.36
+  },
+  {
+   "text": "brands",
+   "start": 8.44,
+   "end": 8.72
+  },
+  {
+   "text": "than",
+   "start": 8.76,
+   "end": 8.88
+  },
+  {
+   "text": "bad",
+   "start": 8.94,
+   "end": 9.1
+  },
+  {
+   "text": "products.",
+   "start": 9.18,
+   "end": 9.52
+  },
+  {
+   "text": "Three",
+   "start": 9.8,
+   "end": 9.94
+  },
+  {
+   "text": "steps.",
+   "start": 9.98,
+   "end": 10.24
+  },
+  {
+   "text": "The",
+   "start": 10.44,
+   "end": 10.52
+  },
+  {
+   "text": "last",
+   "start": 10.56,
+   "end": 10.7
+  },
+  {
+   "text": "one",
+   "start": 10.8,
+   "end": 10.88
+  },
+  {
+   "text": "does",
+   "start": 10.92,
+   "end": 11.02
+  },
+  {
+   "text": "the",
+   "start": 11.06,
+   "end": 11.12
+  },
+  {
+   "text": "work",
+   "start": 11.16,
+   "end": 11.28
+  },
+  {
+   "text": "for",
+   "start": 11.36,
+   "end": 11.44
+  },
+  {
+   "text": "you.",
+   "start": 11.5,
+   "end": 11.58
+  },
+  {
+   "text": "One.",
+   "start": 11.92,
+   "end": 12.04
+  },
+  {
+   "text": "Tell",
+   "start": 12.22,
+   "end": 12.38
+  },
+  {
+   "text": "any",
+   "start": 12.52,
+   "end": 12.64
+  },
+  {
+   "text": "AI:",
+   "start": 12.76,
+   "end": 13.04
+  },
+  {
+   "text": "you're",
+   "start": 13.74,
+   "end": 13.9
+  },
+  {
+   "text": "my",
+   "start": 13.92,
+   "end": 13.96
+  },
+  {
+   "text": "content",
+   "start": 14.06,
+   "end": 14.4
+  },
+  {
+   "text": "strategist,",
+   "start": 14.46,
+   "end": 14.98
+  },
+  {
+   "text": "here's",
+   "start": 15.04,
+   "end": 15.24
+  },
+  {
+   "text": "what",
+   "start": 15.28,
+   "end": 15.38
+  },
+  {
+   "text": "I",
+   "start": 15.44,
+   "end": 15.46
+  },
+  {
+   "text": "sell",
+   "start": 15.56,
+   "end": 15.74
+  },
+  {
+   "text": "and",
+   "start": 15.8,
+   "end": 15.88
+  },
+  {
+   "text": "who",
+   "start": 15.9,
+   "end": 15.98
+  },
+  {
+   "text": "buys",
+   "start": 16.06,
+   "end": 16.28
+  },
+  {
+   "text": "it.",
+   "start": 16.4,
+   "end": 16.44
+  },
+  {
+   "text": "Give",
+   "start": 16.62,
+   "end": 16.72
+  },
+  {
+   "text": "me",
+   "start": 16.76,
+   "end": 16.84
+  },
+  {
+   "text": "five",
+   "start": 16.9,
+   "end": 17.12
+  },
+  {
+   "text": "content",
+   "start": 17.2,
+   "end": 17.58
+  },
+  {
+   "text": "pillars,",
+   "start": 17.64,
+   "end": 17.96
+  },
+  {
+   "text": "each",
+   "start": 18.14,
+   "end": 18.28
+  },
+  {
+   "text": "with",
+   "start": 18.38,
+   "end": 18.5
+  },
+  {
+   "text": "three",
+   "start": 18.56,
+   "end": 18.76
+  },
+  {
+   "text": "pain",
+   "start": 18.82,
+   "end": 19.0
+  },
+  {
+   "text": "points.",
+   "start": 19.1,
+   "end": 19.38
+  },
+  {
+   "text": "Two.",
+   "start": 19.92,
+   "end": 20.06
+  },
+  {
+   "text": "Copy",
+   "start": 20.44,
+   "end": 20.68
+  },
+  {
+   "text": "every",
+   "start": 20.78,
+   "end": 20.94
+  },
+  {
+   "text": "question",
+   "start": 21.0,
+   "end": 21.32
+  },
+  {
+   "text": "from",
+   "start": 21.4,
+   "end": 21.52
+  },
+  {
+   "text": "your",
+   "start": 21.56,
+   "end": 21.66
+  },
+  {
+   "text": "comments,",
+   "start": 21.72,
+   "end": 22.12
+  },
+  {
+   "text": "reviews,",
+   "start": 22.24,
+   "end": 22.64
+  },
+  {
+   "text": "and",
+   "start": 22.76,
+   "end": 22.82
+  },
+  {
+   "text": "support",
+   "start": 22.88,
+   "end": 23.2
+  },
+  {
+   "text": "emails.",
+   "start": 23.3,
+   "end": 23.62
+  },
+  {
+   "text": "Every",
+   "start": 23.9,
+   "end": 24.06
+  },
+  {
+   "text": "question",
+   "start": 24.12,
+   "end": 24.42
+  },
+  {
+   "text": "someone",
+   "start": 24.52,
+   "end": 24.78
+  },
+  {
+   "text": "asks",
+   "start": 24.94,
+   "end": 25.18
+  },
+  {
+   "text": "is",
+   "start": 25.3,
+   "end": 25.36
+  },
+  {
+   "text": "a",
+   "start": 25.44,
+   "end": 25.46
+  },
+  {
+   "text": "video",
+   "start": 25.5,
+   "end": 25.8
+  },
+  {
+   "text": "someone",
+   "start": 25.98,
+   "end": 26.28
+  },
+  {
+   "text": "wants.",
+   "start": 26.36,
+   "end": 26.64
+  },
+  {
+   "text": "And",
+   "start": 26.86,
+   "end": 26.94
+  },
+  {
+   "text": "three?",
+   "start": 27.02,
+   "end": 27.24
+  },
+  {
+   "text": "Three.",
+   "start": 28.36,
+   "end": 28.6
+  },
+  {
+   "text": "Paste",
+   "start": 28.82,
+   "end": 29.04
+  },
+  {
+   "text": "those",
+   "start": 29.1,
+   "end": 29.28
+  },
+  {
+   "text": "questions",
+   "start": 29.36,
+   "end": 29.78
+  },
+  {
+   "text": "back",
+   "start": 29.84,
+   "end": 30.0
+  },
+  {
+   "text": "in",
+   "start": 30.12,
+   "end": 30.16
+  },
+  {
+   "text": "and",
+   "start": 30.24,
+   "end": 30.3
+  },
+  {
+   "text": "ask",
+   "start": 30.36,
+   "end": 30.46
+  },
+  {
+   "text": "for",
+   "start": 30.54,
+   "end": 30.62
+  },
+  {
+   "text": "twelve",
+   "start": 30.7,
+   "end": 30.96
+  },
+  {
+   "text": "hooks",
+   "start": 31.0,
+   "end": 31.2
+  },
+  {
+   "text": "per",
+   "start": 31.3,
+   "end": 31.38
+  },
+  {
+   "text": "pillar,",
+   "start": 31.48,
+   "end": 31.72
+  },
+  {
+   "text": "under",
+   "start": 31.86,
+   "end": 32.02
+  },
+  {
+   "text": "ten",
+   "start": 32.08,
+   "end": 32.22
+  },
+  {
+   "text": "words.",
+   "start": 32.32,
+   "end": 32.6
+  },
+  {
+   "text": "Five",
+   "start": 33.12,
+   "end": 33.3
+  },
+  {
+   "text": "pillars",
+   "start": 33.38,
+   "end": 33.66
+  },
+  {
+   "text": "times",
+   "start": 33.74,
+   "end": 33.94
+  },
+  {
+   "text": "twelve",
+   "start": 34.0,
+   "end": 34.22
+  },
+  {
+   "text": "is",
+   "start": 34.28,
+   "end": 34.32
+  },
+  {
+   "text": "sixty",
+   "start": 34.44,
+   "end": 34.74
+  },
+  {
+   "text": "posts.",
+   "start": 34.82,
+   "end": 35.16
+  },
+  {
+   "text": "Then",
+   "start": 35.3,
+   "end": 35.4
+  },
+  {
+   "text": "schedule",
+   "start": 35.5,
+   "end": 35.9
+  },
+  {
+   "text": "it.",
+   "start": 35.94,
+   "end": 36.02
+  },
+  {
+   "text": "Morning",
+   "start": 36.2,
+   "end": 36.46
+  },
+  {
+   "text": "post:",
+   "start": 36.54,
+   "end": 36.82
+  },
+  {
+   "text": "a",
+   "start": 36.98,
+   "end": 37.0
+  },
+  {
+   "text": "quick",
+   "start": 37.08,
+   "end": 37.24
+  },
+  {
+   "text": "win.",
+   "start": 37.32,
+   "end": 37.46
+  },
+  {
+   "text": "Evening",
+   "start": 37.68,
+   "end": 37.92
+  },
+  {
+   "text": "post:",
+   "start": 38.0,
+   "end": 38.28
+  },
+  {
+   "text": "a",
+   "start": 38.64,
+   "end": 38.66
+  },
+  {
+   "text": "deep",
+   "start": 38.7,
+   "end": 38.84
+  },
+  {
+   "text": "dive.",
+   "start": 38.94,
+   "end": 39.2
+  },
+  {
+   "text": "Record",
+   "start": 39.68,
+   "end": 39.94
+  },
+  {
+   "text": "them",
+   "start": 40.0,
+   "end": 40.1
+  },
+  {
+   "text": "all",
+   "start": 40.16,
+   "end": 40.28
+  },
+  {
+   "text": "in",
+   "start": 40.34,
+   "end": 40.38
+  },
+  {
+   "text": "one",
+   "start": 40.48,
+   "end": 40.58
+  },
+  {
+   "text": "session.",
+   "start": 40.64,
+   "end": 40.98
+  },
+  {
+   "text": "Bonus.",
+   "start": 41.38,
+   "end": 41.74
+  },
+  {
+   "text": "Every",
+   "start": 42.2,
+   "end": 42.36
+  },
+  {
+   "text": "month,",
+   "start": 42.44,
+   "end": 42.6
+  },
+  {
+   "text": "take",
+   "start": 42.78,
+   "end": 42.92
+  },
+  {
+   "text": "your",
+   "start": 42.96,
+   "end": 43.06
+  },
+  {
+   "text": "top",
+   "start": 43.1,
+   "end": 43.28
+  },
+  {
+   "text": "posts",
+   "start": 43.36,
+   "end": 43.7
+  },
+  {
+   "text": "and",
+   "start": 43.86,
+   "end": 43.92
+  },
+  {
+   "text": "repost",
+   "start": 43.98,
+   "end": 44.36
+  },
+  {
+   "text": "them",
+   "start": 44.44,
+   "end": 44.56
+  },
+  {
+   "text": "with",
+   "start": 44.68,
+   "end": 44.78
+  },
+  {
+   "text": "a",
+   "start": 44.86,
+   "end": 44.88
+  },
+  {
+   "text": "new",
+   "start": 44.92,
+   "end": 45.02
+  },
+  {
+   "text": "hook.",
+   "start": 45.08,
+   "end": 45.24
+  },
+  {
+   "text": "Winners",
+   "start": 45.44,
+   "end": 45.66
+  },
+  {
+   "text": "win",
+   "start": 45.72,
+   "end": 45.82
+  },
+  {
+   "text": "twice.",
+   "start": 45.9,
+   "end": 46.2
+  },
+  {
+   "text": "Your",
+   "start": 46.64,
+   "end": 46.76
+  },
+  {
+   "text": "customers",
+   "start": 46.82,
+   "end": 47.22
+  },
+  {
+   "text": "are",
+   "start": 47.28,
+   "end": 47.34
+  },
+  {
+   "text": "literally",
+   "start": 47.38,
+   "end": 47.68
+  },
+  {
+   "text": "telling",
+   "start": 47.76,
+   "end": 48.0
+  },
+  {
+   "text": "you",
+   "start": 48.02,
+   "end": 48.1
+  },
+  {
+   "text": "what",
+   "start": 48.14,
+   "end": 48.24
+  },
+  {
+   "text": "to",
+   "start": 48.28,
+   "end": 48.34
+  },
+  {
+   "text": "post.",
+   "start": 48.42,
+   "end": 48.68
+  },
+  {
+   "text": "Save",
+   "start": 49.0,
+   "end": 49.2
+  },
+  {
+   "text": "this,",
+   "start": 49.28,
+   "end": 49.44
+  },
+  {
+   "text": "steal",
+   "start": 49.7,
+   "end": 49.88
+  },
+  {
+   "text": "the",
+   "start": 49.96,
+   "end": 50.02
+  },
+  {
+   "text": "system,",
+   "start": 50.08,
+   "end": 50.4
+  },
+  {
+   "text": "and",
+   "start": 50.52,
+   "end": 50.58
+  },
+  {
+   "text": "follow",
+   "start": 50.66,
+   "end": 50.9
+  },
+  {
+   "text": "for",
+   "start": 50.98,
+   "end": 51.08
+  },
+  {
+   "text": "more.",
+   "start": 51.14,
+   "end": 51.3
+  }
+ ],
+ "provider": "ctc-forced"
+}

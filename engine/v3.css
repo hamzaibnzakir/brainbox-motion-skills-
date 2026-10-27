@@ -175,3 +175,7 @@ html, body { margin: 0; background: #000; overflow: hidden; }
 
 .kicker.pk { font-size: 40px; letter-spacing: 10px; color: #8E8E92; }
 .dark .kicker.pk { color: #6B6C74; }
+
+.nar .ln.bx { margin-top: 6px; }
+.nar .ln.bx .w { font-size: 68px; letter-spacing: -1.8px; }
+.nar.big .ln.bx .w { font-size: 96px; letter-spacing: -2.5px; }

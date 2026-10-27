@@ -146,8 +146,8 @@
     if (b.box) { const bw = b.box.split(/\s+/).map(norm); for (let i = 0; i + bw.length <= ws.length; i++) if (bw.every((x, k) => norm(ws[i + k].text) === x)) { for (let k = 0; k < bw.length; k++) boxWords.add(i + k); break; } }
     const spans = []; let line = null, mode = null, boxEl = null;
     ws.forEach((w, i) => {
-      const m = w.em ? 'em' : 'n';
-      if (m !== mode) { line = h('div', 'ln' + (m === 'em' ? ' em' : '')); el.append(line); mode = m; boxEl = null; }
+      const m = boxWords.has(i) ? 'box' : w.em ? 'em' : 'n';  // a boxed phrase always sits together on its own line
+      if (m !== mode) { line = h('div', 'ln' + (m === 'em' ? ' em' : m === 'box' ? ' bx' : '')); el.append(line); mode = m; boxEl = null; }
       const sp = h('span', 'w', esc(w.text));
       if (boxWords.has(i)) { if (!boxEl) { boxEl = h('span', 'box'); line.append(boxEl); boxEl._t = w.start; } boxEl.append(sp); }
       else { boxEl = null; line.append(sp); }
@@ -210,6 +210,7 @@
       P.L.style.display = 'block';
       const fitEl = (el, maxH, minF) => { if (!el) return; let k = 1; while (el.offsetHeight > maxH && k > .55) { k -= .06; el.style.fontSize = ''; el.querySelectorAll('.w').forEach((w) => { w.style.fontSize = ''; }); el.style.zoom = k; } };
       if (P.title) { let fs = 76; while (P.title.offsetHeight > 170 && fs > 48) { fs -= 4; P.title.style.fontSize = fs + 'px'; } }
+      if (P.pose && P.title && P.title.offsetTop + P.title.offsetHeight > 340) { const d = P.title.offsetTop + P.title.offsetHeight - 330; P.pose.style.top = (360 + d) + 'px'; P.pose.style.height = (760 - d) + 'px'; P.pose.style.width = (700 - d * .9) + 'px'; P.pose.style.left = (190 + d * .45) + 'px'; }
       P.chunks.forEach(({ n }) => {
         n.style.visibility = 'hidden'; n.style.opacity = 1;
         if (P.layout === 'punch') { fitEl(n, 760); const hh = n.offsetHeight * (parseFloat(n.style.zoom) || 1); n.style.top = Math.round((P.kick ? 1000 : 940) - hh / 2) / (parseFloat(n.style.zoom) || 1) + 'px'; }
