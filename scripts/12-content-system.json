@@ -2,99 +2,207 @@
   "id": "12-content-system",
   "title": "The AI system I use to plan 60 posts a month (3 prompts)",
   "caption": "Never run out of content ideas again. 3 prompts, one afternoon, a full month planned. Screenshot the prompts. #contentcreation #aitools #ecommercemarketing #creatortips",
-  "avatar": { "dir": "assets/hero" },
+  "avatar": {
+    "dir": "assets/hero"
+  },
   "beats": [
     {
-      "layout": "bix", "pose": "presenting", "bg": "ink", "bix": "smug",
+      "layout": "bix",
+      "pose": "presenting",
+      "bg": "ink",
+      "bix": "smug",
       "headline": "60 posts. | *One* system.",
-      "chips": [{ "icon": "calendar", "text": "60 posts a month", "kind": "hot", "at": "twice" }],
+      "chips": [
+        {
+          "icon": "calendar",
+          "text": "60 posts a month",
+          "kind": "hot",
+          "at": "twice"
+        }
+      ],
       "say": "I post *twice* a day, and I never run out of ideas. Here's the AI system behind it."
     },
     {
-      "bg": "ink", "bix": "talk",
+      "bg": "ink",
+      "bix": "talk",
       "headline": "Steal the *system*",
-      "visual": { "type": "icon", "icon": "workflow", "badge": "check", "badgeTone": "good", "badgeAt": "month" },
-      "stamp": { "text": "3 PROMPTS", "at": "three", "y": 860 },
-      "say": "Three prompts, one afternoon, a full *month* planned."
+      "visual": {
+        "type": "icon",
+        "icon": "workflow",
+        "badge": "check",
+        "badgeTone": "good",
+        "badgeAt": "month"
+      },
+      "stamp": {
+        "text": "3 PROMPTS",
+        "at": "three",
+        "y": 860
+      },
+      "say": "Three prompts, one afternoon, a full *month* planned.",
+      "box": "a full month planned."
     },
     {
-      "layout": "punch", "bg": "neon", "bix": "serious",
+      "layout": "punch",
+      "bg": "neon",
+      "bix": "serious",
       "headline": "The blank page | *kills* brands.",
       "say": "[sigh] The blank page kills more brands than bad *products.*"
     },
     {
-      "layout": "punch", "bg": "void", "bix": "smug",
+      "layout": "punch",
+      "bg": "void",
+      "bix": "smug",
       "header": "3 *STEPS*",
       "headline": "The last one | does the *work.*",
       "say": "Three steps. The last one does the *work* for you."
     },
     {
-      "bg": "ink", "bix": "talk",
-      "header": "1 · PICK YOUR *PILLARS*",
-      "visual": { "type": "prompt",
+      "bg": "ink",
+      "bix": "talk",
+      "header": "1 \u00b7 PICK YOUR *PILLARS*",
+      "visual": {
+        "type": "prompt",
         "prompt": "You're my content strategist. I sell [product] to [customer]. Give me 5 content pillars, each with 3 pain points.",
         "at": "tell",
-        "reply": ["1. Quick wins", "2. Mistakes to avoid", "3. Behind the scenes", "4. Customer stories", "5. Myths vs facts"],
-        "replyAt": "give" },
+        "reply": [
+          "1. Quick wins",
+          "2. Mistakes to avoid",
+          "3. Behind the scenes",
+          "4. Customer stories",
+          "5. Myths vs facts"
+        ],
+        "replyAt": "give"
+      },
       "say": "One. *Tell* any AI: you're my content strategist, here's what I sell and who buys it. Give me five content pillars, each with three pain points."
     },
     {
-      "bg": "ink", "bix": "talk",
-      "header": "2 · MINE THE *QUESTIONS*",
-      "visual": { "type": "flow", "nodes": [
-        { "icon": "message", "text": "Comments + DMs", "at": "comments" },
-        { "icon": "star", "text": "Reviews", "at": "reviews" },
-        { "icon": "mail", "text": "Support emails", "at": "support" }
-      ] },
-      "chips": [{ "icon": "lightbulb", "text": "Question = video", "kind": "hot", "at": "every" }],
-      "say": "Two. Copy every question from your comments, reviews, and support emails. *Every* question someone asks is a video someone wants."
+      "bg": "ink",
+      "bix": "talk",
+      "header": "2 \u00b7 MINE THE *QUESTIONS*",
+      "visual": {
+        "type": "flow",
+        "nodes": [
+          {
+            "icon": "message",
+            "text": "Comments + DMs",
+            "at": "comments"
+          },
+          {
+            "icon": "star",
+            "text": "Reviews",
+            "at": "reviews"
+          },
+          {
+            "icon": "mail",
+            "text": "Support emails",
+            "at": "support"
+          }
+        ]
+      },
+      "chips": [
+        {
+          "icon": "lightbulb",
+          "text": "Question = video",
+          "kind": "hot",
+          "at": "every"
+        }
+      ],
+      "say": "Two. Copy every question from your comments, reviews, and support emails. *Every* question someone asks is a video someone wants.",
+      "box": "a video someone wants."
     },
     {
-      "layout": "punch", "bg": "void", "bix": "think",
+      "layout": "punch",
+      "bg": "void",
+      "bix": "think",
       "headline": "And *three?*",
       "say": "And three? [question-oh]"
     },
     {
-      "bg": "ink", "bix": "shock",
-      "header": "3 · BATCH THE *HOOKS*",
-      "visual": { "type": "prompt",
+      "bg": "ink",
+      "bix": "shock",
+      "header": "3 \u00b7 BATCH THE *HOOKS*",
+      "visual": {
+        "type": "prompt",
         "prompt": "For each pillar, write 12 hooks under 10 words, using these customer questions. Mix mistakes, myths, how-tos.",
         "at": "paste",
-        "reply": ["\"Stop washing it like this\"", "\"The size chart is lying to you\"", "\"3 signs yours is fake\"", "...60 hooks total"],
-        "replyAt": "five" },
+        "reply": [
+          "\"Stop washing it like this\"",
+          "\"The size chart is lying to you\"",
+          "\"3 signs yours is fake\"",
+          "...60 hooks total"
+        ],
+        "replyAt": "five"
+      },
       "say": "[surprise-oh] Three. *Paste* those questions back in and ask for twelve hooks per pillar, under ten words. Five pillars times twelve is sixty posts."
     },
     {
-      "bg": "ink", "bix": "happy",
+      "bg": "ink",
+      "bix": "happy",
       "header": "THE *SCHEDULE*",
-      "visual": { "type": "checklist", "items": [
-        { "text": "Morning: quick win (20s)", "at": "morning" },
-        { "text": "Evening: deep dive (60s)", "at": "evening" },
-        { "text": "Record all in one session", "at": "record" }
-      ] },
+      "visual": {
+        "type": "checklist",
+        "items": [
+          {
+            "text": "Morning: quick win (20s)",
+            "at": "morning"
+          },
+          {
+            "text": "Evening: deep dive (60s)",
+            "at": "evening"
+          },
+          {
+            "text": "Record all in one session",
+            "at": "record"
+          }
+        ]
+      },
       "say": "Then *schedule* it. Morning post: a quick win. Evening post: a deep dive. Record them all in one session."
     },
     {
-      "bg": "ink", "bix": "smug",
-      "header": "BONUS · RECYCLE *WINNERS*",
-      "visual": { "type": "compare",
-        "before": ["Post once", "Forget it"],
-        "after": ["Top posts → repost", "New hook, 30 days later"],
-        "at": "take" },
+      "bg": "ink",
+      "bix": "smug",
+      "header": "BONUS \u00b7 RECYCLE *WINNERS*",
+      "visual": {
+        "type": "compare",
+        "before": [
+          "Post once",
+          "Forget it"
+        ],
+        "after": [
+          "Top posts \u2192 repost",
+          "New hook, 30 days later"
+        ],
+        "at": "take"
+      },
       "say": "Bonus. Every month, *take* your top posts and repost them with a new hook. Winners win twice."
     },
     {
-      "layout": "punch", "bg": "neon", "bix": "smug",
+      "layout": "punch",
+      "bg": "neon",
+      "bix": "smug",
       "headline": "Questions are | *content.*",
-      "say": "Your customers are literally telling you what to *post.*"
+      "say": "Your customers are literally telling you what to *post.*",
+      "box": "what to post."
     },
     {
-      "layout": "bix", "pose": "celebrating", "bg": "ink", "bix": "happy",
+      "layout": "bix",
+      "pose": "celebrating",
+      "bg": "ink",
+      "bix": "happy",
       "label": "Steal the system",
       "headline": "Follow for *more*",
       "chips": [
-        { "icon": "camera", "text": "Save the prompts", "at": "save" },
-        { "icon": "users", "text": "Follow", "kind": "hot", "at": "follow" }
+        {
+          "icon": "camera",
+          "text": "Save the prompts",
+          "at": "save"
+        },
+        {
+          "icon": "users",
+          "text": "Follow",
+          "kind": "hot",
+          "at": "follow"
+        }
       ],
       "say": "*Save* this, steal the system, and follow for more."
     }
