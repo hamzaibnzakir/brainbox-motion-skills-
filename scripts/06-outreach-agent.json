@@ -1,83 +1,176 @@
 {
   "id": "06-outreach-agent",
   "title": "This AI agent runs my outreach while I sleep",
-  "caption": "Automate the repetitive. Keep the human part human. Comment AGENT for the breakdown 👇 #aiautomation #aiagents #ecommerce",
-  "avatar": { "dir": "assets/hero" },
+  "caption": "Automate the repetitive. Keep the human part human. Comment AGENT for the breakdown \ud83d\udc47 #aiautomation #aiagents #ecommerce",
+  "avatar": {
+    "dir": "assets/hero"
+  },
   "beats": [
     {
-      "layout": "bix", "pose": "presenting", "bg": "ink", "bix": "smug",
+      "layout": "bix",
+      "pose": "presenting",
+      "bg": "ink",
+      "bix": "smug",
       "headline": "I don't send *emails.*",
-      "chips": [{ "icon": "inbox", "text": "New replies", "kind": "hot", "at": "replies" }],
+      "chips": [
+        {
+          "icon": "inbox",
+          "text": "New replies",
+          "kind": "hot",
+          "at": "replies"
+        }
+      ],
       "say": "I wake up to client replies. I didn't send a *single* email."
     },
     {
-      "bg": "ink", "bix": "talk",
+      "bg": "ink",
+      "bix": "talk",
       "headline": "Meet my *AI agent*",
-      "visual": { "type": "icon", "icon": "bot", "badge": "zap", "badgeTone": "good", "badgeAt": "agent" },
-      "stamp": { "text": "WORKS 24/7", "at": "sleep", "y": 860 },
+      "visual": {
+        "type": "icon",
+        "icon": "bot",
+        "badge": "zap",
+        "badgeTone": "good",
+        "badgeAt": "agent"
+      },
+      "stamp": {
+        "text": "WORKS 24/7",
+        "at": "sleep",
+        "y": 860
+      },
       "say": "My AI agent does it while I *sleep.*"
     },
     {
-      "layout": "punch", "bg": "neon", "bix": "serious",
+      "layout": "punch",
+      "bg": "neon",
+      "bix": "serious",
       "headline": "Templates are *dead.*",
       "say": "[dissatisfaction-hnn] And no, it doesn't use *templates.*"
     },
     {
-      "layout": "punch", "bg": "void", "bix": "smug",
+      "layout": "punch",
+      "bg": "void",
+      "bix": "smug",
       "header": "3 *JOBS*",
-      "headline": "The last one's the *magic.*",
+      "headline": "The last one's | the *magic.*",
       "say": "It does three jobs. The last one's the *magic.*"
     },
     {
-      "bg": "ink", "bix": "talk",
-      "header": "1 · FIND *STORES*",
-      "visual": { "type": "icon", "icon": "radar" },
-      "chips": [{ "icon": "target", "text": "Ideal clients", "kind": "hot", "at": "ideal" }],
+      "bg": "ink",
+      "bix": "talk",
+      "header": "1 \u00b7 FIND *STORES*",
+      "visual": {
+        "type": "icon",
+        "icon": "radar"
+      },
+      "chips": [
+        {
+          "icon": "target",
+          "text": "Ideal clients",
+          "kind": "hot",
+          "at": "ideal"
+        }
+      ],
       "say": "One: it finds stores that match my *ideal* client."
     },
     {
-      "bg": "ink", "bix": "serious",
-      "header": "2 · AUDIT *EACH ONE*",
-      "visual": { "type": "checklist", "items": [
-        { "text": "Slow mobile", "ok": false, "at": "slow" },
-        { "text": "Weak headline", "ok": false, "at": "weak" },
-        { "text": "Hidden shipping", "ok": false, "at": "hidden" }
-      ] },
+      "bg": "ink",
+      "bix": "serious",
+      "header": "2 \u00b7 AUDIT *EACH ONE*",
+      "visual": {
+        "type": "checklist",
+        "items": [
+          {
+            "text": "Slow mobile",
+            "ok": false,
+            "at": "slow"
+          },
+          {
+            "text": "Weak headline",
+            "ok": false,
+            "at": "weak"
+          },
+          {
+            "text": "Hidden shipping",
+            "ok": false,
+            "at": "hidden"
+          }
+        ]
+      },
       "say": "Two: it audits each store. *Slow* mobile, weak headline, hidden shipping."
     },
     {
-      "layout": "punch", "bg": "void", "bix": "think",
+      "layout": "punch",
+      "bg": "void",
+      "bix": "think",
       "headline": "And *three?*",
       "say": "And three? [question-oh]"
     },
     {
-      "bg": "ink", "bix": "shock",
-      "header": "3 · PERSONAL *EMAILS*",
-      "visual": { "type": "flow", "nodes": [
-        { "icon": "mail", "text": "Writes about their issues", "at": "writes" },
-        { "icon": "send", "text": "Sends on schedule", "at": "sends" },
-        { "icon": "refresh", "text": "Follows up", "at": "follows" }
-      ] },
+      "bg": "ink",
+      "bix": "shock",
+      "header": "3 \u00b7 PERSONAL *EMAILS*",
+      "visual": {
+        "type": "flow",
+        "nodes": [
+          {
+            "icon": "mail",
+            "text": "Writes about their issues",
+            "at": "writes"
+          },
+          {
+            "icon": "send",
+            "text": "Sends on schedule",
+            "at": "sends"
+          },
+          {
+            "icon": "refresh",
+            "text": "Follows up",
+            "at": "follows"
+          }
+        ]
+      },
       "say": "[surprise-oh] Three: it writes about *their* problems, sends it, and follows up."
     },
     {
-      "bg": "ink", "bix": "happy",
+      "bg": "ink",
+      "bix": "happy",
       "headline": "I only show up for *yes.*",
-      "visual": { "type": "icon", "icon": "inbox", "badge": "check", "badgeTone": "good", "badgeAt": "yes" },
+      "visual": {
+        "type": "icon",
+        "icon": "inbox",
+        "badge": "check",
+        "badgeTone": "good",
+        "badgeAt": "yes"
+      },
       "say": "I only show up when someone says *yes.*"
     },
     {
-      "layout": "punch", "bg": "neon", "bix": "smug",
+      "layout": "punch",
+      "bg": "neon",
+      "bix": "smug",
       "headline": "Automate the *boring.*",
       "say": "Automate the *boring* part. Keep the human part human."
     },
     {
-      "layout": "bix", "pose": "celebrating", "bg": "ink", "bix": "happy",
+      "layout": "bix",
+      "pose": "celebrating",
+      "bg": "ink",
+      "bix": "happy",
       "label": "Free breakdown",
       "headline": "Comment *AGENT*",
       "chips": [
-        { "icon": "message", "text": "Comment AGENT", "kind": "hot", "at": "comment" },
-        { "icon": "workflow", "text": "Full setup", "at": "setup" }
+        {
+          "icon": "workflow",
+          "text": "Full setup",
+          "at": "setup"
+        },
+        {
+          "icon": "message",
+          "text": "Comment AGENT",
+          "kind": "hot",
+          "at": "comment"
+        }
       ],
       "say": "Want the full setup? *Comment* agent and I'll send the breakdown."
     }
