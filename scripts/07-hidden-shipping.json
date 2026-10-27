@@ -1,0 +1,66 @@
+{
+  "id": "07-hidden-shipping",
+  "title": "Stop hiding your shipping cost",
+  "caption": "People don't hate paying. They hate surprises. Save this for your next store update 👇 #checkout #conversionrate #shopifytips",
+  "avatar": { "dir": "assets/hero" },
+  "beats": [
+    {
+      "layout": "bix", "pose": "presenting", "bg": "ink", "bix": "smug",
+      "headline": "It's not the *price.*",
+      "chips": [{ "icon": "cart", "text": "Cart abandoned", "kind": "bad", "at": "quit" }],
+      "say": "People don't quit checkout because of price. They quit because of *surprises.*"
+    },
+    {
+      "bg": "ink", "bix": "shock",
+      "headline": "The *surprise* fee",
+      "visual": { "type": "browser", "url": "yourstore.com/checkout", "brand": "YOUR STORE", "hero": "Checkout",
+        "ship": "+ $14.99 shipping", "scroll": 150, "scrollAt": "boom",
+        "marks": [{ "target": "ship", "kind": "bad", "text": "SURPRISE", "at": "surprise" }] },
+      "say": "You add to cart, hit checkout, and *boom.* Surprise shipping. [surprise-oh]"
+    },
+    {
+      "layout": "punch", "bg": "neon", "bix": "serious",
+      "headline": "Surprises kill *sales.*",
+      "say": "[sigh] Surprises kill *sales.*"
+    },
+    {
+      "layout": "punch", "bg": "void", "bix": "smug",
+      "header": "2 *FIXES*",
+      "headline": "Pick *one.*",
+      "say": "Two easy fixes. Pick *one.*"
+    },
+    {
+      "bg": "ink", "bix": "talk",
+      "header": "1 · SHOW IT *EARLY*",
+      "visual": { "type": "browser", "url": "yourstore.com/product", "brand": "YOUR STORE", "hero": "Glow Serum · $29",
+        "ship": "Shipping $4.99 · arrives in 5 days", "scroll": 150, "scrollAt": "shipping",
+        "marks": [{ "target": "ship", "kind": "good", "text": "NO SURPRISES", "at": "product" }] },
+      "say": "One: show shipping right on the *product* page."
+    },
+    {
+      "bg": "ink", "bix": "happy",
+      "header": "2 · BUILD IT *IN*",
+      "visual": { "type": "icon", "icon": "truck", "badge": "check", "badgeTone": "good", "badgeAt": "free" },
+      "chips": [
+        { "icon": "tag", "text": "Price + shipping", "at": "price" },
+        { "icon": "gift", "text": "Free shipping", "kind": "hot", "at": "free" }
+      ],
+      "say": "Two: build it into the price, and call it *free* shipping."
+    },
+    {
+      "layout": "punch", "bg": "neon", "bix": "happy",
+      "headline": "No surprises. | More *sales.*",
+      "say": "No surprises. More *sales.* [confirmation-en]"
+    },
+    {
+      "layout": "bix", "pose": "celebrating", "bg": "ink", "bix": "happy",
+      "label": "Save this",
+      "headline": "Fix it *today*",
+      "chips": [
+        { "icon": "star", "text": "Save", "kind": "hot", "at": "save" },
+        { "icon": "users", "text": "Follow for more", "at": "follow" }
+      ],
+      "say": "*Save* this for your next store update, and follow for more."
+    }
+  ]
+}
