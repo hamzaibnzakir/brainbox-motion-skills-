@@ -16,7 +16,7 @@
           "at": "every"
         }
       ],
-      "say": "Your competitor's ads are *public.* I can see every single one.",
+      "say": "Your competitor's ads are *public.* I can see *every* single one.",
       "pose": "presenting"
     },
     {
@@ -42,7 +42,7 @@
       "bg": "neon",
       "bix": "shock",
       "headline": "Stop *guessing* ads.",
-      "say": "Stop *guessing* what to run."
+      "say": "So stop *guessing* what to run."
     },
     {
       "layout": "punch",
@@ -95,7 +95,7 @@
       "bg": "void",
       "bix": "think",
       "headline": "And *three?*",
-      "say": "And three?"
+      "say": "And three? [question-oh]"
     },
     {
       "bg": "ink",
@@ -122,7 +122,7 @@
           "at": "winning"
         }
       ],
-      "say": "Three: look at the start date. Running *sixty* days or more? That ad is *winning.*"
+      "say": "[surprise-oh] Three: check the start date. Running *sixty* days or more? That ad is *winning.*"
     },
     {
       "bg": "ink",
@@ -155,7 +155,7 @@
       "bg": "neon",
       "bix": "smug",
       "headline": "Still *guessing?*",
-      "say": "Still *guessing?*"
+      "say": "Still *guessing?* [laughter]"
     },
     {
       "layout": "bix",
