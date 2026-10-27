@@ -1,0 +1,87 @@
+{
+  "id": "05-competitor-best-seller",
+  "title": "How I find a competitor's best seller",
+  "caption": "Your competitors are doing your market research for free. Works on many Shopify stores. Follow for part 2 👇 #shopify #productresearch #ecommerce",
+  "avatar": { "dir": "assets/hero" },
+  "beats": [
+    {
+      "layout": "bix", "pose": "presenting", "bg": "ink", "bix": "smug",
+      "headline": "They'll *tell* you.",
+      "chips": [{ "icon": "trophy", "text": "Their best seller", "kind": "hot", "at": "best" }],
+      "say": "Want your competitor's best seller? They'll *tell* you."
+    },
+    {
+      "bg": "ink", "bix": "talk",
+      "headline": "Just the *URL bar*",
+      "visual": { "type": "browser", "url": "rival-store.com", "brand": "RIVAL", "hero": "New season drop" },
+      "stamp": { "text": "NO SPY TOOLS", "at": "url", "y": 820 },
+      "say": "No spy tools. Just the *URL* bar."
+    },
+    {
+      "layout": "punch", "bg": "neon", "bix": "shock",
+      "headline": "Stop *guessing* products.",
+      "say": "Stop *guessing* what sells."
+    },
+    {
+      "layout": "punch", "bg": "void", "bix": "smug",
+      "header": "3 *STEPS*",
+      "headline": "Step three saves you *money.*",
+      "say": "Three steps. Step three saves you *money.*"
+    },
+    {
+      "bg": "ink", "bix": "talk",
+      "header": "1 · ALL *PRODUCTS*",
+      "visual": { "type": "browser", "url": "rival-store.com/collections/all", "brand": "RIVAL", "hero": "All products" },
+      "chips": [{ "icon": "store", "text": "/collections/all", "at": "all" }],
+      "say": "One: open their *all* products page."
+    },
+    {
+      "bg": "ink", "bix": "talk",
+      "header": "2 · SORT BY *BEST SELLING*",
+      "visual": { "type": "browser", "url": "…/collections/all?sort_by=best-selling", "brand": "RIVAL", "hero": "Best selling",
+        "marks": [{ "target": "grid", "kind": "good", "text": "THEIR WINNERS", "at": "winners" }] },
+      "chips": [{ "icon": "filter", "text": "Best selling", "at": "sort" }],
+      "say": "Two: sort by best selling. The first products are their *winners.*"
+    },
+    {
+      "layout": "punch", "bg": "void", "bix": "think",
+      "headline": "And *three?*",
+      "say": "And three? [question-oh]"
+    },
+    {
+      "bg": "ink", "bix": "smug",
+      "header": "3 · CHECK THEIR *ADS*",
+      "visual": { "type": "icon", "icon": "spy", "badge": "check", "badgeTone": "good", "badgeAt": "confirmed" },
+      "chips": [
+        { "icon": "search", "text": "Ad Library", "at": "ad" },
+        { "icon": "checkCircle", "text": "Confirmed", "kind": "hot", "at": "confirmed" }
+      ],
+      "say": "Three: search those products in the Ad Library. Running ads? Winner *confirmed.* [confirmation-en]"
+    },
+    {
+      "bg": "ink", "bix": "serious",
+      "headline": "Don't copy. *Improve.*",
+      "visual": { "type": "flow", "nodes": [
+        { "icon": "star", "text": "Read 1-star reviews", "at": "read" },
+        { "icon": "bug", "text": "Find the complaint", "at": "complaint" },
+        { "icon": "sparkles", "text": "Fix it in yours", "at": "fix" }
+      ] },
+      "say": "Don't copy it. *Read* their one-star reviews, find the complaint, and fix it in yours."
+    },
+    {
+      "layout": "punch", "bg": "neon", "bix": "smug",
+      "headline": "Their research. Your *win.*",
+      "say": "Their research. Your *win.* [laughter]"
+    },
+    {
+      "layout": "bix", "pose": "celebrating", "bg": "ink", "bix": "happy",
+      "label": "More spy tricks",
+      "headline": "Follow for *part 2*",
+      "chips": [
+        { "icon": "users", "text": "Follow", "kind": "hot", "at": "follow" },
+        { "icon": "star", "text": "Save this", "at": "save" }
+      ],
+      "say": "*Follow* for more competitor tricks, and save this one."
+    }
+  ]
+}
