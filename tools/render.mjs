@@ -38,7 +38,7 @@ if (script.avatar) data.avatar = script.avatar;
 fs.writeFileSync(path.join(OUT, 'data.js'), 'window.__DATA = ' + JSON.stringify(data) + ';\n');
 const rel = path.relative(OUT, ROOT).split(path.sep).join('/');
 fs.writeFileSync(path.join(OUT, 'preview.html'),
-  fs.readFileSync(path.join(ROOT, 'engine/player.html'), 'utf8').replaceAll('ENGINE/', rel + '/engine/').replaceAll("'ROOT/'", `'${rel}/'`));
+  fs.readFileSync(path.join(ROOT, script.engine === 'v2' ? 'engine/player.html' : 'engine/player3.html'), 'utf8').replaceAll('ENGINE/', rel + '/engine/').replaceAll("'ROOT/'", `'${rel}/'`));
 console.log(`[timeline] ${data.beats.length} beats, ${data.duration.toFixed(1)}s, ${data.events.length} sfx events`);
 console.log(`[preview] open ${path.join(OUT, 'preview.html')}`);
 if (flag('preview-only', false)) process.exit(0);
@@ -77,6 +77,16 @@ const silent = path.join(OUT, 'video_silent.mp4');
 execFileSync('ffmpeg', ['-y', '-v', 'error', '-f', 'concat', '-safe', '0', '-i', list, '-c', 'copy', silent]);
 segs.forEach((s) => fs.unlinkSync(s));
 
+// 4. audio — v3: original music + designed SFX + ducked, loudness-matched mix (tools/audio3.py); v2: legacy sfx
+const final = path.join(OUT, `${id}${DRAFT ? '_draft' : ''}.mp4`);
+if (script.engine !== 'v2') {
+  execFileSync('python3', [path.join(ROOT, 'tools/audio3.py'), id], { stdio: 'inherit' });
+  execFileSync('ffmpeg', ['-y', '-v', 'error', '-i', silent, '-i', path.join(OUT, 'mix.wav'), '-map', '0:v', '-map', '1:a', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '256k',
+    '-t', String(data.duration), '-movflags', '+faststart', final]);
+  fs.unlinkSync(silent);
+  console.log(`[done] ${final}  (${((Date.now() - t0) / 1000).toFixed(0)}s total)`);
+  process.exit(0);
+}
 // 4. audio: voice + sfx + optional music
 const SFX = path.join(ROOT, 'assets/sfx');
 const inputs = ['-i', silent, '-i', audioFile];
@@ -96,7 +106,6 @@ if (music && fs.existsSync(path.resolve(ROOT, music))) {
   filters.push(`[${n}:a]volume=0.13,afade=t=out:st=${(data.duration - 1).toFixed(2)}:d=1[mu]`); mixes.push('[mu]'); n++;
 }
 filters.push(`${mixes.join('')}amix=inputs=${mixes.length}:normalize=0:duration=first,alimiter=limit=0.95[a]`);
-const final = path.join(OUT, `${id}${DRAFT ? '_draft' : ''}.mp4`);
 execFileSync('ffmpeg', ['-y', '-v', 'error', ...inputs, '-filter_complex', filters.join(';'), '-map', '0:v', '-map', '[a]',
   '-c:v', 'copy', '-c:a', 'aac', '-b:a', '192k', '-t', String(data.duration), '-movflags', '+faststart', final], { maxBuffer: 1 << 26 });
 fs.unlinkSync(silent);

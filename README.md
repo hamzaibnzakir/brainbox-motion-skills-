@@ -16,7 +16,8 @@ idea (content/30-reel-ideas.md)
 | Path | What |
 |---|---|
 | `content/30-reel-ideas.md` | 30 numbered reel scripts across 5 pillars + a 15-day posting schedule |
-| `docs/STYLE.md` | The Brainbox motion system: colors = emotion, type, layout grid, building blocks, motion rules, story formula |
+| `docs/REDESIGN_V3.md` | **Current look (v3):** reference forensics + the editorial-light/dark-pivot system, original music, SFX palette and mix spec |
+| `docs/STYLE.md` | Building blocks (scene fields) and the v2 dark style (legacy, `"engine": "v2"`) |
 | `docs/CHARACTER.md` | The host's character bible, image files, expression mapping, art prompt |
 | `docs/VOICE.md` | Voice-clone workflow and **emotion tags** (`[laughter]`, `[sigh]`, …) |
 | `docs/SCRIPT_PROMPT.md` | Prompt that turns an idea into a scene file |
@@ -44,7 +45,7 @@ node tools/export-voice-script.mjs scripts/03-name.json        # 2. lines for th
 #    generate in the voice studio, then save as voice/03-name/voice.wav
 python3 tools/align_ctc.py scripts/03-name.json voice/03-name/voice.wav voice/03-name/words.json   # 3. forced-alignment timings
 node tools/render.mjs scripts/03-name.json --preview-only       # 4. open out/03-name/preview.html and scrub
-node tools/render.mjs scripts/03-name.json                      # 5. final MP4 (~3–5 min)
+node tools/render.mjs scripts/03-name.json                      # 5. final MP4 with v3 visuals + original music/SFX mix (~5 min)
 ```
 - `--draft`: half resolution, ~3× faster, for checks
 - `node tools/proof.mjs 03-name`: contact sheet of one frame per scene

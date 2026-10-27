@@ -6,6 +6,6 @@ This repo makes Brainbox TikTok/Reels videos. Read `README.md` for the pipeline.
 - Every scene needs `say`. `*word*` = caption emphasis. `[tag]` = voice-studio emotion tag (hidden from captions, see `docs/VOICE.md`). Every `"at"` anchor must start a real word in the same scene's `say`.
 - Voice comes from the user's voice clone. Export lines with `node tools/export-voice-script.mjs`, the user records, then run `python3 tools/align_ctc.py` (forced alignment) and spot-check with `tools/transcribe.py` before rendering. Pause-based aligners drift. Don't use them by default.
 - Before a full render, run `--preview-only` + `node tools/proof.mjs <id>` and look at the contact sheet.
-- The look is purple/blue on near-black (`engine/style.css` `:root`). Don't reintroduce the old green palette.
+- The look is **v3**: editorial light with dark AI pivots (`engine/v3.*`, spec in `docs/REDESIGN_V3.md`). Audio is generated per video by `tools/audio3.py` (original music, SFX on real events, ducked mix at -13 LUFS). Don't add stock music or third-party logos.
 - Never invent stats about real brands or name real people in scripts.
 - `out/` and `node_modules/` are gitignored. Only commit scripts, voice folders, docs, engine, tools and assets.
