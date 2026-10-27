@@ -1,0 +1,931 @@
+{
+ "audio": "voice.wav",
+ "words": [
+  {
+   "text": "Most",
+   "start": 0.03,
+   "end": 0.194
+  },
+  {
+   "text": "of",
+   "start": 0.214,
+   "end": 0.378
+  },
+  {
+   "text": "your",
+   "start": 0.398,
+   "end": 0.562
+  },
+  {
+   "text": "buyers",
+   "start": 0.582,
+   "end": 0.745
+  },
+  {
+   "text": "shop",
+   "start": 0.765,
+   "end": 0.929
+  },
+  {
+   "text": "on",
+   "start": 0.949,
+   "end": 1.113
+  },
+  {
+   "text": "their",
+   "start": 1.133,
+   "end": 1.297
+  },
+  {
+   "text": "phone.",
+   "start": 1.317,
+   "end": 1.573
+  },
+  {
+   "text": "And",
+   "start": 1.593,
+   "end": 1.756
+  },
+  {
+   "text": "on",
+   "start": 1.776,
+   "end": 1.94
+  },
+  {
+   "text": "mobile,",
+   "start": 1.96,
+   "end": 2.239
+  },
+  {
+   "text": "your",
+   "start": 2.259,
+   "end": 2.423
+  },
+  {
+   "text": "store",
+   "start": 2.443,
+   "end": 2.607
+  },
+  {
+   "text": "is",
+   "start": 2.627,
+   "end": 2.791
+  },
+  {
+   "text": "probably",
+   "start": 2.811,
+   "end": 3.204
+  },
+  {
+   "text": "slow.",
+   "start": 3.224,
+   "end": 3.48
+  },
+  {
+   "text": "Here's",
+   "start": 3.57,
+   "end": 3.846
+  },
+  {
+   "text": "the",
+   "start": 3.866,
+   "end": 4.028
+  },
+  {
+   "text": "free",
+   "start": 4.048,
+   "end": 4.21
+  },
+  {
+   "text": "ten-second",
+   "start": 4.23,
+   "end": 4.62
+  },
+  {
+   "text": "test,",
+   "start": 4.64,
+   "end": 4.802
+  },
+  {
+   "text": "and",
+   "start": 4.822,
+   "end": 4.985
+  },
+  {
+   "text": "the",
+   "start": 5.005,
+   "end": 5.167
+  },
+  {
+   "text": "exact",
+   "start": 5.187,
+   "end": 5.463
+  },
+  {
+   "text": "fixes.",
+   "start": 5.483,
+   "end": 5.85
+  },
+  {
+   "text": "Every",
+   "start": 6.182,
+   "end": 6.706
+  },
+  {
+   "text": "extra",
+   "start": 6.726,
+   "end": 7.1
+  },
+  {
+   "text": "second",
+   "start": 7.12,
+   "end": 7.493
+  },
+  {
+   "text": "loses",
+   "start": 7.513,
+   "end": 7.887
+  },
+  {
+   "text": "buyers.",
+   "start": 7.907,
+   "end": 8.25
+  },
+  {
+   "text": "Go",
+   "start": 8.28,
+   "end": 8.476
+  },
+  {
+   "text": "to",
+   "start": 8.496,
+   "end": 8.692
+  },
+  {
+   "text": "PageSpeed",
+   "start": 8.712,
+   "end": 9.179
+  },
+  {
+   "text": "Insights,",
+   "start": 9.199,
+   "end": 9.53
+  },
+  {
+   "text": "paste",
+   "start": 9.55,
+   "end": 9.746
+  },
+  {
+   "text": "your",
+   "start": 9.766,
+   "end": 9.962
+  },
+  {
+   "text": "store",
+   "start": 9.982,
+   "end": 10.178
+  },
+  {
+   "text": "link,",
+   "start": 10.198,
+   "end": 10.394
+  },
+  {
+   "text": "and",
+   "start": 10.414,
+   "end": 10.61
+  },
+  {
+   "text": "open",
+   "start": 10.63,
+   "end": 10.961
+  },
+  {
+   "text": "the",
+   "start": 10.981,
+   "end": 11.178
+  },
+  {
+   "text": "mobile",
+   "start": 11.198,
+   "end": 11.529
+  },
+  {
+   "text": "tab.",
+   "start": 11.549,
+   "end": 11.853
+  },
+  {
+   "text": "Under",
+   "start": 11.873,
+   "end": 12.204
+  },
+  {
+   "text": "fifty?",
+   "start": 12.224,
+   "end": 12.663
+  },
+  {
+   "text": "You're",
+   "start": 12.683,
+   "end": 12.88
+  },
+  {
+   "text": "leaking",
+   "start": 12.9,
+   "end": 13.231
+  },
+  {
+   "text": "sales.",
+   "start": 13.251,
+   "end": 13.69
+  },
+  {
+   "text": "Now,",
+   "start": 14.08,
+   "end": 14.249
+  },
+  {
+   "text": "three",
+   "start": 14.269,
+   "end": 14.437
+  },
+  {
+   "text": "fixes.",
+   "start": 14.457,
+   "end": 14.838
+  },
+  {
+   "text": "The",
+   "start": 14.858,
+   "end": 15.026
+  },
+  {
+   "text": "last",
+   "start": 15.046,
+   "end": 15.215
+  },
+  {
+   "text": "one,",
+   "start": 15.235,
+   "end": 15.403
+  },
+  {
+   "text": "nobody",
+   "start": 15.423,
+   "end": 15.827
+  },
+  {
+   "text": "checks.",
+   "start": 15.847,
+   "end": 16.11
+  },
+  {
+   "text": "One.",
+   "start": 16.28,
+   "end": 16.536
+  },
+  {
+   "text": "Compress",
+   "start": 16.556,
+   "end": 16.834
+  },
+  {
+   "text": "every",
+   "start": 16.854,
+   "end": 17.248
+  },
+  {
+   "text": "image",
+   "start": 17.268,
+   "end": 17.546
+  },
+  {
+   "text": "before",
+   "start": 17.566,
+   "end": 17.845
+  },
+  {
+   "text": "you",
+   "start": 17.865,
+   "end": 18.029
+  },
+  {
+   "text": "upload",
+   "start": 18.049,
+   "end": 18.327
+  },
+  {
+   "text": "it.",
+   "start": 18.347,
+   "end": 18.603
+  },
+  {
+   "text": "Banners",
+   "start": 18.623,
+   "end": 18.902
+  },
+  {
+   "text": "under",
+   "start": 18.922,
+   "end": 19.2
+  },
+  {
+   "text": "three",
+   "start": 19.22,
+   "end": 19.384
+  },
+  {
+   "text": "hundred",
+   "start": 19.404,
+   "end": 19.683
+  },
+  {
+   "text": "kilobytes.",
+   "start": 19.703,
+   "end": 20.303
+  },
+  {
+   "text": "Then",
+   "start": 20.323,
+   "end": 20.487
+  },
+  {
+   "text": "kill",
+   "start": 20.507,
+   "end": 20.671
+  },
+  {
+   "text": "the",
+   "start": 20.691,
+   "end": 20.854
+  },
+  {
+   "text": "autoplay",
+   "start": 20.874,
+   "end": 21.268
+  },
+  {
+   "text": "video",
+   "start": 21.288,
+   "end": 21.567
+  },
+  {
+   "text": "and",
+   "start": 21.587,
+   "end": 21.75
+  },
+  {
+   "text": "the",
+   "start": 21.77,
+   "end": 21.934
+  },
+  {
+   "text": "six-slide",
+   "start": 21.954,
+   "end": 22.233
+  },
+  {
+   "text": "slideshow.",
+   "start": 22.253,
+   "end": 22.738
+  },
+  {
+   "text": "One",
+   "start": 22.758,
+   "end": 22.922
+  },
+  {
+   "text": "strong",
+   "start": 22.942,
+   "end": 23.106
+  },
+  {
+   "text": "image",
+   "start": 23.126,
+   "end": 23.404
+  },
+  {
+   "text": "wins.",
+   "start": 23.424,
+   "end": 23.68
+  },
+  {
+   "text": "Two.",
+   "start": 23.71,
+   "end": 24.02
+  },
+  {
+   "text": "Delete",
+   "start": 24.04,
+   "end": 24.378
+  },
+  {
+   "text": "every",
+   "start": 24.398,
+   "end": 24.873
+  },
+  {
+   "text": "app",
+   "start": 24.893,
+   "end": 25.093
+  },
+  {
+   "text": "you're",
+   "start": 25.113,
+   "end": 25.313
+  },
+  {
+   "text": "not",
+   "start": 25.333,
+   "end": 25.533
+  },
+  {
+   "text": "actively",
+   "start": 25.553,
+   "end": 26.166
+  },
+  {
+   "text": "using.",
+   "start": 26.186,
+   "end": 26.634
+  },
+  {
+   "text": "Each",
+   "start": 26.654,
+   "end": 26.854
+  },
+  {
+   "text": "one",
+   "start": 26.874,
+   "end": 27.074
+  },
+  {
+   "text": "loads",
+   "start": 27.094,
+   "end": 27.294
+  },
+  {
+   "text": "its",
+   "start": 27.314,
+   "end": 27.514
+  },
+  {
+   "text": "own",
+   "start": 27.534,
+   "end": 27.734
+  },
+  {
+   "text": "code",
+   "start": 27.754,
+   "end": 27.955
+  },
+  {
+   "text": "on",
+   "start": 27.975,
+   "end": 28.175
+  },
+  {
+   "text": "every",
+   "start": 28.195,
+   "end": 28.67
+  },
+  {
+   "text": "page.",
+   "start": 28.69,
+   "end": 29.0
+  },
+  {
+   "text": "And",
+   "start": 29.29,
+   "end": 29.466
+  },
+  {
+   "text": "three?",
+   "start": 29.486,
+   "end": 29.76
+  },
+  {
+   "text": "Three.",
+   "start": 29.95,
+   "end": 30.23
+  },
+  {
+   "text": "Uninstalled",
+   "start": 30.32,
+   "end": 31.066
+  },
+  {
+   "text": "apps",
+   "start": 31.086,
+   "end": 31.333
+  },
+  {
+   "text": "often",
+   "start": 31.353,
+   "end": 31.766
+  },
+  {
+   "text": "leave",
+   "start": 31.786,
+   "end": 32.033
+  },
+  {
+   "text": "code",
+   "start": 32.053,
+   "end": 32.299
+  },
+  {
+   "text": "behind",
+   "start": 32.319,
+   "end": 32.732
+  },
+  {
+   "text": "in",
+   "start": 32.752,
+   "end": 32.999
+  },
+  {
+   "text": "your",
+   "start": 33.019,
+   "end": 33.266
+  },
+  {
+   "text": "theme.",
+   "start": 33.286,
+   "end": 33.666
+  },
+  {
+   "text": "Search",
+   "start": 33.686,
+   "end": 33.932
+  },
+  {
+   "text": "your",
+   "start": 33.952,
+   "end": 34.199
+  },
+  {
+   "text": "theme",
+   "start": 34.219,
+   "end": 34.465
+  },
+  {
+   "text": "files",
+   "start": 34.485,
+   "end": 34.898
+  },
+  {
+   "text": "for",
+   "start": 34.918,
+   "end": 35.165
+  },
+  {
+   "text": "the",
+   "start": 35.185,
+   "end": 35.432
+  },
+  {
+   "text": "old",
+   "start": 35.452,
+   "end": 35.698
+  },
+  {
+   "text": "app's",
+   "start": 35.718,
+   "end": 35.965
+  },
+  {
+   "text": "name,",
+   "start": 35.985,
+   "end": 36.231
+  },
+  {
+   "text": "or",
+   "start": 36.251,
+   "end": 36.498
+  },
+  {
+   "text": "ask",
+   "start": 36.518,
+   "end": 36.764
+  },
+  {
+   "text": "its",
+   "start": 36.784,
+   "end": 37.031
+  },
+  {
+   "text": "support",
+   "start": 37.051,
+   "end": 37.464
+  },
+  {
+   "text": "to",
+   "start": 37.484,
+   "end": 37.731
+  },
+  {
+   "text": "remove",
+   "start": 37.751,
+   "end": 38.164
+  },
+  {
+   "text": "it.",
+   "start": 38.184,
+   "end": 38.564
+  },
+  {
+   "text": "Back",
+   "start": 38.584,
+   "end": 38.83
+  },
+  {
+   "text": "up",
+   "start": 38.85,
+   "end": 39.097
+  },
+  {
+   "text": "your",
+   "start": 39.117,
+   "end": 39.364
+  },
+  {
+   "text": "theme",
+   "start": 39.384,
+   "end": 39.63
+  },
+  {
+   "text": "first.",
+   "start": 39.65,
+   "end": 40.03
+  },
+  {
+   "text": "Bonus.",
+   "start": 40.43,
+   "end": 40.895
+  },
+  {
+   "text": "Copy",
+   "start": 40.915,
+   "end": 41.266
+  },
+  {
+   "text": "the",
+   "start": 41.286,
+   "end": 41.494
+  },
+  {
+   "text": "report",
+   "start": 41.514,
+   "end": 41.865
+  },
+  {
+   "text": "into",
+   "start": 41.885,
+   "end": 42.236
+  },
+  {
+   "text": "any",
+   "start": 42.256,
+   "end": 42.606
+  },
+  {
+   "text": "AI",
+   "start": 42.626,
+   "end": 42.835
+  },
+  {
+   "text": "and",
+   "start": 42.855,
+   "end": 43.063
+  },
+  {
+   "text": "ask",
+   "start": 43.083,
+   "end": 43.291
+  },
+  {
+   "text": "it",
+   "start": 43.311,
+   "end": 43.519
+  },
+  {
+   "text": "to",
+   "start": 43.539,
+   "end": 43.747
+  },
+  {
+   "text": "rank",
+   "start": 43.767,
+   "end": 43.976
+  },
+  {
+   "text": "the",
+   "start": 43.996,
+   "end": 44.204
+  },
+  {
+   "text": "fixes",
+   "start": 44.224,
+   "end": 44.575
+  },
+  {
+   "text": "by",
+   "start": 44.595,
+   "end": 44.803
+  },
+  {
+   "text": "impact,",
+   "start": 44.823,
+   "end": 45.174
+  },
+  {
+   "text": "with",
+   "start": 45.194,
+   "end": 45.402
+  },
+  {
+   "text": "steps",
+   "start": 45.422,
+   "end": 45.63
+  },
+  {
+   "text": "a",
+   "start": 45.65,
+   "end": 45.858
+  },
+  {
+   "text": "non-developer",
+   "start": 45.878,
+   "end": 46.657
+  },
+  {
+   "text": "can",
+   "start": 46.677,
+   "end": 46.885
+  },
+  {
+   "text": "follow.",
+   "start": 46.905,
+   "end": 47.37
+  },
+  {
+   "text": "Then",
+   "start": 47.45,
+   "end": 47.667
+  },
+  {
+   "text": "run",
+   "start": 47.687,
+   "end": 47.905
+  },
+  {
+   "text": "the",
+   "start": 47.925,
+   "end": 48.142
+  },
+  {
+   "text": "test",
+   "start": 48.162,
+   "end": 48.38
+  },
+  {
+   "text": "again,",
+   "start": 48.4,
+   "end": 48.766
+  },
+  {
+   "text": "and",
+   "start": 48.786,
+   "end": 49.003
+  },
+  {
+   "text": "watch",
+   "start": 49.023,
+   "end": 49.241
+  },
+  {
+   "text": "the",
+   "start": 49.261,
+   "end": 49.478
+  },
+  {
+   "text": "score",
+   "start": 49.498,
+   "end": 49.716
+  },
+  {
+   "text": "climb.",
+   "start": 49.736,
+   "end": 50.072
+  },
+  {
+   "text": "Speed",
+   "start": 50.89,
+   "end": 51.022
+  },
+  {
+   "text": "isn't",
+   "start": 51.042,
+   "end": 51.175
+  },
+  {
+   "text": "a",
+   "start": 51.195,
+   "end": 51.327
+  },
+  {
+   "text": "tech",
+   "start": 51.347,
+   "end": 51.48
+  },
+  {
+   "text": "thing.",
+   "start": 51.5,
+   "end": 51.709
+  },
+  {
+   "text": "It's",
+   "start": 51.729,
+   "end": 51.861
+  },
+  {
+   "text": "a",
+   "start": 51.881,
+   "end": 52.014
+  },
+  {
+   "text": "sales",
+   "start": 52.034,
+   "end": 52.261
+  },
+  {
+   "text": "thing.",
+   "start": 52.281,
+   "end": 52.49
+  },
+  {
+   "text": "Save",
+   "start": 52.52,
+   "end": 52.791
+  },
+  {
+   "text": "this,",
+   "start": 52.811,
+   "end": 53.083
+  },
+  {
+   "text": "run",
+   "start": 53.103,
+   "end": 53.374
+  },
+  {
+   "text": "the",
+   "start": 53.394,
+   "end": 53.666
+  },
+  {
+   "text": "test",
+   "start": 53.686,
+   "end": 53.957
+  },
+  {
+   "text": "tonight,",
+   "start": 53.977,
+   "end": 54.431
+  },
+  {
+   "text": "and",
+   "start": 54.451,
+   "end": 54.723
+  },
+  {
+   "text": "follow",
+   "start": 54.743,
+   "end": 55.196
+  },
+  {
+   "text": "for",
+   "start": 55.216,
+   "end": 55.488
+  },
+  {
+   "text": "more",
+   "start": 55.508,
+   "end": 55.779
+  },
+  {
+   "text": "store",
+   "start": 55.799,
+   "end": 56.071
+  },
+  {
+   "text": "fixes.",
+   "start": 56.091,
+   "end": 56.69
+  }
+ ],
+ "provider": "runs"
+}

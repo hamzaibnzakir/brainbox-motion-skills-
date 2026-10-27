@@ -21,6 +21,7 @@ The host's voice is a **voice clone in your voice studio**. Use the same clone a
    **Smooth, pause-free deliveries** (long runs with only tiny breaths) work better with
    `python3 tools/align_speech.py scripts/<id>.json voice/<id>/voice.wav voice/<id>/words.json`.
    It anchors on the few real pauses, spreads syllables over the actual speaking time, and snaps line starts to breaths.
+   **Most reliable for this voice clone:** `python3 tools/align_peaks.py scripts/<id>.json voice/<id>/voice.wav voice/<id>/words.json`. It locks lines to real pauses, then maps syllable counts onto detected syllable peaks between them. To hand-fix a couple of boundaries: `python3 tools/runs_from_words.py scripts/<id>.json voice/<id>/words.json > voice/<id>/runs.txt`, edit the times, then run `words_from_runs.py`.
 5. Render. The renderer picks up `voice/03-name/` automatically:
    ```bash
    node tools/render.mjs scripts/03-name.json
