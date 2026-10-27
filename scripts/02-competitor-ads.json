@@ -1,0 +1,186 @@
+{
+  "id": "02-competitor-ads",
+  "title": "See your competitor's ads for free",
+  "caption": "Old ads = winning ads. Save this before your next launch. #facebookads #ecommerce #shopify",
+  "beats": [
+    {
+      "layout": "bix",
+      "bg": "ink",
+      "bix": "smug",
+      "headline": "Their ads are *public.*",
+      "chips": [
+        {
+          "icon": "spy",
+          "text": "Every active ad",
+          "kind": "hot",
+          "at": "every"
+        }
+      ],
+      "say": "Your competitor's ads are *public.* I can see every single one.",
+      "pose": "presenting"
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "headline": "Free. *Ten seconds.*",
+      "visual": {
+        "type": "icon",
+        "icon": "search",
+        "badge": "check",
+        "badgeTone": "good",
+        "badgeAt": "free"
+      },
+      "stamp": {
+        "text": "100% FREE",
+        "at": "free",
+        "y": 860
+      },
+      "say": "No tools. No paid apps. It's *free.*"
+    },
+    {
+      "layout": "punch",
+      "bg": "neon",
+      "bix": "shock",
+      "headline": "Stop *guessing* ads.",
+      "say": "Stop *guessing* what to run."
+    },
+    {
+      "layout": "punch",
+      "bg": "void",
+      "bix": "smug",
+      "header": "3 *STEPS*",
+      "headline": "Step three is the *secret.*",
+      "say": "Three steps. Step three is the *secret.*"
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "header": "1 \u00b7 AD *LIBRARY*",
+      "visual": {
+        "type": "icon",
+        "icon": "globe"
+      },
+      "chips": [
+        {
+          "icon": "search",
+          "text": "Meta Ad Library",
+          "at": "meta"
+        }
+      ],
+      "say": "One: open the *Meta* Ad Library."
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "header": "2 \u00b7 TYPE THEIR *NAME*",
+      "visual": {
+        "type": "icon",
+        "icon": "store",
+        "badge": "eye",
+        "badgeTone": "good",
+        "badgeAt": "every"
+      },
+      "chips": [
+        {
+          "icon": "list",
+          "text": "All live ads",
+          "kind": "hot",
+          "at": "every"
+        }
+      ],
+      "say": "Two: type their brand name. *Every* live ad shows up."
+    },
+    {
+      "layout": "punch",
+      "bg": "void",
+      "bix": "think",
+      "headline": "And *three?*",
+      "say": "And three?"
+    },
+    {
+      "bg": "ink",
+      "bix": "shock",
+      "header": "3 \u00b7 CHECK THE *DATE*",
+      "visual": {
+        "type": "stat",
+        "from": 0,
+        "to": 60,
+        "suffix": "+ days",
+        "label": "Still running = making money",
+        "at": "sixty"
+      },
+      "chips": [
+        {
+          "icon": "calendar",
+          "text": "Start date",
+          "at": "start"
+        },
+        {
+          "icon": "trophy",
+          "text": "Winner",
+          "kind": "hot",
+          "at": "winning"
+        }
+      ],
+      "say": "Three: look at the start date. Running *sixty* days or more? That ad is *winning.*"
+    },
+    {
+      "bg": "ink",
+      "bix": "happy",
+      "headline": "Your *next* ad",
+      "visual": {
+        "type": "flow",
+        "nodes": [
+          {
+            "icon": "spy",
+            "text": "Find their oldest ad",
+            "at": "find"
+          },
+          {
+            "icon": "lightbulb",
+            "text": "Steal the angle",
+            "at": "angle"
+          },
+          {
+            "icon": "sparkles",
+            "text": "Make it better",
+            "at": "better"
+          }
+        ]
+      },
+      "say": "*Find* their oldest ad, take the angle, and make it better."
+    },
+    {
+      "layout": "punch",
+      "bg": "neon",
+      "bix": "smug",
+      "headline": "Still *guessing?*",
+      "say": "Still *guessing?*"
+    },
+    {
+      "layout": "bix",
+      "bg": "ink",
+      "bix": "happy",
+      "label": "Save this",
+      "headline": "Save for *launch day*",
+      "chips": [
+        {
+          "icon": "star",
+          "text": "Save",
+          "kind": "hot",
+          "at": "save"
+        },
+        {
+          "icon": "users",
+          "text": "Follow for more",
+          "at": "follow"
+        }
+      ],
+      "say": "*Save* this before your next launch, and follow for more.",
+      "pose": "celebrating"
+    }
+  ],
+  "avatar": {
+    "dir": "assets/hero"
+  }
+}

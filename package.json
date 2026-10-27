@@ -1,0 +1,12 @@
+{
+  "name": "brainbox-content-machine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Script JSON -> voice -> animated 1080x1920 video with Bix",
+  "scripts": {
+    "render": "node tools/render.mjs",
+    "batch": "node tools/batch.mjs"
+  },
+  "dependencies": { "playwright": "^1.48.0" }
+}

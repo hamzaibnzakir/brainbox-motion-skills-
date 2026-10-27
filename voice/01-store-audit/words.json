@@ -1,0 +1,506 @@
+{
+ "audio": "voice.wav",
+ "words": [
+  {
+   "text": "This",
+   "start": 0.05,
+   "end": 0.302
+  },
+  {
+   "text": "store",
+   "start": 0.322,
+   "end": 0.575
+  },
+  {
+   "text": "gets",
+   "start": 0.595,
+   "end": 0.847
+  },
+  {
+   "text": "traffic...",
+   "start": 0.867,
+   "end": 1.29
+  },
+  {
+   "text": "but",
+   "start": 1.95,
+   "end": 2.156
+  },
+  {
+   "text": "zero",
+   "start": 2.176,
+   "end": 2.523
+  },
+  {
+   "text": "sales.",
+   "start": 2.543,
+   "end": 2.89
+  },
+  {
+   "text": "Let",
+   "start": 2.93,
+   "end": 3.105
+  },
+  {
+   "text": "me",
+   "start": 3.125,
+   "end": 3.3
+  },
+  {
+   "text": "find",
+   "start": 3.32,
+   "end": 3.496
+  },
+  {
+   "text": "the",
+   "start": 3.516,
+   "end": 3.691
+  },
+  {
+   "text": "leaks",
+   "start": 3.711,
+   "end": 3.886
+  },
+  {
+   "text": "in",
+   "start": 3.906,
+   "end": 4.081
+  },
+  {
+   "text": "60",
+   "start": 4.101,
+   "end": 4.643
+  },
+  {
+   "text": "seconds.",
+   "start": 4.663,
+   "end": 4.96
+  },
+  {
+   "text": "This",
+   "start": 5.47,
+   "end": 5.709
+  },
+  {
+   "text": "store",
+   "start": 5.729,
+   "end": 5.969
+  },
+  {
+   "text": "is",
+   "start": 5.989,
+   "end": 6.228
+  },
+  {
+   "text": "a",
+   "start": 6.248,
+   "end": 6.487
+  },
+  {
+   "text": "leaky",
+   "start": 6.507,
+   "end": 6.909
+  },
+  {
+   "text": "bucket.",
+   "start": 6.929,
+   "end": 7.33
+  },
+  {
+   "text": "Three",
+   "start": 8.1,
+   "end": 8.45
+  },
+  {
+   "text": "leaks.",
+   "start": 8.47,
+   "end": 8.82
+  },
+  {
+   "text": "The",
+   "start": 9.36,
+   "end": 9.564
+  },
+  {
+   "text": "last",
+   "start": 9.584,
+   "end": 9.788
+  },
+  {
+   "text": "one's",
+   "start": 9.808,
+   "end": 10.152
+  },
+  {
+   "text": "the",
+   "start": 10.172,
+   "end": 10.376
+  },
+  {
+   "text": "worst.",
+   "start": 10.396,
+   "end": 10.6
+  },
+  {
+   "text": "One:",
+   "start": 11.57,
+   "end": 11.834
+  },
+  {
+   "text": "the",
+   "start": 11.854,
+   "end": 12.119
+  },
+  {
+   "text": "headline",
+   "start": 12.139,
+   "end": 12.581
+  },
+  {
+   "text": "says",
+   "start": 12.601,
+   "end": 12.866
+  },
+  {
+   "text": "elevate",
+   "start": 12.886,
+   "end": 13.506
+  },
+  {
+   "text": "your",
+   "start": 13.526,
+   "end": 13.79
+  },
+  {
+   "text": "lifestyle.",
+   "start": 13.81,
+   "end": 14.43
+  },
+  {
+   "text": "What",
+   "start": 14.7,
+   "end": 15.088
+  },
+  {
+   "text": "do",
+   "start": 15.107,
+   "end": 15.495
+  },
+  {
+   "text": "they",
+   "start": 15.515,
+   "end": 15.902
+  },
+  {
+   "text": "sell?",
+   "start": 15.922,
+   "end": 16.31
+  },
+  {
+   "text": "It",
+   "start": 17.27,
+   "end": 17.54
+  },
+  {
+   "text": "says",
+   "start": 17.87,
+   "end": 18.04
+  },
+  {
+   "text": "nothing.",
+   "start": 18.06,
+   "end": 18.35
+  },
+  {
+   "text": "Two:",
+   "start": 18.63,
+   "end": 19.13
+  },
+  {
+   "text": "shipping",
+   "start": 19.51,
+   "end": 19.755
+  },
+  {
+   "text": "only",
+   "start": 19.775,
+   "end": 20.02
+  },
+  {
+   "text": "shows",
+   "start": 20.38,
+   "end": 20.62
+  },
+  {
+   "text": "up",
+   "start": 20.9,
+   "end": 21.07
+  },
+  {
+   "text": "at",
+   "start": 21.09,
+   "end": 21.261
+  },
+  {
+   "text": "checkout.",
+   "start": 21.281,
+   "end": 21.57
+  },
+  {
+   "text": "Surprise",
+   "start": 21.83,
+   "end": 22.278
+  },
+  {
+   "text": "fees",
+   "start": 22.298,
+   "end": 22.566
+  },
+  {
+   "text": "make",
+   "start": 22.586,
+   "end": 22.854
+  },
+  {
+   "text": "people",
+   "start": 22.874,
+   "end": 23.142
+  },
+  {
+   "text": "leave.",
+   "start": 23.162,
+   "end": 23.43
+  },
+  {
+   "text": "And",
+   "start": 23.68,
+   "end": 23.92
+  },
+  {
+   "text": "three?",
+   "start": 23.94,
+   "end": 24.18
+  },
+  {
+   "text": "Three:",
+   "start": 24.93,
+   "end": 25.139
+  },
+  {
+   "text": "it",
+   "start": 25.159,
+   "end": 25.368
+  },
+  {
+   "text": "takes",
+   "start": 25.388,
+   "end": 25.74
+  },
+  {
+   "text": "six",
+   "start": 25.76,
+   "end": 25.969
+  },
+  {
+   "text": "seconds",
+   "start": 25.989,
+   "end": 26.341
+  },
+  {
+   "text": "to",
+   "start": 26.361,
+   "end": 26.57
+  },
+  {
+   "text": "load",
+   "start": 26.59,
+   "end": 26.799
+  },
+  {
+   "text": "on",
+   "start": 26.819,
+   "end": 27.028
+  },
+  {
+   "text": "mobile.",
+   "start": 27.048,
+   "end": 27.4
+  },
+  {
+   "text": "Half",
+   "start": 28.13,
+   "end": 28.454
+  },
+  {
+   "text": "the",
+   "start": 28.474,
+   "end": 28.798
+  },
+  {
+   "text": "visitors",
+   "start": 28.818,
+   "end": 29.572
+  },
+  {
+   "text": "are",
+   "start": 29.592,
+   "end": 29.916
+  },
+  {
+   "text": "gone.",
+   "start": 29.936,
+   "end": 30.26
+  },
+  {
+   "text": "The",
+   "start": 30.51,
+   "end": 30.899
+  },
+  {
+   "text": "fix:",
+   "start": 30.919,
+   "end": 31.308
+  },
+  {
+   "text": "a",
+   "start": 31.328,
+   "end": 31.717
+  },
+  {
+   "text": "clear",
+   "start": 31.737,
+   "end": 32.126
+  },
+  {
+   "text": "headline,",
+   "start": 32.146,
+   "end": 32.79
+  },
+  {
+   "text": "shipping",
+   "start": 33.11,
+   "end": 33.33
+  },
+  {
+   "text": "upfront,",
+   "start": 33.35,
+   "end": 33.57
+  },
+  {
+   "text": "and",
+   "start": 34.13,
+   "end": 34.348
+  },
+  {
+   "text": "compress",
+   "start": 34.368,
+   "end": 34.736
+  },
+  {
+   "text": "your",
+   "start": 34.756,
+   "end": 34.974
+  },
+  {
+   "text": "images.",
+   "start": 34.994,
+   "end": 35.51
+  },
+  {
+   "text": "Still",
+   "start": 35.83,
+   "end": 36.405
+  },
+  {
+   "text": "buying",
+   "start": 36.425,
+   "end": 37.0
+  },
+  {
+   "text": "more",
+   "start": 37.02,
+   "end": 37.595
+  },
+  {
+   "text": "ads?",
+   "start": 37.615,
+   "end": 38.19
+  },
+  {
+   "text": "That's",
+   "start": 38.7,
+   "end": 38.984
+  },
+  {
+   "text": "burning",
+   "start": 39.004,
+   "end": 39.477
+  },
+  {
+   "text": "money.",
+   "start": 39.497,
+   "end": 39.97
+  },
+  {
+   "text": "Want",
+   "start": 40.39,
+   "end": 40.676
+  },
+  {
+   "text": "yours",
+   "start": 40.696,
+   "end": 40.982
+  },
+  {
+   "text": "checked?",
+   "start": 41.002,
+   "end": 41.48
+  },
+  {
+   "text": "Comment",
+   "start": 41.87,
+   "end": 42.237
+  },
+  {
+   "text": "audit",
+   "start": 42.257,
+   "end": 42.624
+  },
+  {
+   "text": "and",
+   "start": 42.644,
+   "end": 42.862
+  },
+  {
+   "text": "I'll",
+   "start": 42.882,
+   "end": 43.1
+  },
+  {
+   "text": "look",
+   "start": 43.12,
+   "end": 43.338
+  },
+  {
+   "text": "at",
+   "start": 43.358,
+   "end": 43.576
+  },
+  {
+   "text": "it",
+   "start": 43.596,
+   "end": 43.814
+  },
+  {
+   "text": "for",
+   "start": 43.834,
+   "end": 44.052
+  },
+  {
+   "text": "free.",
+   "start": 44.072,
+   "end": 44.29
+  }
+ ],
+ "provider": "file-aligned"
+}

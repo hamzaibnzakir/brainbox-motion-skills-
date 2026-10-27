@@ -1,0 +1,217 @@
+{
+  "id": "01-store-audit",
+  "title": "I audited this store in 60 seconds",
+  "caption": "Most stores don't need more traffic. They need fewer leaks. Comment AUDIT \ud83d\udc47 #shopify #ecommerce #ecommercetips",
+  "beats": [
+    {
+      "layout": "bix",
+      "bg": "ink",
+      "bix": "smug",
+      "headline": "This store has *traffic.*",
+      "chips": [
+        {
+          "icon": "users",
+          "text": "12K visitors",
+          "at": "traffic"
+        },
+        {
+          "icon": "cart",
+          "text": "0 sales",
+          "kind": "bad",
+          "at": "sales"
+        }
+      ],
+      "say": "This store gets *traffic*... but zero *sales.*",
+      "pose": "presenting"
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "headline": "Audit in *60 seconds*",
+      "visual": {
+        "type": "browser",
+        "url": "glowify-store.com",
+        "brand": "GLOWIFY",
+        "hero": "Elevate your lifestyle"
+      },
+      "stamp": {
+        "text": "60 SEC AUDIT",
+        "at": "seconds",
+        "y": 820
+      },
+      "say": "Let me find the leaks in *60 seconds.*"
+    },
+    {
+      "layout": "punch",
+      "bg": "neon",
+      "bix": "shock",
+      "headline": "It's a *leaky* bucket.",
+      "say": "This store is a *leaky bucket.*"
+    },
+    {
+      "layout": "punch",
+      "bg": "void",
+      "bix": "smug",
+      "header": "3 *LEAKS*",
+      "headline": "The last one's the *worst.*",
+      "say": "Three leaks. The last one's the *worst.*"
+    },
+    {
+      "bg": "ink",
+      "bix": "serious",
+      "header": "1 \u00b7 VAGUE *HEADLINE*",
+      "visual": {
+        "type": "browser",
+        "url": "glowify-store.com",
+        "brand": "GLOWIFY",
+        "hero": "Elevate your lifestyle",
+        "marks": [
+          {
+            "target": "hero",
+            "kind": "bad",
+            "text": "SAYS NOTHING",
+            "at": "nothing"
+          }
+        ]
+      },
+      "chips": [
+        {
+          "icon": "help",
+          "text": "What do they sell?",
+          "at": "what"
+        }
+      ],
+      "say": "One: the headline says elevate your lifestyle. *What* do they sell? It says *nothing.*"
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "header": "2 \u00b7 HIDDEN *SHIPPING*",
+      "visual": {
+        "type": "browser",
+        "url": "glowify-store.com/cart",
+        "brand": "GLOWIFY",
+        "hero": "Elevate your lifestyle",
+        "ship": "+ $14.99 shipping at checkout",
+        "scroll": 150,
+        "scrollAt": "shipping",
+        "marks": [
+          {
+            "target": "ship",
+            "kind": "bad",
+            "text": "SURPRISE FEE",
+            "at": "checkout"
+          }
+        ]
+      },
+      "chips": [
+        {
+          "icon": "cart",
+          "text": "Added to cart",
+          "at": "shows"
+        },
+        {
+          "icon": "xCircle",
+          "text": "Abandoned",
+          "kind": "bad",
+          "at": "leave"
+        }
+      ],
+      "say": "Two: shipping only shows up at *checkout.* Surprise fees make people *leave.*"
+    },
+    {
+      "layout": "punch",
+      "bg": "void",
+      "bix": "think",
+      "headline": "And *three?*",
+      "say": "And three?"
+    },
+    {
+      "bg": "ink",
+      "bix": "shock",
+      "header": "3 \u00b7 SLOW *MOBILE*",
+      "visual": {
+        "type": "gauge",
+        "from": 31,
+        "label": "Mobile speed score",
+        "at": "three"
+      },
+      "chips": [
+        {
+          "icon": "timer",
+          "text": "6s to load",
+          "at": "six"
+        },
+        {
+          "icon": "users",
+          "text": "Half bounce",
+          "kind": "bad",
+          "at": "half"
+        }
+      ],
+      "say": "Three: it takes *six seconds* to load on mobile. *Half* the visitors are gone."
+    },
+    {
+      "bg": "ink",
+      "bix": "happy",
+      "headline": "Fix all *three*",
+      "visual": {
+        "type": "checklist",
+        "items": [
+          {
+            "text": "Clear headline",
+            "at": "clear"
+          },
+          {
+            "text": "Shipping upfront",
+            "at": "shipping"
+          },
+          {
+            "text": "Compress images",
+            "at": "compress"
+          }
+        ]
+      },
+      "say": "The fix: a *clear* headline, shipping upfront, and compress your images."
+    },
+    {
+      "layout": "punch",
+      "bg": "neon",
+      "bix": "smug",
+      "headline": "Still buying *ads?*",
+      "say": "Still buying more *ads?*"
+    },
+    {
+      "layout": "punch",
+      "bg": "void",
+      "bix": "serious",
+      "headline": "That's *burning* money.",
+      "say": "That's *burning* money."
+    },
+    {
+      "layout": "bix",
+      "bg": "ink",
+      "bix": "happy",
+      "label": "Free store audit",
+      "headline": "Comment *AUDIT*",
+      "chips": [
+        {
+          "icon": "message",
+          "text": "Comment AUDIT",
+          "kind": "hot",
+          "at": "comment"
+        },
+        {
+          "icon": "gift",
+          "text": "Free",
+          "at": "free"
+        }
+      ],
+      "say": "Want yours checked? *Comment* audit and I'll look at it for *free.*",
+      "pose": "celebrating"
+    }
+  ],
+  "avatar": {
+    "dir": "assets/hero"
+  }
+}
