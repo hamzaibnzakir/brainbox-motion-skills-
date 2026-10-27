@@ -1,0 +1,15 @@
+0.05 2.07 People don't quit checkout because of price.
+2.20 3.68 They quit because of surprises.
+4.07 4.71 You add to cart,
+4.91 6.11 hit checkout, and boom.
+6.49 7.39 Surprise shipping.
+7.98 8.26 [surprise-oh]
+8.58 8.86 [sigh]
+9.08 10.38 Surprises kill sales.
+10.65 12.18 Two easy fixes. Pick one.
+12.51 14.84 One: show shipping right on the product page.
+15.14 18.22 Two: build it into the price, and call it free shipping.
+18.41 19.33 No surprises.
+19.71 20.53 More sales. [confirmation-en]
+21.04 23.07 Save this for your next store update,
+23.33 24.41 and follow for more.
