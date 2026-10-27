@@ -9,6 +9,7 @@ const b = await playwright.chromium.launch(); const p = await b.newPage({ viewpo
 await p.goto('file://' + path.join(OUT, 'preview.html') + '?render=1');
 await p.evaluate(() => document.documentElement.style.setProperty('--scale', 1 / 3));
 await p.evaluate(() => document.fonts.ready);
+await p.evaluate(() => window.BB.ready());
 const dir = path.join(OUT, 'proof'); fs.mkdirSync(dir, { recursive: true });
 for (let i = 0; i < times.length; i++) { await p.evaluate((t) => renderAt(t), times[i]); await p.screenshot({ path: path.join(dir, `f${String(i).padStart(2, '0')}.png`) }); }
 await b.close();

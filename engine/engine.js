@@ -158,11 +158,20 @@
 
   const AV = { talk: ['default', 'talking'], happy: ['happy', 'excited'], shock: ['talking', 'excited'], smug: ['default', 'talking'],
     wink: ['happy', 'excited'], serious: ['serious', 'talking'], think: ['thinking', 'thinking'] };
+  // Every avatar image is preloaded into each rig and toggled, so a frame is never captured mid-load.
+  const AV_FILES = ['default', 'talking', 'happy', 'excited', 'thinking', 'serious', 'presenting', 'explaining', 'celebrating', 'main'];
+  const avReady = [];
   function setAvatar(rig, src) {
-    let img = rig.querySelector('img.av');
-    if (!img) { rig.innerHTML = ''; rig.classList.add('img'); img = document.createElement('img'); img.className = 'av'; rig.append(img); }
-    const full = (window.__ROOT || '') + src;
-    if (img.dataset.src !== full) { img.src = full; img.dataset.src = full; }
+    if (!rig._imgs) {
+      rig.innerHTML = ''; rig.classList.add('img'); rig._imgs = {};
+      AV_FILES.forEach((f) => {
+        const img = document.createElement('img'); img.className = 'av'; img.style.visibility = 'hidden';
+        img.src = (window.__ROOT || '') + D.avatar.dir + '/' + f + '.png';
+        avReady.push(img.decode().catch(() => {}));
+        rig.append(img); rig._imgs[D.avatar.dir + '/' + f + '.png'] = img;
+      });
+    }
+    for (const [k, img] of Object.entries(rig._imgs)) img.style.visibility = k === src ? 'visible' : 'hidden';
   }
   const faceSrc = (expr, v) => { const m = AV[expr] || AV.talk; return D.avatar.dir + '/' + (v > 0.14 ? m[1] : m[0]) + '.png'; };
   let D, stage, bgs = {}, layers = [], cap, capRow, bubble, bubbleRig, chunks = [];
@@ -312,6 +321,7 @@
     }
   }
 
-  window.BB = { init };
+  window.BB = { init, ready: () => { renderAt(0); if (D && D.avatar) { layersWarm(); } return Promise.all(avReady); } };
+  function layersWarm() { const v = D.avatar; layers.forEach((P) => { if (P.bixRig) setAvatar(P.bixRig, v.dir + '/presenting.png'); }); if (bubbleRig) setAvatar(bubbleRig, v.dir + '/default.png'); }
   window.renderAt = renderAt;
 })();

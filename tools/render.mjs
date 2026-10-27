@@ -55,6 +55,7 @@ async function worker(k) {
   await page.goto('file://' + path.join(OUT, 'preview.html') + '?render=1');
   await page.evaluate((s) => document.documentElement.style.setProperty('--scale', s), DRAFT ? 0.5 : 1);
   await page.evaluate(() => document.fonts.ready);
+  await page.evaluate(() => window.BB.ready());
   const segFile = path.join(OUT, `seg${k}.mp4`);
   const ff = spawn('ffmpeg', ['-y', '-v', 'error', '-f', 'image2pipe', '-framerate', String(FPS), '-c:v', 'mjpeg', '-i', '-',
     '-c:v', 'libx264', '-preset', 'veryfast', '-crf', DRAFT ? '26' : '18', '-pix_fmt', 'yuv420p', segFile], { stdio: ['pipe', 'inherit', 'inherit'] });
