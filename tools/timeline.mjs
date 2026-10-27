@@ -47,6 +47,10 @@ export function buildTimeline(script, voice, audioDur, envelope, fps) {
       if (v.type === 'gauge') { v.t = at(v.at, b.start + 0.2); if (v.at2 != null) { v.t2 = at(v.at2, v.t + 1.2); events.push({ t: v.t2 + 1.1, type: 'ding' }); } }
       if (v.items) v.items.forEach((it, k) => { it.t = at(it.at, spread(k, v.items.length)); events.push({ t: it.t + 0.35, type: it.ok === false ? 'pop' : 'tick' }); });
       if (v.nodes) v.nodes.forEach((n, k) => { n.t = at(n.at, spread(k, v.nodes.length)); events.push({ t: n.t, type: 'tick' }); });
+      if (v.type === 'prompt' || v.type === 'compare') {
+        v.t = at(v.at, b.start + 0.3); events.push({ t: v.t, type: v.type === 'compare' ? 'whoosh' : 'tick' });
+        if (v.type === 'prompt') { v.replyT = at(v.replyAt, v.t + (v.prompt || '').length / 48 + 0.4); events.push({ t: v.replyT, type: 'pop' }); }
+      }
       if (v.type === 'stat') { v.t = at(v.at, b.start + 0.2); events.push({ t: v.t + 1.0, type: 'ding' }); }
     }
     if (i > 0 && (beats[i - 1].bg || 'ink') !== (b.bg || 'ink')) events.push({ t: b.start, type: 'whoosh' });

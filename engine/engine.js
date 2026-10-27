@@ -115,8 +115,13 @@
     },
     checklist(v) {
       const el = h('div', 'card'); const list = h('div', 'checklist'); el.append(list);
+      const n = (v.items || []).length;
+      if (n > 3) { list.style.gap = '14px'; list.style.top = '34px'; }
       const rows = (v.items || []).map((it) => {
-        const r = h('div', 'ck', `<div class="box"></div><div>${esc(it.text)}</div>`); list.append(r); return { it, r, box: r.firstChild };
+        const r = h('div', 'ck', `<div class="box"></div><div>${esc(it.text)}</div>`); list.append(r);
+        if (n > 3) { const rh = Math.floor((532 - (n - 1) * 14) / n); Object.assign(r.style, { height: rh + 'px', fontSize: (n > 4 ? 38 : 42) + 'px' });
+          Object.assign(r.firstChild.style, { width: '60px', height: '60px', padding: '8px' }); }
+        return { it, r, box: r.firstChild };
       });
       return { el, update(t) {
         rows.forEach(({ it, r, box }) => {
@@ -148,6 +153,41 @@
           const p = rise(t, n.t - 0.25, 0.35, 30); setT(d, `translateY(${p.y}px)`, 0.3 + 0.7 * p.o);
           const next = nodes[i + 1]; d.classList.toggle('on', t >= n.t && (!next || t < next.n.t));
         });
+      } };
+    },
+    prompt(v) {
+      // AI chat window: the prompt types itself, then the reply streams in line by line.
+      const el = h('div', 'card chat');
+      el.innerHTML = `<div class="chat-bar"><div class="ci">${icon('sparkles')}</div>AI CHAT<span>any model works</span></div>
+        <div class="chat-body"><div class="msg me"><span class="typed"></span><i class="caret"></i></div><div class="msg ai"></div></div>`;
+      const typed = el.querySelector('.typed'), caret = el.querySelector('.caret'), ai = el.querySelector('.msg.ai');
+      const lines = (v.reply || []).map((r) => { const d = h('div', 'rl'); ai.append(d); return d; });
+      const full = v.prompt || '';
+      return { el, update(t) {
+        const n = Math.max(0, Math.min(full.length, Math.floor((t - v.t) * 48)));
+        typed.textContent = full.slice(0, n);
+        caret.style.opacity = n < full.length && t >= v.t ? (Math.floor(t * 3) % 2 ? 1 : 0.2) : 0;
+        const rt = v.replyT != null ? v.replyT : v.t + full.length / 48 + 0.4;
+        ai.style.opacity = t >= rt ? 1 : 0;
+        lines.forEach((d, k) => {
+          const txt = v.reply[k]; const t0 = rt + k * 0.42;
+          const m = Math.max(0, Math.min(txt.length, Math.floor((t - t0) * 70)));
+          d.textContent = txt.slice(0, m); d.style.opacity = m > 0 ? 1 : 0;
+        });
+      } };
+    },
+    compare(v) {
+      // Before / after split. "after" slides in on its anchor word.
+      const el = h('div', 'card cmp');
+      const col = (cls, title, items) => `<div class="side ${cls}"><div class="tag">${title}</div>${items.map((x) => `<div class="li">${esc(x)}</div>`).join('')}</div>`;
+      el.innerHTML = col('before', 'BEFORE', v.before || []) + col('after', 'AFTER', v.after || []);
+      const after = el.querySelector('.after'), before = el.querySelector('.before');
+      const ali = [...after.querySelectorAll('.li')];
+      return { el, update(t) {
+        const p = easeOut(clamp((t - v.t) / 0.45));
+        setT(after, `translateX(${(1 - p) * 120}%)`, p);
+        before.style.filter = `grayscale(${p}) brightness(${1 - 0.35 * p})`;
+        ali.forEach((li, k) => { const r = rise(t, v.t + 0.3 + k * 0.14, 0.3, 24); setT(li, `translateY(${r.y}px)`, r.o); });
       } };
     },
     image(v) {
@@ -197,6 +237,7 @@
       parts.bixCard = h('div', 'bix-card', '<div class="rig"></div>'); parts.bixRig = parts.bixCard.firstChild; L.append(parts.bixCard);
     } else if (b.visual && VISUALS[b.visual.type]) {
       parts.vis = VISUALS[b.visual.type](b.visual); L.append(parts.vis.el);
+      parts.shine = h('div', 'shine'); parts.vis.el.append(parts.shine);
     }
     if (b.chips && b.chips.length) {
       const row = h('div', 'chips'); if (layout === 'bix') row.style.top = '1196px';
@@ -222,10 +263,18 @@
     const b1 = h('div', 'blob'); Object.assign(b1.style, { width: '700px', height: '700px', background: 'rgba(57,255,136,.20)' });
     const b2 = h('div', 'blob'); Object.assign(b2.style, { width: '600px', height: '600px', background: 'rgba(60,120,255,.13)' });
     ink.append(b1, b2);
+    // pixel particles (matches the host's pixel-art style)
+    const parts = [];
+    for (let k = 0; k < 28; k++) {
+      const r = (n) => { const x = Math.sin(k * 127.1 + n * 311.7) * 43758.5453; return x - Math.floor(x); };
+      const d = h('div', 'px'); const size = 8 + Math.round(r(1) * 3) * 4;
+      Object.assign(d.style, { width: size + 'px', height: size + 'px', background: r(2) > 0.5 ? '#8C6BFF' : '#4D7CFF' });
+      ink.append(d); parts.push({ d, x: r(3) * 1080, y: r(4) * 1920, sp: 18 + r(5) * 40, ph: r(6) * 6.28, size });
+    }
     const neon = h('div', 'bg bg-neon', '<div class="rings"></div>');
     const voidb = h('div', 'bg bg-void', '<div class="scan"></div>');
     b1.style.background = 'rgba(140,105,255,.22)';
-    bgs = { ink, neon, void: voidb, b1, b2, grid: ink.firstChild, rings: neon.firstChild, scan: voidb.firstChild };
+    bgs = { parts, ink, neon, void: voidb, b1, b2, grid: ink.firstChild, rings: neon.firstChild, scan: voidb.firstChild };
     stage.append(ink, neon, voidb);
     layers = D.beats.map(buildBeat);
     capRow = h('div', null); capRow.id = 'captionRow';
@@ -254,6 +303,10 @@
     setT(bgs.b1, `translate(${180 + Math.sin(t * .35) * 160}px, ${300 + Math.cos(t * .27) * 220}px)`);
     setT(bgs.b2, `translate(${420 + Math.cos(t * .3) * 200}px, ${1100 + Math.sin(t * .22) * 200}px)`);
     setT(bgs.grid, `translateY(${(t * 18) % 90}px)`);
+    bgs.parts.forEach((q) => {
+      const y = ((q.y - t * q.sp) % 2000 + 2000) % 2000 - 40;
+      setT(q.d, `translate(${q.x + Math.sin(t * 0.6 + q.ph) * 14}px, ${y}px)`, 0.15 + 0.35 * (0.5 + 0.5 * Math.sin(t * 2 + q.ph)));
+    });
     setT(bgs.rings, `scale(${1 + (t % 1.2) * 0.06})`);
     bgs.scan.style.top = ((t * 520) % 2400 - 300) + 'px';
     stage.classList.toggle('on-neon', (B.bg === 'neon') ? p > 0.5 : prev >= 0 && D.beats[prev].bg === 'neon' && p <= 0.5);
@@ -263,17 +316,20 @@
       const b = D.beats[i];
       if (i !== bi && i !== prev) { P.L.style.display = 'none'; return; }
       P.L.style.display = 'block';
-      if (i === bi) { P.L.style.opacity = p; P.L.style.filter = p < 1 ? `blur(${(1 - p) * 16}px)` : 'none'; P.L.style.transform = `scale(${1.03 - 0.03 * p})`; }
-      else { P.L.style.opacity = 1 - p; P.L.style.filter = `blur(${p * 16}px)`; P.L.style.transform = `scale(${1 - 0.03 * p})`; }
+      const kb = 1 + 0.025 * clamp(((i === bi ? t : b.end) - b.start) / Math.max(0.5, b.end - b.start)); // slow camera push
+      if (i === bi) { P.L.style.opacity = p; P.L.style.filter = p < 1 ? `blur(${(1 - p) * 16}px)` : 'none'; P.L.style.transform = `scale(${(1.03 - 0.03 * p) * kb})`; }
+      else { P.L.style.opacity = 1 - p; P.L.style.filter = `blur(${p * 16}px)`; P.L.style.transform = `scale(${(1 - 0.03 * p) * kb})`; }
       let lt = i === bi ? t : b.end; // freeze outgoing at its end state
       const ht = i === 0 ? lt + 1 : lt; // hook text is fully visible on frame 1 (cover frame)
       if (P.header) { const r = rise(ht, b.start + 0.02, 0.38, 50); setT(P.header, `translateY(${r.y}px)`, r.o); }
       if (P.headline) {
         const r = P.layout === 'punch' ? pop(ht, b.start + 0.05, 0.4) : rise(ht, b.start + 0.06, 0.4, 40);
         setT(P.headline, P.layout === 'punch' ? `scale(${r.s})` : `translateY(${r.y}px)`, r.o);
+        if (b.bg !== 'neon') { const u = easeOut(clamp((ht - b.start - 0.35) / 0.45)); P.headline.style.setProperty('--u', (u * 100) + '%'); }
       }
       if (P.label) { const r = pop(lt, b.start + 0.12); setT(P.label, `translateX(-50%) scale(${r.s})`, r.o); }
-      if (P.vis) { const r = pop(lt, b.start + 0.1, 0.42); setT(P.vis.el, `scale(${lerp(0.9, 1, r.s === 0.8 ? 0 : (r.s - 0.8) / 0.2)})`, r.o); P.vis.update(lt); }
+      if (P.vis) { const r = pop(lt, b.start + 0.1, 0.42); setT(P.vis.el, `scale(${lerp(0.9, 1, r.s === 0.8 ? 0 : (r.s - 0.8) / 0.2)})`, r.o); P.vis.update(lt);
+        if (P.shine) { const q = clamp((lt - b.start - 0.25) / 0.8); P.shine.style.transform = `translateX(${lerp(-140, 260, easeInOut(q))}%) skewX(-20deg)`; P.shine.style.opacity = q > 0 && q < 1 ? 1 : 0; } }
       if (P.bixCard) {
         const r = pop(ht, b.start + 0.08, 0.45); setT(P.bixCard, `scale(${lerp(0.9, 1, (r.s - 0.8) / 0.2)})`, r.o);
         const st = bixState(b.bix || 'talk', lt, i === bi ? v : 0);
@@ -321,7 +377,21 @@
     }
   }
 
-  window.BB = { init, ready: () => { renderAt(0); if (D && D.avatar) { layersWarm(); } return Promise.all(avReady); } };
+  // Shrink headers/headlines until they fit their zone (needs fonts loaded, so it runs in ready()).
+  function fitAll() {
+    layers.forEach((P) => {
+      P.L.style.display = 'block';
+      const fit = (el, maxBottom, min) => {
+        if (!el) return; let fs = parseFloat(getComputedStyle(el).fontSize);
+        while (el.offsetTop + el.offsetHeight > maxBottom && fs > min) { fs -= 4; el.style.fontSize = fs + 'px'; }
+      };
+      if (P.layout === 'punch') { fit(P.header, P.headline ? 860 : 1220, 60); fit(P.headline, 1215, 64); }
+      else if (P.layout === 'bix') { fit(P.headline, 405, 56); }
+      else { fit(P.header, P.headline ? 350 : 455, 60); fit(P.headline, 455, 56); }
+      P.L.style.display = 'none';
+    });
+  }
+  window.BB = { init, ready: () => { fitAll(); renderAt(0); if (D && D.avatar) { layersWarm(); } return Promise.all(avReady); } };
   function layersWarm() { const v = D.avatar; layers.forEach((P) => { if (P.bixRig) setAvatar(P.bixRig, v.dir + '/presenting.png'); }); if (bubbleRig) setAvatar(bubbleRig, v.dir + '/default.png'); }
   window.renderAt = renderAt;
 })();

@@ -57,6 +57,8 @@ All fonts are free and bundled in `/fonts`.
 | Big number | `{"type":"stat","to":30.7,"decimals":1,"suffix":"K","label":"..","at":".."}` | Counts up, then a ding |
 | Flow | `{"type":"flow","nodes":[{"icon":"bot","text":"..","at":".."}]}` | For agent and automation videos |
 | Image | `{"type":"image","src":"assets/screenshot.png"}` | Real screenshots or AI art |
+| AI chat | `{"type":"prompt","prompt":"..","at":"..","reply":[".."],"replyAt":".."}` | Prompt types itself (48 chars/s with a caret), the reply streams line by line. The card is 640px tall |
+| Before/after | `{"type":"compare","before":[".."],"after":[".."],"at":".."}` | The before side greys out with strikethroughs, and the after side slides in |
 | Chips | `"chips":[{"icon":"timer","text":"6s to load","at":"six","kind":"hot\|bad"}]` | The last chip is usually `hot` (the answer) or `bad` (the pain) |
 | Stamp | `"stamp":{"text":"60 SEC AUDIT","at":"seconds","kind":"white\|bad","rot":-6,"y":820}` | Max 2 per video |
 
@@ -66,6 +68,8 @@ All fonts are free and bundled in `/fonts`.
 - Scene change: **blur dissolve** (0.3s, 16px blur, 3% scale). No slides or spins
 - Entrances: pop with overshoot (0.32s). Stamps **slam** (1.7×→1 in 0.16s plus a shake)
 - Everything that appears is **timed to a spoken word**. Nothing moves at random
+- v2 motion: drifting **pixel particles** (matches the host's pixel art), a slow **camera push** (2.5%) through every scene, a **light sweep** across each card as it lands, the accent word's **underline draws on**, and the spoken caption word **lifts and glows**
+- Text auto-fits: headers and headlines shrink until they fit their zone
 - Constant life: the grid drifts, the glow wanders, the host bobs and talks. The screen never freezes
 - Sound: tick (chip), pop (bad chip or mark), thud (stamp), whoosh (background change), ding (number lands). All generated, in `assets/sfx`
 
