@@ -1,0 +1,107 @@
+{
+  "id": "08-product-page-rewrite",
+  "title": "I fixed a bad product page with AI (full prompt)",
+  "caption": "The exact 2 prompts I use to turn a dead product page into one that answers every buyer question. Screenshot them. #shopify #productpage #aitools #ecommerce",
+  "avatar": { "dir": "assets/hero" },
+  "beats": [
+    {
+      "layout": "bix", "pose": "presenting", "bg": "ink", "bix": "smug",
+      "headline": "This page is *losing sales.*",
+      "chips": [
+        { "icon": "down", "text": "Low sales", "kind": "bad", "at": "losing" },
+        { "icon": "sparkles", "text": "Live AI fix", "kind": "hot", "at": "fix" }
+      ],
+      "say": "This product page is *losing* sales. Let me fix it with AI, live, with the exact prompts."
+    },
+    {
+      "bg": "ink", "bix": "serious",
+      "headline": "The *before*",
+      "visual": { "type": "browser", "url": "glowify-store.com/products/serum", "brand": "GLOWIFY", "hero": "Premium Serum",
+        "ship": "No reviews yet", "scroll": 150, "scrollAt": "reviews",
+        "marks": [
+          { "target": "hero", "kind": "bad", "text": "GENERIC TITLE", "at": "generic" },
+          { "target": "grid", "kind": "bad", "text": "ONE PHOTO", "at": "photo" },
+          { "target": "ship", "kind": "bad", "text": "ZERO PROOF", "at": "reviews" }
+        ] },
+      "say": "[dissatisfaction-hnn] *Generic* title. One photo. No reviews. And a wall of text nobody reads."
+    },
+    {
+      "layout": "punch", "bg": "neon", "bix": "serious",
+      "headline": "It answers | *nothing.*",
+      "say": "It doesn't answer a single *question* the buyer has."
+    },
+    {
+      "layout": "punch", "bg": "void", "bix": "smug",
+      "header": "3 *STEPS*",
+      "headline": "Two prompts. | Zero *copywriter.*",
+      "say": "Three steps. Two prompts. No copywriter *needed.*"
+    },
+    {
+      "bg": "ink", "bix": "talk",
+      "header": "1 · FIND THE *OBJECTIONS*",
+      "visual": { "type": "prompt",
+        "prompt": "Act as a skeptical first-time buyer. Here's my product page. List the top 5 reasons you would NOT buy.",
+        "at": "paste",
+        "reply": ["1. Is it worth $29?", "2. Will it work for my skin?", "3. Can I trust this brand?", "4. When will it arrive?", "5. What if I hate it?"],
+        "replyAt": "finds" },
+      "say": "Step one. *Paste* your page into any AI chat and say: act as a skeptical first-time buyer, list the top five reasons you would not buy. It finds them: price, fit, trust, delivery, and *returns.*"
+    },
+    {
+      "bg": "ink", "bix": "talk",
+      "header": "2 · ANSWER *EACH ONE*",
+      "visual": { "type": "checklist", "items": [
+        { "text": "Price → bundle + guarantee", "at": "price" },
+        { "text": "Fit → who it's for", "at": "fit" },
+        { "text": "Trust → reviews up top", "at": "trust" },
+        { "text": "Delivery → ship date", "at": "delivery" },
+        { "text": "Returns → 30-day badge", "at": "returns" }
+      ] },
+      "say": "Step two. Every objection becomes a *section.* Price gets a bundle and a guarantee. Fit gets a who-it's-for line. Trust gets reviews at the top. Delivery gets a ship date. Returns get a badge."
+    },
+    {
+      "layout": "punch", "bg": "void", "bix": "think",
+      "headline": "And *three?*",
+      "say": "And step three? [question-oh]"
+    },
+    {
+      "bg": "ink", "bix": "happy",
+      "header": "3 · REWRITE THE *COPY*",
+      "visual": { "type": "prompt",
+        "prompt": "Rewrite this page. Benefit-first headline. 3 bullets in my customers' words. Answer all 5 objections.",
+        "at": "ask",
+        "reply": ["Soft, glowing skin by morning", "• Sinks in fast, never sticky", "• \"My skin finally drinks it up\"", "• Love it or your money back"],
+        "replyAt": "benefit" },
+      "say": "*Ask* it to rewrite the page: a benefit-first headline, three bullets in your customers' words from real reviews, and an answer to every objection."
+    },
+    {
+      "bg": "ink", "bix": "shock",
+      "headline": "Same product. | New *page.*",
+      "visual": { "type": "compare",
+        "before": ["Premium Serum", "One photo", "No reviews", "Wall of text"],
+        "after": ["Soft skin by morning", "Photos in use", "Reviews up top", "Bundle + guarantee"],
+        "at": "completely" },
+      "say": "Same product. *Completely* different page. [surprise-oh]"
+    },
+    {
+      "bg": "ink", "bix": "talk",
+      "header": "BONUS · *TEST IT*",
+      "visual": { "type": "gauge", "from": 34, "to": 81, "label": "Page score", "at": "swap", "at2": "data" },
+      "say": "Bonus: swap it in for a week and compare sales. Let the *data* decide, not your opinion."
+    },
+    {
+      "layout": "punch", "bg": "neon", "bix": "smug",
+      "headline": "Less hype. | More *answers.*",
+      "say": "Buyers don't need more hype. They need *answers.*"
+    },
+    {
+      "layout": "bix", "pose": "celebrating", "bg": "ink", "bix": "happy",
+      "label": "New fixes daily",
+      "headline": "Follow for *more*",
+      "chips": [
+        { "icon": "camera", "text": "Screenshot the prompts", "at": "screenshot" },
+        { "icon": "users", "text": "Follow", "kind": "hot", "at": "follow" }
+      ],
+      "say": "*Screenshot* those two prompts, and follow for more AI store fixes."
+    }
+  ]
+}
