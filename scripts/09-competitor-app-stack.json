@@ -1,0 +1,94 @@
+{
+  "id": "09-competitor-app-stack",
+  "title": "See every app your competitor uses (and what to do with it)",
+  "caption": "Their app stack is public. Here's how to read it, and the sneaky way to get their entire email playbook for free. #shopifyapps #ecommerce #competitoranalysis #aitools",
+  "avatar": { "dir": "assets/hero" },
+  "beats": [
+    {
+      "layout": "bix", "pose": "presenting", "bg": "ink", "bix": "smug",
+      "headline": "See their *whole stack.*",
+      "chips": [{ "icon": "layers", "text": "Their app stack", "kind": "hot", "at": "visible" }],
+      "say": "Every app your competitor uses is *visible.* Their reviews app, email tool, upsells. All of it."
+    },
+    {
+      "bg": "ink", "bix": "talk",
+      "headline": "Free. *Ten seconds.*",
+      "visual": { "type": "icon", "icon": "scan", "badge": "eye", "badgeTone": "good", "badgeAt": "ten" },
+      "stamp": { "text": "FREE TOOLS", "at": "free", "y": 860 },
+      "say": "Free tools, ten seconds, and then I'll show you what to *do* with it."
+    },
+    {
+      "layout": "punch", "bg": "neon", "bix": "serious",
+      "headline": "Stop guessing | their *tools.*",
+      "say": "Stop *guessing* what they're running."
+    },
+    {
+      "layout": "punch", "bg": "void", "bix": "smug",
+      "header": "3 *MOVES*",
+      "headline": "Move three is | the *sneaky* one.",
+      "say": "Three moves. The third one is a little *sneaky.* [laughter]"
+    },
+    {
+      "bg": "ink", "bix": "talk",
+      "header": "1 · SCAN THEIR *STORE*",
+      "visual": { "type": "checklist", "items": [
+        { "text": "Reviews: photo reviews app", "at": "reviews" },
+        { "text": "Email + SMS tool", "at": "email" },
+        { "text": "Upsell + bundles app", "at": "upsell" },
+        { "text": "Meta + TikTok pixels", "at": "pixels" }
+      ] },
+      "chips": [{ "icon": "search", "text": "Wappalyzer / BuiltWith", "at": "install" }],
+      "say": "One. *Install* a free tech-lookup extension like Wappalyzer, or paste their URL into BuiltWith. You'll see their reviews app, email tool, upsell app, and tracking *pixels.*"
+    },
+    {
+      "bg": "ink", "bix": "talk",
+      "header": "2 · READ THE *SIGNALS*",
+      "visual": { "type": "flow", "nodes": [
+        { "icon": "star", "text": "Reviews app → proof sells", "at": "reviews" },
+        { "icon": "mail", "text": "Email tool → money after visit", "at": "email" },
+        { "icon": "trending", "text": "Upsell app → bigger orders", "at": "upsell" }
+      ] },
+      "say": "Two. Read what each app *means.* A reviews app means proof sells in this niche. An email tool means they make money after the first visit. An upsell app means they push bigger orders."
+    },
+    {
+      "layout": "punch", "bg": "void", "bix": "think",
+      "headline": "And *three?*",
+      "say": "And three? [question-oh]"
+    },
+    {
+      "bg": "ink", "bix": "shock",
+      "header": "3 · JOIN THEIR *LIST*",
+      "visual": { "type": "flow", "nodes": [
+        { "icon": "mail", "text": "Sign up with a spare inbox", "at": "sign" },
+        { "icon": "cart", "text": "Add to cart, then leave", "at": "add" },
+        { "icon": "inbox", "text": "Their flows hit your inbox", "at": "now" }
+      ] },
+      "say": "[surprise-oh] Three. *Sign* up to their email list with a spare inbox. Add something to cart and leave. Now their welcome and cart emails land in your inbox. Their whole playbook, free."
+    },
+    {
+      "bg": "ink", "bix": "happy",
+      "header": "BONUS · *ASK AI*",
+      "visual": { "type": "prompt",
+        "prompt": "Competitor app stack: [paste]. Explain their growth strategy. Which 3 apps should a small store copy first?",
+        "at": "paste",
+        "reply": ["Strategy: reviews + email-led", "1. Photo reviews app", "2. Welcome + cart flows", "3. Simple bundle upsell"],
+        "replyAt": "which" },
+      "say": "Bonus. *Paste* the stack into any AI and ask: explain their growth strategy, and which three apps should a small store copy first?"
+    },
+    {
+      "layout": "punch", "bg": "neon", "bix": "serious",
+      "headline": "Copy the strategy. | Not the *bloat.*",
+      "say": "Copy the strategy, not every app. Too many apps slow your *store.*"
+    },
+    {
+      "layout": "bix", "pose": "celebrating", "bg": "ink", "bix": "happy",
+      "label": "Save this",
+      "headline": "Follow for *more*",
+      "chips": [
+        { "icon": "star", "text": "Save this", "at": "save" },
+        { "icon": "users", "text": "Follow", "kind": "hot", "at": "follow" }
+      ],
+      "say": "*Save* this for your next competitor deep dive, and follow for more."
+    }
+  ]
+}
