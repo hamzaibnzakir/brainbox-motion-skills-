@@ -1,0 +1,237 @@
+{
+  "id": "18-ai-product-photos",
+  "title": "Product photos without a photographer (3 steps)",
+  "caption": "No studio, no photographer, just your phone. Shoot it right, cut it out, generate the scene. 10 store-ready photos in an afternoon. One rule: never fake the product. #productphotography #aitools #ecommerce #shopifytips",
+  "avatar": {
+    "dir": "assets/hero"
+  },
+  "beats": [
+    {
+      "layout": "bix",
+      "pose": "presenting",
+      "bg": "ink",
+      "bix": "smug",
+      "headline": "No studio. | No *photographer.*",
+      "chips": [
+        {
+          "icon": "camera",
+          "text": "No studio",
+          "kind": "bad",
+          "at": "studio"
+        },
+        {
+          "icon": "phone",
+          "text": "Just a phone",
+          "kind": "hot",
+          "at": "phone"
+        }
+      ],
+      "say": "This product photo cost me almost *nothing.* No studio. No photographer. Just my phone."
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "headline": "10 photos, *one* afternoon",
+      "visual": {
+        "type": "icon",
+        "icon": "image",
+        "badge": "check",
+        "badgeTone": "good",
+        "badgeAt": "afternoon"
+      },
+      "stamp": {
+        "text": "3 STEPS",
+        "at": "three",
+        "y": 860
+      },
+      "say": "Three steps to ten store-ready photos, in one *afternoon.*",
+      "box": "in one afternoon."
+    },
+    {
+      "layout": "punch",
+      "bg": "neon",
+      "bix": "serious",
+      "headline": "Bad photos look | *cheap.*",
+      "say": "[sigh] Bad photos make good products look *cheap.*"
+    },
+    {
+      "layout": "punch",
+      "bg": "void",
+      "bix": "smug",
+      "header": "3 *STEPS*",
+      "headline": "The last one | looks *expensive.*",
+      "say": "Three steps. The last one makes it look *expensive.*"
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "header": "1 · SHOOT IT *RIGHT*",
+      "visual": {
+        "type": "checklist",
+        "items": [
+          {
+            "text": "Next to a window",
+            "at": "window"
+          },
+          {
+            "text": "Plain white background",
+            "at": "plain"
+          },
+          {
+            "text": "Five angles",
+            "at": "five"
+          },
+          {
+            "text": "No flash",
+            "at": "flash"
+          }
+        ]
+      },
+      "say": "Step one, shoot it *right.* Put the product next to a window, on a plain white background. Take five angles. No flash."
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "header": "2 · CUT IT *OUT*",
+      "visual": {
+        "type": "compare",
+        "beforeLabel": "PHONE PHOTO",
+        "afterLabel": "CUTOUT",
+        "before": [
+          "Messy table",
+          "Shadows everywhere"
+        ],
+        "after": [
+          "Clean cutout",
+          "Pure white, store-ready"
+        ],
+        "at": "clean"
+      },
+      "chips": [
+        {
+          "icon": "zap",
+          "text": "Two seconds",
+          "kind": "hot",
+          "at": "seconds"
+        }
+      ],
+      "say": "Step two. Drop it into any free AI background remover. Messy table, gone. *Clean* cutout in two *seconds.*"
+    },
+    {
+      "layout": "punch",
+      "bg": "void",
+      "bix": "think",
+      "headline": "And step *three?*",
+      "say": "And step three? [question-oh]"
+    },
+    {
+      "bg": "ink",
+      "bix": "shock",
+      "header": "3 · GENERATE THE *SCENE*",
+      "visual": {
+        "type": "prompt",
+        "prompt": "Place this product on a marble counter, soft morning light, coffee cup blurred behind it. Don't change the product.",
+        "at": "upload",
+        "reply": [
+          "→ Kitchen counter, morning light",
+          "→ Beach towel, golden hour",
+          "→ Office desk, laptop nearby",
+          "→ Gift box, holiday lights"
+        ],
+        "replyAt": "kitchen"
+      },
+      "say": "Step three, the magic. *Upload* the cutout to an AI image tool and describe the scene. Kitchen counter. Beach towel. Office desk. Always add: don't change the product."
+    },
+    {
+      "bg": "ink",
+      "bix": "happy",
+      "header": "THE *RESULT*",
+      "visual": {
+        "type": "stat",
+        "from": 0,
+        "to": 10,
+        "suffix": " photos",
+        "label": "Product pages · ads · emails",
+        "at": "ten"
+      },
+      "say": "One afternoon. *Ten* photos. Enough for your product pages, your ads, and your emails."
+    },
+    {
+      "bg": "ink",
+      "bix": "serious",
+      "header": "THE ONE *RULE*",
+      "visual": {
+        "type": "checklist",
+        "items": [
+          {
+            "text": "Same color",
+            "at": "color"
+          },
+          {
+            "text": "Same size",
+            "at": "size"
+          },
+          {
+            "text": "Same details",
+            "at": "details"
+          },
+          {
+            "text": "A photo that lies",
+            "ok": false,
+            "at": "lies"
+          }
+        ]
+      },
+      "say": "One rule. Keep the product *accurate.* Same color, same size, same details. If the photo lies, you'll eat the refunds. [laughter]",
+      "box": "you'll eat the refunds."
+    },
+    {
+      "bg": "ink",
+      "bix": "smug",
+      "header": "BONUS · ADD *REAL VIDEO*",
+      "visual": {
+        "type": "compare",
+        "beforeLabel": "AI PHOTOS",
+        "afterLabel": "PHONE VIDEO",
+        "before": [
+          "Sell the vibe"
+        ],
+        "after": [
+          "Prove it's real",
+          "Builds trust"
+        ],
+        "at": "real"
+      },
+      "say": "Bonus. Film one quick video of the product on your phone too. AI photos sell the vibe. *Real* video proves it exists."
+    },
+    {
+      "layout": "punch",
+      "bg": "neon",
+      "bix": "smug",
+      "headline": "Your phone is | the *studio.*",
+      "say": "Your phone is now the *studio.*"
+    },
+    {
+      "layout": "bix",
+      "pose": "celebrating",
+      "bg": "ink",
+      "bix": "happy",
+      "label": "Shoot it tonight",
+      "headline": "Follow for *more*",
+      "chips": [
+        {
+          "icon": "camera",
+          "text": "Save the steps",
+          "at": "save"
+        },
+        {
+          "icon": "users",
+          "text": "Follow",
+          "kind": "hot",
+          "at": "follow"
+        }
+      ],
+      "say": "*Save* this, shoot your product tonight, and follow for more."
+    }
+  ]
+}
