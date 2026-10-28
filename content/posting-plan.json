@@ -1,0 +1,105 @@
+{
+  "note": "Posting order for the first 20 reels. 2 posts a day: odd slots = AM, even slots = PM. Pillars are mixed so no two of the same kind run back to back. caption = post text without hashtags; hashtags listed separately; post_text = both joined.",
+  "posts": [
+    {
+      "slot": 1, "id": "13-brand-vs-brand", "pillar": "Teardown",
+      "caption": "Two stores. Same product. Same supplier. One wins every single time.\n\nI scored them in 3 rounds: headline, proof, offer. Then I give you the prompt to score your own store against a competitor.\n\nSave this and run it on your store tonight.",
+      "hashtags": ["#ecommerce", "#shopifytips", "#conversionrate", "#ecommercetips", "#aitools"]
+    },
+    {
+      "slot": 2, "id": "16-trust-line", "pillar": "Quick win",
+      "caption": "New visitors don't trust your store yet. One line under your buy button changes that.\n\nRating. Delivery date. Free returns. Plus the prompt that writes it for you.\n\nAdd it today. Takes 5 minutes.",
+      "hashtags": ["#conversionrate", "#shopifytips", "#ecommercetips", "#webdesign", "#onlinestore"]
+    },
+    {
+      "slot": 3, "id": "02-competitor-ads", "pillar": "Spy",
+      "caption": "Your competitor's ads are public. Every single one.\n\nThe trick is the start date: an ad running 60+ days is making money. Find their oldest ad, take the angle, make it better.\n\nSave this before your next launch.",
+      "hashtags": ["#facebookads", "#metaads", "#ecommerce", "#competitorresearch", "#shopify"]
+    },
+    {
+      "slot": 4, "id": "10-reviews-to-ads", "pillar": "Tool",
+      "caption": "Your best ad is already written. It's hiding in your reviews.\n\n2 prompts turn 100 reviews into a month of ad hooks. Both are on screen.\n\nScreenshot them.",
+      "hashtags": ["#adcreative", "#aitools", "#facebookads", "#ecommercemarketing", "#copywriting"]
+    },
+    {
+      "slot": 5, "id": "17-audit-tool", "pillar": "Automation",
+      "caption": "I got tired of auditing stores by hand, so I built an AI auditor.\n\nCrawl, score, spy, rank. Here's exactly how it works, plus a no-code version you can run in 20 minutes.\n\nFollow to watch me build the full thing.",
+      "hashtags": ["#buildinpublic", "#aitools", "#automation", "#ecommerce", "#shopify"]
+    },
+    {
+      "slot": 6, "id": "07-hidden-shipping", "pillar": "Quick win",
+      "caption": "People don't quit checkout because of price. They quit because of surprises.\n\nTwo fixes: show shipping on the product page, or build it into the price.\n\nSave this for your next store update.",
+      "hashtags": ["#checkout", "#conversionrate", "#shopifytips", "#ecommercetips", "#abandonedcart"]
+    },
+    {
+      "slot": 7, "id": "15-fake-store", "pillar": "Spy",
+      "caption": "That \"six-figure store\" screenshot proves nothing.\n\n4 free checks in 5 minutes: ads, reviews, socials, traffic. Then let AI do the math.\n\nVerify before you copy anyone.",
+      "hashtags": ["#dropshipping", "#ecommercetruth", "#shopify", "#ecommercetips", "#onlinebusiness"]
+    },
+    {
+      "slot": 8, "id": "01-store-audit", "pillar": "Teardown",
+      "caption": "12K visitors. 9 sales. Where did the money go?\n\nI found 3 leaks in 60 seconds: a vague headline, surprise shipping, a slow mobile site. Plus the prompt to find yours.\n\nSave this before your next ad spend.",
+      "hashtags": ["#shopify", "#ecommerce", "#storeaudit", "#ecommercetips", "#aitools"]
+    },
+    {
+      "slot": 9, "id": "18-ai-product-photos", "pillar": "Tool",
+      "caption": "No studio. No photographer. Just your phone.\n\nShoot it right, cut it out, generate the scene: 10 store-ready photos in one afternoon. One rule: never fake the product.\n\nSave the steps.",
+      "hashtags": ["#productphotography", "#aitools", "#ecommerce", "#shopifytips", "#smallbusiness"]
+    },
+    {
+      "slot": 10, "id": "06-outreach-agent", "pillar": "Automation",
+      "caption": "I wake up to client replies I never sent.\n\nMy AI agent finds the right stores, audits each one, and writes about their real problems. I only show up when someone says yes.\n\nAutomate the boring part. Keep the human part human.",
+      "hashtags": ["#aiautomation", "#aiagents", "#coldoutreach", "#ecommerce", "#leadgeneration"]
+    },
+    {
+      "slot": 11, "id": "20-viral-product", "pillar": "Spy",
+      "caption": "Everyone finds viral products after they go viral.\n\n3 signals to spot them early: the search, the comments, the trend. Plus the prompt that tells you fad or trend.\n\nSave this for your next product hunt.",
+      "hashtags": ["#productresearch", "#tiktokmademebuyit", "#dropshipping", "#ecommerce", "#winningproducts"]
+    },
+    {
+      "slot": 12, "id": "04-three-second-test", "pillar": "Quick win",
+      "caption": "Show your homepage to a friend for 3 seconds. Then hide it.\n\nCan they say what you sell, who it's for, and why buy from you? If not, your headline is the problem.\n\nTry it today. What did you score out of 3?",
+      "hashtags": ["#ecommercetips", "#webdesign", "#shopify", "#conversionrate", "#landingpage"]
+    },
+    {
+      "slot": 13, "id": "08-product-page-rewrite", "pillar": "Teardown",
+      "caption": "I fixed a dead product page with 2 prompts.\n\nThe exact prompts are on screen. They turn a page of specs into one that answers every buyer question.\n\nScreenshot them.",
+      "hashtags": ["#shopify", "#productpage", "#aitools", "#copywriting", "#ecommerce"]
+    },
+    {
+      "slot": 14, "id": "14-cart-recovery", "pillar": "Tool",
+      "caption": "Your abandoned cart email says \"you forgot something.\" That's not a reason to buy.\n\nThe 3-email sequence: reminder, kill the doubt, small nudge. Plus the one prompt that writes all of it.\n\nSet it up once. It works every day.",
+      "hashtags": ["#emailmarketing", "#abandonedcart", "#shopifytips", "#aitools", "#ecommercemarketing"]
+    },
+    {
+      "slot": 15, "id": "05-competitor-best-seller", "pillar": "Spy",
+      "caption": "Want your competitor's best seller? They'll tell you.\n\nSort their products by best selling, confirm with the Ad Library, then read their 1-star reviews and fix the complaint in yours.\n\nTheir research. Your win.",
+      "hashtags": ["#productresearch", "#shopify", "#competitorresearch", "#ecommerce", "#dropshipping"]
+    },
+    {
+      "slot": 16, "id": "11-mobile-speed", "pillar": "Quick win",
+      "caption": "Your store is probably slow on mobile. Most of your shoppers are on their phones.\n\nA free 10-second test, 3 fixes, and the AI prompt that ranks them for you.\n\nRun it on your store tonight.",
+      "hashtags": ["#pagespeed", "#shopify", "#websitetips", "#ecommerce", "#mobilefirst"]
+    },
+    {
+      "slot": 17, "id": "12-content-system", "pillar": "Automation",
+      "caption": "I post twice a day and never run out of ideas.\n\n3 prompts, one afternoon, a full month of posts planned. Your customers are literally telling you what to post.\n\nScreenshot the prompts.",
+      "hashtags": ["#contentcreation", "#aitools", "#ecommercemarketing", "#creatortips", "#socialmediamarketing"]
+    },
+    {
+      "slot": 18, "id": "03-ai-descriptions", "pillar": "Tool",
+      "caption": "Specs don't sell. Your customers' words do.\n\nAI needs 3 inputs to write product descriptions that sell: who buys it, the pain it solves, and 5 real reviews.\n\nYour customers already wrote your copy.",
+      "hashtags": ["#aitools", "#copywriting", "#productdescription", "#shopify", "#ecommerce"]
+    },
+    {
+      "slot": 19, "id": "09-competitor-app-stack", "pillar": "Spy",
+      "caption": "Every app your competitor uses is visible.\n\nHow to see their stack, what each app tells you, and the sneaky way to get their whole email playbook for free.\n\nSave this.",
+      "hashtags": ["#shopifyapps", "#competitoranalysis", "#ecommerce", "#emailmarketing", "#aitools"]
+    },
+    {
+      "slot": 20, "id": "19-about-page", "pillar": "Quick win",
+      "caption": "\"We are passionate about quality.\" Everyone says that.\n\n3 fixes for your About page: a real face, why you started, one specific promise. Plus the prompt that writes it.\n\nPeople buy from people.",
+      "hashtags": ["#branding", "#shopify", "#smallbusiness", "#ecommercetips", "#storytelling"]
+    }
+  ]
+}
