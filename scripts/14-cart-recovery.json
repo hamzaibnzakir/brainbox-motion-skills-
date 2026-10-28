@@ -1,0 +1,148 @@
+{
+  "id": "14-cart-recovery",
+  "title": "The 3-email cart recovery sequence (1 prompt)",
+  "caption": "Your abandoned cart email says 'you forgot something.' Here's the 3-email sequence that gives them a reason to come back, plus the prompt that writes it. #emailmarketing #abandonedcart #shopifytips #aitools",
+  "avatar": {
+    "dir": "assets/hero"
+  },
+  "beats": [
+    {
+      "layout": "bix",
+      "pose": "presenting",
+      "bg": "ink",
+      "bix": "smug",
+      "headline": "They *almost* bought.",
+      "chips": [
+        { "icon": "cart", "text": "Added to cart", "at": "added" },
+        { "icon": "xCircle", "text": "Left", "kind": "bad", "at": "left" }
+      ],
+      "say": "Someone *added* your product to cart, and left. And your email says, you forgot something. [laughter]"
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "headline": "Bring them *back*",
+      "visual": { "type": "icon", "icon": "mail", "badge": "check", "badgeTone": "good", "badgeAt": "prompt" },
+      "stamp": { "text": "3 EMAILS", "at": "sequence", "y": 860 },
+      "say": "Here's a three-email sequence that actually brings them *back.* And one prompt writes all of it.",
+      "box": "one prompt writes all of it."
+    },
+    {
+      "layout": "punch",
+      "bg": "neon",
+      "bix": "serious",
+      "headline": "Reminders don't *sell.*",
+      "say": "[sigh] You forgot something is not a reason to *buy.*"
+    },
+    {
+      "layout": "punch",
+      "bg": "void",
+      "bix": "smug",
+      "header": "3 *EMAILS*",
+      "headline": "The last one | closes the *sale.*",
+      "say": "Three emails. The last one closes the *sale.*"
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "header": "1 · THE *REMINDER*",
+      "visual": {
+        "type": "checklist",
+        "items": [
+          { "text": "Product photo", "at": "product" },
+          { "text": "One real review", "at": "review" },
+          { "text": "One button back to cart", "at": "single" }
+        ]
+      },
+      "chips": [
+        { "icon": "clock", "text": "1 hour later", "at": "hour" }
+      ],
+      "say": "Email one, an hour later. Don't just remind them. Show the *product*, one real review, and a *single* button back to the cart."
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "header": "2 · KILL THE *DOUBT*",
+      "visual": {
+        "type": "compare",
+        "beforeLabel": "THE DOUBT",
+        "afterLabel": "THE ANSWER",
+        "before": ["Too expensive?", "Will it fit?", "When will it arrive?"],
+        "after": ["Show the value", "Link the size guide", "Exact delivery date"],
+        "at": "answer"
+      },
+      "chips": [
+        { "icon": "calendar", "text": "Next day", "at": "next" }
+      ],
+      "say": "Email two, the next day. *Answer* the reason they left. Too pricey? Show the value. Not sure about size? Link the guide. Worried about shipping? Give the exact date."
+    },
+    {
+      "layout": "punch",
+      "bg": "void",
+      "bix": "think",
+      "headline": "And email *three?*",
+      "say": "And email three? [question-oh]"
+    },
+    {
+      "bg": "ink",
+      "bix": "shock",
+      "header": "3 · THE *NUDGE*",
+      "visual": { "type": "stat", "from": 0, "to": 10, "suffix": "% off", "label": "Only in email three", "at": "small" },
+      "chips": [
+        { "icon": "timer", "text": "Real deadline", "kind": "hot", "at": "deadline" }
+      ],
+      "say": "Email three, two days later. Now give a *small* push. Ten percent off or free shipping, with a real deadline. Never in email one, or they'll learn to wait.",
+      "box": "or they'll learn to wait."
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "header": "THE *PROMPT*",
+      "visual": {
+        "type": "prompt",
+        "prompt": "Write a 3-email cart recovery sequence for [product]. Voice: [brand voice]. Objection: [objection]. Add subject lines.",
+        "at": "paste",
+        "reply": [
+          "Email 1 (1h): still thinking?",
+          "Email 2 (24h): will it fit?",
+          "Email 3 (48h): 10% off, ends tonight"
+        ],
+        "replyAt": "ask"
+      },
+      "say": "Here's the prompt. *Paste* in your product, your brand voice, and your biggest objection. Ask for three emails with subject lines. Done in thirty seconds."
+    },
+    {
+      "bg": "ink",
+      "bix": "smug",
+      "header": "BONUS · SUBJECT *LINES*",
+      "visual": {
+        "type": "compare",
+        "before": ["COMPLETE YOUR", "PURCHASE NOW!"],
+        "after": ["still want it?"],
+        "at": "lowercase"
+      },
+      "say": "Bonus. Write subject lines like a text from a friend. *Lowercase*, short, no shouting. Still want it?"
+    },
+    {
+      "layout": "punch",
+      "bg": "neon",
+      "bix": "smug",
+      "headline": "Set it *once.*",
+      "say": "Set it up *once.* It works every single day.",
+      "box": "It works every single day."
+    },
+    {
+      "layout": "bix",
+      "pose": "celebrating",
+      "bg": "ink",
+      "bix": "happy",
+      "label": "Steal the sequence",
+      "headline": "Follow for *more*",
+      "chips": [
+        { "icon": "camera", "text": "Save the prompt", "at": "save" },
+        { "icon": "users", "text": "Follow", "kind": "hot", "at": "follow" }
+      ],
+      "say": "*Save* this, set it up tonight, and follow for more."
+    }
+  ]
+}
