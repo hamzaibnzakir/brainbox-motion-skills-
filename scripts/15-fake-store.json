@@ -1,0 +1,150 @@
+{
+  "id": "15-fake-store",
+  "title": "How to spot a fake 'successful' store (4 checks)",
+  "caption": "That 'six-figure store' screenshot proves nothing. 4 free checks in 5 minutes: ads, reviews, socials, traffic. Verify before you copy anyone. #dropshipping #ecommercetruth #shopify #ecommercetips",
+  "avatar": {
+    "dir": "assets/hero"
+  },
+  "beats": [
+    {
+      "layout": "bix",
+      "pose": "presenting",
+      "bg": "ink",
+      "bix": "shock",
+      "headline": "Six figures? | *Prove* it.",
+      "chips": [
+        { "icon": "dollar", "text": "\"$100K a month\"", "at": "six" },
+        { "icon": "alert", "text": "Zero proof", "kind": "bad", "at": "single" }
+      ],
+      "say": "That store someone flexed as a six-figure winner? It might not make a *single* sale. [surprise-oh]"
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "headline": "Check before you *copy*",
+      "visual": { "type": "icon", "icon": "spy", "badge": "check", "badgeTone": "good", "badgeAt": "five" },
+      "stamp": { "text": "4 CHECKS", "at": "four", "y": 860 },
+      "say": "Before you copy any store, run these four *checks.* Takes five minutes.",
+      "box": "Takes five minutes."
+    },
+    {
+      "layout": "punch",
+      "bg": "neon",
+      "bix": "serious",
+      "headline": "Screenshots *lie.*",
+      "say": "[sigh] Revenue screenshots are easy to *fake.*"
+    },
+    {
+      "layout": "punch",
+      "bg": "void",
+      "bix": "smug",
+      "header": "4 *CHECKS*",
+      "headline": "The last one | tells the *truth.*",
+      "say": "Four checks. The last one tells the *truth.*"
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "header": "1 · ARE THEY *ADVERTISING?*",
+      "visual": {
+        "type": "flow",
+        "nodes": [
+          { "icon": "search", "text": "Meta Ad Library", "at": "open" },
+          { "icon": "store", "text": "Type the store name", "at": "type" },
+          { "icon": "xCircle", "text": "0 active ads?", "at": "zero" }
+        ]
+      },
+      "chips": [
+        { "icon": "alert", "text": "Red flag", "kind": "bad", "at": "red" }
+      ],
+      "say": "Check one. *Open* the Meta Ad Library and type the store name. A real winner is running ads right now. Zero active ads? *Red* flag."
+    },
+    {
+      "bg": "ink",
+      "bix": "serious",
+      "header": "2 · THE *REVIEWS*",
+      "visual": {
+        "type": "compare",
+        "beforeLabel": "FAKE",
+        "afterLabel": "REAL",
+        "before": ["200 reviews, same week", "All five stars", "No photos"],
+        "after": ["Spread over months", "Customer photos", "A few honest complaints"],
+        "at": "real"
+      },
+      "say": "Check two, the reviews. Two hundred reviews from the same week, all five stars, no photos? *Fake.* Real reviews are spread out, with photos, and a few honest complaints.",
+      "box": "a few honest complaints."
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "header": "3 · THE *SOCIALS*",
+      "visual": {
+        "type": "checklist",
+        "items": [
+          { "text": "Big follower count", "at": "big" },
+          { "text": "Comments: only emojis", "ok": false, "at": "every" },
+          { "text": "Comments: \"does it run small?\"", "at": "questions" }
+        ]
+      },
+      "chips": [
+        { "icon": "message", "text": "Look for questions", "kind": "hot", "at": "look" }
+      ],
+      "say": "Check three, their socials. Big follower count, but *every* comment is just an emoji? Probably bought. *Look* for questions. Real buyers ask about sizing and shipping."
+    },
+    {
+      "layout": "punch",
+      "bg": "void",
+      "bix": "think",
+      "headline": "And the *last* one?",
+      "say": "And the last check? [question-oh]"
+    },
+    {
+      "bg": "ink",
+      "bix": "shock",
+      "header": "4 · THE *TRAFFIC*",
+      "visual": { "type": "stat", "from": 0, "to": 400, "suffix": " visits", "label": "Estimated monthly traffic", "at": "visitors" },
+      "chips": [
+        { "icon": "chart", "text": "Math doesn't work", "kind": "bad", "at": "math" }
+      ],
+      "say": "Check four. Paste the link into any free traffic estimator. Claiming a hundred grand a month on four hundred *visitors?* The *math* doesn't work."
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "header": "LET AI DO THE *MATH*",
+      "visual": {
+        "type": "prompt",
+        "prompt": "A store gets ~400 visits a month. At 2% conversion and a $35 average order, what's its max monthly revenue?",
+        "at": "ask",
+        "reply": [
+          "400 visits x 2% = 8 orders",
+          "8 orders x $35 = $280 a month",
+          "Not $100K."
+        ],
+        "replyAt": "what's"
+      },
+      "say": "Not sure? *Ask* any AI. Give it the traffic, a two percent conversion rate, and the price. Then ask: what's the most this store could really make?"
+    },
+    {
+      "layout": "punch",
+      "bg": "neon",
+      "bix": "smug",
+      "headline": "Verify. Then *copy.*",
+      "say": "Verify before you *copy* anyone.",
+      "box": "Verify before you copy anyone."
+    },
+    {
+      "layout": "bix",
+      "pose": "celebrating",
+      "bg": "ink",
+      "bix": "happy",
+      "label": "Run the 4 checks",
+      "headline": "Follow for *more*",
+      "chips": [
+        { "icon": "camera", "text": "Save the checks", "at": "save" },
+        { "icon": "users", "text": "Follow", "kind": "hot", "at": "follow" }
+      ],
+      "say": "*Save* these four checks, and follow for honest e-commerce."
+    }
+  ]
+}
