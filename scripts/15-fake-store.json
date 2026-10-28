@@ -13,7 +13,7 @@
       "bix": "shock",
       "headline": "Six figures? | *Prove* it.",
       "chips": [
-        { "icon": "dollar", "text": "\"$100K a month\"", "at": "six" },
+        { "icon": "dollar", "text": "\"$100K a month\"", "at": "flexed" },
         { "icon": "alert", "text": "Zero proof", "kind": "bad", "at": "single" }
       ],
       "say": "That store someone flexed as a six-figure winner? It might not make a *single* sale. [surprise-oh]"
