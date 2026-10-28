@@ -1,0 +1,911 @@
+{
+ "audio": "voice.wav",
+ "words": [
+  {
+   "text": "Before",
+   "start": 0.06,
+   "end": 0.32
+  },
+  {
+   "text": "a",
+   "start": 0.34,
+   "end": 0.36
+  },
+  {
+   "text": "stranger",
+   "start": 0.42,
+   "end": 0.76
+  },
+  {
+   "text": "buys,",
+   "start": 0.84,
+   "end": 1.12
+  },
+  {
+   "text": "they",
+   "start": 1.18,
+   "end": 1.3
+  },
+  {
+   "text": "often",
+   "start": 1.38,
+   "end": 1.6
+  },
+  {
+   "text": "check",
+   "start": 1.68,
+   "end": 1.86
+  },
+  {
+   "text": "one",
+   "start": 2.06,
+   "end": 2.16
+  },
+  {
+   "text": "page.",
+   "start": 2.26,
+   "end": 2.56
+  },
+  {
+   "text": "Your",
+   "start": 2.86,
+   "end": 3.0
+  },
+  {
+   "text": "About",
+   "start": 3.06,
+   "end": 3.26
+  },
+  {
+   "text": "page.",
+   "start": 3.36,
+   "end": 3.62
+  },
+  {
+   "text": "Is",
+   "start": 3.84,
+   "end": 3.9
+  },
+  {
+   "text": "yours",
+   "start": 3.94,
+   "end": 4.12
+  },
+  {
+   "text": "empty?",
+   "start": 4.2,
+   "end": 4.44
+  },
+  {
+   "text": "Three",
+   "start": 4.58,
+   "end": 4.76
+  },
+  {
+   "text": "fixes",
+   "start": 4.84,
+   "end": 5.18
+  },
+  {
+   "text": "turn",
+   "start": 5.26,
+   "end": 5.4
+  },
+  {
+   "text": "it",
+   "start": 5.46,
+   "end": 5.5
+  },
+  {
+   "text": "into",
+   "start": 5.56,
+   "end": 5.72
+  },
+  {
+   "text": "a",
+   "start": 5.8,
+   "end": 5.82
+  },
+  {
+   "text": "sales",
+   "start": 5.9,
+   "end": 6.16
+  },
+  {
+   "text": "page.",
+   "start": 6.22,
+   "end": 6.46
+  },
+  {
+   "text": "And",
+   "start": 6.52,
+   "end": 6.58
+  },
+  {
+   "text": "one",
+   "start": 6.7,
+   "end": 6.78
+  },
+  {
+   "text": "prompt",
+   "start": 6.88,
+   "end": 7.14
+  },
+  {
+   "text": "writes",
+   "start": 7.24,
+   "end": 7.44
+  },
+  {
+   "text": "the",
+   "start": 7.52,
+   "end": 7.6
+  },
+  {
+   "text": "first",
+   "start": 7.66,
+   "end": 7.86
+  },
+  {
+   "text": "draft.",
+   "start": 7.92,
+   "end": 8.2
+  },
+  {
+   "text": "We",
+   "start": 8.8,
+   "end": 8.88
+  },
+  {
+   "text": "are",
+   "start": 8.94,
+   "end": 9.0
+  },
+  {
+   "text": "passionate",
+   "start": 9.08,
+   "end": 9.5
+  },
+  {
+   "text": "about",
+   "start": 9.56,
+   "end": 9.72
+  },
+  {
+   "text": "quality.",
+   "start": 9.8,
+   "end": 10.14
+  },
+  {
+   "text": "Everyone",
+   "start": 10.24,
+   "end": 10.6
+  },
+  {
+   "text": "says",
+   "start": 10.72,
+   "end": 10.92
+  },
+  {
+   "text": "that.",
+   "start": 11.0,
+   "end": 11.18
+  },
+  {
+   "text": "Three",
+   "start": 11.44,
+   "end": 11.6
+  },
+  {
+   "text": "fixes.",
+   "start": 11.7,
+   "end": 12.06
+  },
+  {
+   "text": "The",
+   "start": 12.36,
+   "end": 12.44
+  },
+  {
+   "text": "last",
+   "start": 12.5,
+   "end": 12.68
+  },
+  {
+   "text": "one",
+   "start": 12.8,
+   "end": 12.88
+  },
+  {
+   "text": "builds",
+   "start": 12.94,
+   "end": 13.16
+  },
+  {
+   "text": "the",
+   "start": 13.22,
+   "end": 13.28
+  },
+  {
+   "text": "most",
+   "start": 13.34,
+   "end": 13.5
+  },
+  {
+   "text": "trust.",
+   "start": 13.6,
+   "end": 13.84
+  },
+  {
+   "text": "Fix",
+   "start": 14.06,
+   "end": 14.18
+  },
+  {
+   "text": "one,",
+   "start": 14.52,
+   "end": 14.62
+  },
+  {
+   "text": "a",
+   "start": 14.96,
+   "end": 14.98
+  },
+  {
+   "text": "real",
+   "start": 15.04,
+   "end": 15.18
+  },
+  {
+   "text": "face.",
+   "start": 15.28,
+   "end": 15.54
+  },
+  {
+   "text": "Swap",
+   "start": 15.8,
+   "end": 16.02
+  },
+  {
+   "text": "the",
+   "start": 16.12,
+   "end": 16.18
+  },
+  {
+   "text": "stock",
+   "start": 16.24,
+   "end": 16.44
+  },
+  {
+   "text": "photo",
+   "start": 16.52,
+   "end": 16.72
+  },
+  {
+   "text": "for",
+   "start": 16.82,
+   "end": 16.96
+  },
+  {
+   "text": "you.",
+   "start": 17.04,
+   "end": 17.12
+  },
+  {
+   "text": "Your",
+   "start": 17.32,
+   "end": 17.44
+  },
+  {
+   "text": "photo,",
+   "start": 17.5,
+   "end": 17.76
+  },
+  {
+   "text": "your",
+   "start": 17.86,
+   "end": 17.96
+  },
+  {
+   "text": "first",
+   "start": 18.02,
+   "end": 18.22
+  },
+  {
+   "text": "name,",
+   "start": 18.3,
+   "end": 18.46
+  },
+  {
+   "text": "where",
+   "start": 18.52,
+   "end": 18.64
+  },
+  {
+   "text": "you",
+   "start": 18.66,
+   "end": 18.72
+  },
+  {
+   "text": "work",
+   "start": 18.78,
+   "end": 18.9
+  },
+  {
+   "text": "from.",
+   "start": 19.02,
+   "end": 19.24
+  },
+  {
+   "text": "A",
+   "start": 19.62,
+   "end": 19.64
+  },
+  {
+   "text": "logo",
+   "start": 19.72,
+   "end": 19.98
+  },
+  {
+   "text": "can't",
+   "start": 20.1,
+   "end": 20.38
+  },
+  {
+   "text": "earn",
+   "start": 20.62,
+   "end": 20.74
+  },
+  {
+   "text": "trust.",
+   "start": 20.9,
+   "end": 21.18
+  },
+  {
+   "text": "A",
+   "start": 21.3,
+   "end": 21.32
+  },
+  {
+   "text": "face",
+   "start": 21.4,
+   "end": 21.6
+  },
+  {
+   "text": "can.",
+   "start": 21.68,
+   "end": 21.9
+  },
+  {
+   "text": "Fix",
+   "start": 22.28,
+   "end": 22.42
+  },
+  {
+   "text": "two,",
+   "start": 22.58,
+   "end": 22.72
+  },
+  {
+   "text": "why",
+   "start": 22.84,
+   "end": 22.94
+  },
+  {
+   "text": "you",
+   "start": 23.02,
+   "end": 23.1
+  },
+  {
+   "text": "started.",
+   "start": 23.2,
+   "end": 23.5
+  },
+  {
+   "text": "Three",
+   "start": 23.64,
+   "end": 23.86
+  },
+  {
+   "text": "beats.",
+   "start": 23.96,
+   "end": 24.22
+  },
+  {
+   "text": "The",
+   "start": 24.3,
+   "end": 24.36
+  },
+  {
+   "text": "problem",
+   "start": 24.4,
+   "end": 24.64
+  },
+  {
+   "text": "you",
+   "start": 24.66,
+   "end": 24.74
+  },
+  {
+   "text": "had,",
+   "start": 24.82,
+   "end": 24.96
+  },
+  {
+   "text": "what",
+   "start": 25.0,
+   "end": 25.1
+  },
+  {
+   "text": "you",
+   "start": 25.14,
+   "end": 25.2
+  },
+  {
+   "text": "tried",
+   "start": 25.26,
+   "end": 25.46
+  },
+  {
+   "text": "that",
+   "start": 25.52,
+   "end": 25.62
+  },
+  {
+   "text": "failed,",
+   "start": 25.68,
+   "end": 25.92
+  },
+  {
+   "text": "and",
+   "start": 25.96,
+   "end": 26.02
+  },
+  {
+   "text": "why",
+   "start": 26.06,
+   "end": 26.16
+  },
+  {
+   "text": "you",
+   "start": 26.22,
+   "end": 26.3
+  },
+  {
+   "text": "built",
+   "start": 26.36,
+   "end": 26.5
+  },
+  {
+   "text": "this",
+   "start": 26.56,
+   "end": 26.68
+  },
+  {
+   "text": "instead.",
+   "start": 26.78,
+   "end": 27.2
+  },
+  {
+   "text": "And",
+   "start": 27.38,
+   "end": 27.44
+  },
+  {
+   "text": "fix",
+   "start": 27.52,
+   "end": 27.66
+  },
+  {
+   "text": "three?",
+   "start": 27.82,
+   "end": 28.04
+  },
+  {
+   "text": "Fix",
+   "start": 28.96,
+   "end": 29.08
+  },
+  {
+   "text": "three,",
+   "start": 29.32,
+   "end": 29.58
+  },
+  {
+   "text": "one",
+   "start": 29.92,
+   "end": 30.0
+  },
+  {
+   "text": "promise.",
+   "start": 30.1,
+   "end": 30.5
+  },
+  {
+   "text": "Not",
+   "start": 30.74,
+   "end": 30.84
+  },
+  {
+   "text": "we",
+   "start": 30.9,
+   "end": 30.96
+  },
+  {
+   "text": "value",
+   "start": 31.02,
+   "end": 31.26
+  },
+  {
+   "text": "quality.",
+   "start": 31.34,
+   "end": 31.68
+  },
+  {
+   "text": "Something",
+   "start": 31.94,
+   "end": 32.2
+  },
+  {
+   "text": "specific.",
+   "start": 32.26,
+   "end": 32.68
+  },
+  {
+   "text": "If",
+   "start": 32.78,
+   "end": 32.82
+  },
+  {
+   "text": "it",
+   "start": 32.9,
+   "end": 32.94
+  },
+  {
+   "text": "breaks",
+   "start": 32.98,
+   "end": 33.22
+  },
+  {
+   "text": "within",
+   "start": 33.28,
+   "end": 33.5
+  },
+  {
+   "text": "a",
+   "start": 33.56,
+   "end": 33.58
+  },
+  {
+   "text": "year,",
+   "start": 33.64,
+   "end": 33.82
+  },
+  {
+   "text": "we",
+   "start": 33.94,
+   "end": 34.02
+  },
+  {
+   "text": "replace",
+   "start": 34.14,
+   "end": 34.46
+  },
+  {
+   "text": "it,",
+   "start": 34.58,
+   "end": 34.62
+  },
+  {
+   "text": "free.",
+   "start": 34.72,
+   "end": 34.92
+  },
+  {
+   "text": "Only",
+   "start": 35.52,
+   "end": 35.68
+  },
+  {
+   "text": "promise",
+   "start": 35.74,
+   "end": 36.02
+  },
+  {
+   "text": "what",
+   "start": 36.08,
+   "end": 36.18
+  },
+  {
+   "text": "you'll",
+   "start": 36.2,
+   "end": 36.36
+  },
+  {
+   "text": "keep.",
+   "start": 36.4,
+   "end": 36.54
+  },
+  {
+   "text": "Then",
+   "start": 36.68,
+   "end": 36.8
+  },
+  {
+   "text": "let",
+   "start": 36.86,
+   "end": 36.98
+  },
+  {
+   "text": "AI",
+   "start": 37.08,
+   "end": 37.24
+  },
+  {
+   "text": "write",
+   "start": 37.34,
+   "end": 37.5
+  },
+  {
+   "text": "it.",
+   "start": 37.54,
+   "end": 37.58
+  },
+  {
+   "text": "Feed",
+   "start": 38.0,
+   "end": 38.16
+  },
+  {
+   "text": "it",
+   "start": 38.22,
+   "end": 38.26
+  },
+  {
+   "text": "your",
+   "start": 38.3,
+   "end": 38.42
+  },
+  {
+   "text": "name,",
+   "start": 38.46,
+   "end": 38.66
+  },
+  {
+   "text": "why",
+   "start": 38.8,
+   "end": 38.9
+  },
+  {
+   "text": "you",
+   "start": 38.98,
+   "end": 39.04
+  },
+  {
+   "text": "started,",
+   "start": 39.12,
+   "end": 39.44
+  },
+  {
+   "text": "what",
+   "start": 39.54,
+   "end": 39.66
+  },
+  {
+   "text": "failed,",
+   "start": 39.78,
+   "end": 40.1
+  },
+  {
+   "text": "and",
+   "start": 40.18,
+   "end": 40.24
+  },
+  {
+   "text": "your",
+   "start": 40.26,
+   "end": 40.38
+  },
+  {
+   "text": "promise.",
+   "start": 40.42,
+   "end": 40.76
+  },
+  {
+   "text": "Ask",
+   "start": 41.06,
+   "end": 41.16
+  },
+  {
+   "text": "for",
+   "start": 41.24,
+   "end": 41.32
+  },
+  {
+   "text": "under",
+   "start": 41.36,
+   "end": 41.5
+  },
+  {
+   "text": "a",
+   "start": 41.54,
+   "end": 41.56
+  },
+  {
+   "text": "hundred",
+   "start": 41.62,
+   "end": 41.82
+  },
+  {
+   "text": "and",
+   "start": 41.84,
+   "end": 41.9
+  },
+  {
+   "text": "fifty",
+   "start": 41.94,
+   "end": 42.18
+  },
+  {
+   "text": "words.",
+   "start": 42.26,
+   "end": 42.54
+  },
+  {
+   "text": "Bonus.",
+   "start": 42.66,
+   "end": 43.0
+  },
+  {
+   "text": "Add",
+   "start": 43.52,
+   "end": 43.62
+  },
+  {
+   "text": "one",
+   "start": 43.76,
+   "end": 43.84
+  },
+  {
+   "text": "photo",
+   "start": 43.92,
+   "end": 44.18
+  },
+  {
+   "text": "of",
+   "start": 44.24,
+   "end": 44.28
+  },
+  {
+   "text": "where",
+   "start": 44.34,
+   "end": 44.48
+  },
+  {
+   "text": "you",
+   "start": 44.52,
+   "end": 44.6
+  },
+  {
+   "text": "pack",
+   "start": 44.66,
+   "end": 44.82
+  },
+  {
+   "text": "orders.",
+   "start": 44.96,
+   "end": 45.2
+  },
+  {
+   "text": "A",
+   "start": 45.42,
+   "end": 45.44
+  },
+  {
+   "text": "messy",
+   "start": 45.5,
+   "end": 45.76
+  },
+  {
+   "text": "desk",
+   "start": 45.84,
+   "end": 46.06
+  },
+  {
+   "text": "beats",
+   "start": 46.18,
+   "end": 46.4
+  },
+  {
+   "text": "a",
+   "start": 46.46,
+   "end": 46.48
+  },
+  {
+   "text": "shiny",
+   "start": 46.56,
+   "end": 46.82
+  },
+  {
+   "text": "warehouse.",
+   "start": 46.88,
+   "end": 47.32
+  },
+  {
+   "text": "People",
+   "start": 48.94,
+   "end": 49.16
+  },
+  {
+   "text": "buy",
+   "start": 49.22,
+   "end": 49.32
+  },
+  {
+   "text": "from",
+   "start": 49.4,
+   "end": 49.5
+  },
+  {
+   "text": "people.",
+   "start": 49.58,
+   "end": 49.84
+  },
+  {
+   "text": "Save",
+   "start": 49.96,
+   "end": 50.14
+  },
+  {
+   "text": "this,",
+   "start": 50.2,
+   "end": 50.34
+  },
+  {
+   "text": "fix",
+   "start": 50.46,
+   "end": 50.6
+  },
+  {
+   "text": "your",
+   "start": 50.7,
+   "end": 50.78
+  },
+  {
+   "text": "About",
+   "start": 50.86,
+   "end": 51.06
+  },
+  {
+   "text": "page",
+   "start": 51.12,
+   "end": 51.32
+  },
+  {
+   "text": "tonight,",
+   "start": 51.42,
+   "end": 51.7
+  },
+  {
+   "text": "and",
+   "start": 51.78,
+   "end": 51.86
+  },
+  {
+   "text": "follow",
+   "start": 51.9,
+   "end": 52.1
+  },
+  {
+   "text": "for",
+   "start": 52.16,
+   "end": 52.24
+  },
+  {
+   "text": "more.",
+   "start": 52.3,
+   "end": 52.44
+  }
+ ],
+ "provider": "ctc-forced"
+}
