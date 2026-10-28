@@ -75,7 +75,7 @@
     compare(v) {
       const el = h('div', 'cmp');
       const col = (c, t, xs) => `<div class="side ${c}"><div class="tag">${t}</div>${xs.map((x) => `<div class="li">${esc(x)}</div>`).join('')}</div>`;
-      el.innerHTML = col('before', 'BEFORE', v.before || []) + col('after', 'AFTER', v.after || []);
+      el.innerHTML = col('before', esc(v.beforeLabel || 'BEFORE'), v.before || []) + col('after', esc(v.afterLabel || 'AFTER'), v.after || []);
       const af = el.querySelector('.after'), bf = el.querySelector('.before'), lis = [...af.querySelectorAll('.li')];
       return { el, open: true, update(t) {
         const p = eo(clamp((t - v.t) / .55));

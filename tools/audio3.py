@@ -273,7 +273,7 @@ def main(vid):
     # voice chain → sidechain-duck music → sum → two-pass loudnorm
     fc = ('[0:a]aresample=44100,aformat=channel_layouts=stereo,highpass=f=75,equalizer=f=220:t=q:w=1.2:g=-1.5,'
           'equalizer=f=3200:t=q:w=1.0:g=2.5,acompressor=threshold=-20dB:ratio=3:attack=8:release=120:makeup=3,asplit=2[vo][sc];'
-          '[1:a]volume=0.55[mu];[mu][sc]sidechaincompress=threshold=0.035:ratio=7:attack=25:release=350:makeup=1[duck];'
+          '[1:a]volume=0.85[mu];[mu][sc]sidechaincompress=threshold=0.05:ratio=4:attack=25:release=350:makeup=1[duck];'
           '[2:a]volume=0.7[fx];[vo][duck][fx]amix=inputs=3:normalize=0:duration=longest,alimiter=limit=0.95[pre]')
     tmp = os.path.join(out_dir, 'premix.wav')
     subprocess.run(['ffmpeg', '-y', '-v', 'error', '-i', voice, '-i', os.path.join(out_dir, 'music.wav'), '-i', os.path.join(out_dir, 'sfx.wav'),

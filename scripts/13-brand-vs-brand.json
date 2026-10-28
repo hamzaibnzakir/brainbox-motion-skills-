@@ -1,0 +1,158 @@
+{
+  "id": "13-brand-vs-brand",
+  "title": "Two stores, same product. Why one wins.",
+  "caption": "Same product. Same supplier. One store wins every time. 3 rounds: headline, proof, offer. Plus the prompt to score your own store. #ecommerce #shopifytips #conversionrate #aitools",
+  "avatar": {
+    "dir": "assets/hero"
+  },
+  "beats": [
+    {
+      "layout": "bix",
+      "pose": "presenting",
+      "bg": "ink",
+      "bix": "smug",
+      "headline": "Same product. | *Different* sales.",
+      "chips": [
+        { "icon": "store", "text": "Store A vs B", "kind": "hot", "at": "two" }
+      ],
+      "say": "*Two* stores. Same product. One sells way more. Here's exactly why."
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "headline": "Score your *store*",
+      "visual": { "type": "icon", "icon": "trophy", "badge": "check", "badgeTone": "good", "badgeAt": "prompt" },
+      "stamp": { "text": "3 ROUNDS", "at": "three", "y": 860 },
+      "say": "I'll score them in three rounds, then give you the *prompt* to score yours.",
+      "box": "the prompt to score yours."
+    },
+    {
+      "layout": "punch",
+      "bg": "neon",
+      "bix": "serious",
+      "headline": "Same supplier. | *Different* results.",
+      "say": "[sigh] Same supplier. Same price. Totally different *results.*"
+    },
+    {
+      "layout": "punch",
+      "bg": "void",
+      "bix": "smug",
+      "header": "3 *ROUNDS*",
+      "headline": "The last one | decides the *sale.*",
+      "say": "Three rounds. The last one decides the *sale.*"
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "header": "1 · THE *HEADLINE*",
+      "visual": {
+        "type": "compare",
+        "beforeLabel": "STORE A",
+        "afterLabel": "STORE B",
+        "before": ["Premium posture support"],
+        "after": ["Stand straighter in 14 days"],
+        "at": "B"
+      },
+      "chips": [
+        { "icon": "target", "text": "Sell the result", "kind": "hot", "at": "sells" }
+      ],
+      "say": "Round one, the headline. Store A says premium posture support. *Store* B says stand straighter in fourteen days. A sells the thing. B *sells* the result."
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "header": "2 · THE *PROOF*",
+      "visual": {
+        "type": "compare",
+        "beforeLabel": "STORE A",
+        "afterLabel": "STORE B",
+        "before": ["4 text reviews", "Hidden at the bottom"],
+        "after": ["Customer video", "Before / after photo", "First screen"],
+        "at": "B"
+      },
+      "chips": [
+        { "icon": "video", "text": "Proof up top", "kind": "hot", "at": "before" }
+      ],
+      "say": "Round two, proof. Store A has four reviews hidden at the bottom. *Store* B shows a customer video before you even *scroll.*",
+      "box": "before you even scroll."
+    },
+    {
+      "layout": "punch",
+      "bg": "void",
+      "bix": "think",
+      "headline": "And round *three?*",
+      "say": "And round three? [question-ah]"
+    },
+    {
+      "bg": "ink",
+      "bix": "shock",
+      "header": "3 · THE *OFFER*",
+      "visual": {
+        "type": "compare",
+        "beforeLabel": "STORE A",
+        "afterLabel": "STORE B",
+        "before": ["$29.99", "That's it"],
+        "after": ["Buy 2, save 20%", "30-day guarantee", "Free shipping"],
+        "at": "B"
+      },
+      "chips": [
+        { "icon": "shield", "text": "Risk removed", "kind": "hot", "at": "removed" }
+      ],
+      "say": "[surprise-oh] Round three, the offer. Store A is just a price. *Store* B has a two-pack bundle and a thirty-day guarantee. B *removed* the risk."
+    },
+    {
+      "bg": "ink",
+      "bix": "happy",
+      "header": "FINAL *SCORE*",
+      "visual": {
+        "type": "checklist",
+        "items": [
+          { "text": "Headline: B wins", "at": "headline" },
+          { "text": "Proof: B wins", "at": "proof" },
+          { "text": "Offer: B wins", "at": "offer" }
+        ]
+      },
+      "say": "Final score. Headline, proof, offer. Three to zero. And B's product isn't even *better.*"
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "header": "NOW SCORE *YOURS*",
+      "visual": {
+        "type": "prompt",
+        "prompt": "Here are 2 product pages: mine and a competitor's. Score headline, proof and offer. Who wins each round? Give fixes.",
+        "at": "paste",
+        "reply": [
+          "Headline: competitor wins",
+          "Fix: lead with the result",
+          "Proof: you win",
+          "Offer: competitor wins",
+          "Fix: add a bundle + guarantee"
+        ],
+        "replyAt": "ask"
+      },
+      "say": "Now score yours. *Paste* your product page and a competitor's into any AI. Then ask: who wins each round, and what's the exact fix?"
+    },
+    {
+      "layout": "punch",
+      "bg": "neon",
+      "bix": "smug",
+      "headline": "Better *pitch*, | not product.",
+      "say": "B doesn't have a better product. B has a better *pitch.*",
+      "box": "B has a better pitch."
+    },
+    {
+      "layout": "bix",
+      "pose": "celebrating",
+      "bg": "ink",
+      "bix": "happy",
+      "label": "Score your store",
+      "headline": "Follow for *more*",
+      "chips": [
+        { "icon": "camera", "text": "Save the prompt", "at": "save" },
+        { "icon": "users", "text": "Follow", "kind": "hot", "at": "follow" }
+      ],
+      "say": "*Save* this, score your store tonight, and follow for more teardowns."
+    }
+  ]
+}

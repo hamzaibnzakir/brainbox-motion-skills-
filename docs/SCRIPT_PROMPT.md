@@ -37,7 +37,7 @@ Turn the idea below into a JSON scene file. Follow these rules exactly.
 - `pose` (layout bix only): presenting | explaining | celebrating | main
 - `visual.type`: icon | browser | gauge | checklist | stat | flow | image | **prompt** | **compare**
 - `prompt`: `{"type":"prompt","prompt":"<exact prompt, ≤120 chars>","at":"<word>","reply":["≤34-char lines", "…up to 5"],"replyAt":"<word>"}`. The prompt types itself on screen and the reply streams in. Use it whenever an AI step is explained
-- `compare`: `{"type":"compare","before":["≤4 short lines"],"after":["≤4 short lines"],"at":"<word>"}`. The after panel slides over the before
+- `compare`: `{"type":"compare","before":["≤4 short lines"],"after":["≤4 short lines"],"at":"<word>","beforeLabel":"STORE A","afterLabel":"STORE B"}` (labels optional, default BEFORE/AFTER). The after panel slides over the before
 - Headlines: `|` forces a line break. Long text auto-shrinks to fit
 - `"box": "<exact phrase from that scene's say>"` puts that phrase in a black highlight box (v3). Use it 1–3 times per video, on the line you want screenshotted (usually the promise, one punch line, and the payoff)
 - v3 visual language is light editorial with dark pivots: AI/prompt scenes automatically go dark with a riser + impact, and `void` punch lines are dark too. Use `neon` for light punch lines
