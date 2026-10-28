@@ -1,7 +1,7 @@
 {
   "id": "01-store-audit",
   "title": "I audited this store in 60 seconds",
-  "caption": "Most stores don't need more traffic. They need fewer leaks. 3 leaks, 3 fixes, plus the prompt to audit your own store. Save it. #shopify #ecommerce #ecommercetips #aitools",
+  "caption": "12K visitors. 9 sales. I found the 3 leaks in 60 seconds, plus the prompt to find yours. Save this before your next ad spend. #shopify #ecommerce #ecommercetips #aitools",
   "avatar": {
     "dir": "assets/hero"
   },
@@ -13,87 +13,161 @@
       "bix": "smug",
       "headline": "This store has *traffic.*",
       "chips": [
-        { "icon": "users", "text": "12K visitors", "at": "traffic" },
-        { "icon": "cart", "text": "Barely any sales", "kind": "bad", "at": "sales" }
+        {
+          "icon": "users",
+          "text": "12K visitors",
+          "at": "twelve"
+        },
+        {
+          "icon": "cart",
+          "text": "9 sales",
+          "kind": "bad",
+          "at": "nine"
+        }
       ],
-      "say": "This store gets *traffic*, but almost no *sales.* Let me audit it live."
+      "say": "This store had twelve thousand visitors last month... and *nine* sales. Here's where the money went."
     },
     {
       "bg": "ink",
       "bix": "talk",
       "headline": "Audit in *60 seconds*",
-      "visual": { "type": "browser", "url": "glowify-store.com", "brand": "GLOWIFY", "hero": "Elevate your lifestyle" },
-      "stamp": { "text": "60 SEC AUDIT", "at": "sixty", "y": 820 },
-      "say": "Sixty seconds, three leaks, and the exact *prompt* to audit your own store.",
-      "box": "the exact prompt to audit your own store."
+      "visual": {
+        "type": "browser",
+        "url": "glowify-store.com",
+        "brand": "GLOWIFY",
+        "hero": "Elevate your lifestyle"
+      },
+      "stamp": {
+        "text": "60 SEC AUDIT",
+        "at": "sixty",
+        "y": 820
+      },
+      "say": "Give me sixty seconds. I'll find the leaks, and hand you the *prompt* to find yours.",
+      "box": "the prompt to find yours."
     },
     {
       "layout": "punch",
       "bg": "neon",
       "bix": "serious",
       "headline": "It's a *leaky* bucket.",
-      "say": "[sigh] More ads won't fix a *leaky* bucket."
+      "say": "[sigh] They kept buying ads. Pouring water into a *leaky* bucket."
     },
     {
       "layout": "punch",
       "bg": "void",
       "bix": "smug",
       "header": "3 *LEAKS*",
-      "headline": "The last one's the *worst.*",
-      "say": "Three leaks. The last one's the *worst.*"
+      "headline": "The last one's | *killing* them.",
+      "say": "Three leaks. The last one is *killing* them."
     },
     {
       "bg": "ink",
       "bix": "serious",
       "header": "1 · VAGUE *HEADLINE*",
       "visual": {
-        "type": "browser", "url": "glowify-store.com", "brand": "GLOWIFY", "hero": "Elevate your lifestyle",
-        "marks": [ { "target": "hero", "kind": "bad", "text": "SAYS NOTHING", "at": "nothing" } ]
+        "type": "browser",
+        "url": "glowify-store.com",
+        "brand": "GLOWIFY",
+        "hero": "Elevate your lifestyle",
+        "marks": [
+          {
+            "target": "hero",
+            "kind": "bad",
+            "text": "SAYS NOTHING",
+            "at": "nothing"
+          }
+        ]
       },
       "chips": [
-        { "icon": "help", "text": "What do they sell?", "at": "what" },
-        { "icon": "check", "text": "Under 8 words", "kind": "hot", "at": "under" }
+        {
+          "icon": "help",
+          "text": "Selling... what?",
+          "at": "with"
+        },
+        {
+          "icon": "check",
+          "text": "Product + result",
+          "kind": "hot",
+          "at": "product"
+        }
       ],
-      "say": "One. The headline says, elevate your lifestyle. *What* do they sell? It says *nothing.* Fix it: say what it is and who it's for, in under eight words."
+      "say": "Leak one. The headline says, elevate your lifestyle. *Elevate* it with what? A candle? A chair? Shoppers decide in seconds, and this tells them *nothing.* Fix: product plus result. Vitamin C serum for dull skin."
     },
     {
       "bg": "ink",
       "bix": "talk",
       "header": "2 · HIDDEN *SHIPPING*",
       "visual": {
-        "type": "browser", "url": "glowify-store.com/cart", "brand": "GLOWIFY", "hero": "Elevate your lifestyle",
-        "ship": "+ $14.99 shipping at checkout", "scroll": 150, "scrollAt": "shipping",
-        "marks": [ { "target": "ship", "kind": "bad", "text": "SURPRISE FEE", "at": "checkout" } ]
+        "type": "browser",
+        "url": "glowify-store.com/cart",
+        "brand": "GLOWIFY",
+        "hero": "Elevate your lifestyle",
+        "ship": "+ $15.00 shipping at checkout",
+        "scroll": 150,
+        "scrollAt": "add",
+        "marks": [
+          {
+            "target": "ship",
+            "kind": "bad",
+            "text": "SURPRISE FEE",
+            "at": "fifteen"
+          }
+        ]
       },
       "chips": [
-        { "icon": "xCircle", "text": "Cart abandoned", "kind": "bad", "at": "surprise" },
-        { "icon": "truck", "text": "Show it upfront", "kind": "hot", "at": "show" }
+        {
+          "icon": "xCircle",
+          "text": "Cart abandoned",
+          "kind": "bad",
+          "at": "carts"
+        },
+        {
+          "icon": "truck",
+          "text": "Show it upfront",
+          "kind": "hot",
+          "at": "show"
+        }
       ],
-      "say": "Two. Shipping only shows up at *checkout.* Surprise fees are one of the biggest reasons carts get abandoned. Fix it: *show* shipping on the product page, or build it into the price.",
-      "box": "build it into the price."
+      "say": "Leak two. You find the product, add it to cart, and boom. Fifteen dollars shipping, at the very last *step.* That's exactly where carts die. Fix: *show* shipping upfront, or bake it into the price.",
+      "box": "bake it into the price."
     },
     {
       "layout": "punch",
       "bg": "void",
       "bix": "think",
       "headline": "And *three?*",
-      "say": "And three? [question-oh]"
+      "say": "And leak three? [question-oh]"
     },
     {
       "bg": "ink",
       "bix": "shock",
       "header": "3 · SLOW *MOBILE*",
-      "visual": { "type": "gauge", "from": 31, "label": "Mobile speed score", "at": "three" },
+      "visual": {
+        "type": "gauge",
+        "from": 31,
+        "label": "Mobile speed score",
+        "at": "mobile"
+      },
       "chips": [
-        { "icon": "timer", "text": "6s to load", "kind": "bad", "at": "six" },
-        { "icon": "image", "text": "Compress images", "kind": "hot", "at": "compress" }
+        {
+          "icon": "timer",
+          "text": "6s to load",
+          "kind": "bad",
+          "at": "six"
+        },
+        {
+          "icon": "image",
+          "text": "Compress images",
+          "kind": "hot",
+          "at": "compress"
+        }
       ],
-      "say": "Three. The mobile speed score is thirty-one. It takes *six* seconds to load, and most shoppers are on their phones. Fix it: *compress* your images and delete apps you don't use."
+      "say": "Leak three. On mobile, this store takes *six* seconds to load. Six. Most shoppers are on their phones, and they're gone before it loads. Fix: *compress* your images and delete apps you don't use."
     },
     {
       "bg": "ink",
       "bix": "talk",
-      "header": "NOW AUDIT *YOURS*",
+      "header": "NOW FIND *YOURS*",
       "visual": {
         "type": "prompt",
         "prompt": "Act as a first-time shopper. Here's my homepage. What's confusing, what's missing, and what would stop you buying?",
@@ -106,22 +180,22 @@
         ],
         "replyAt": "what's"
       },
-      "say": "Now audit yours. *Paste* your homepage into any AI and tell it to act like a first-time shopper. Ask: what's confusing, what's missing, and what would stop you buying?"
+      "say": "Now find *your* leaks. Paste your homepage into any AI. Tell it: act like a first-time shopper. What's confusing, what's missing, what would stop you buying? It'll be brutally honest."
     },
     {
       "layout": "punch",
       "bg": "neon",
       "bix": "smug",
-      "headline": "Still buying *ads?*",
-      "say": "Still buying more *ads?*"
+      "headline": "Not a *traffic* problem.",
+      "say": "Most stores don't have a *traffic* problem."
     },
     {
       "layout": "punch",
       "bg": "void",
       "bix": "serious",
-      "headline": "Fix the *leaks* first.",
-      "say": "Fix the leaks *first.* Then scale.",
-      "box": "Fix the leaks first."
+      "headline": "It's a *leak* problem.",
+      "say": "They have a *leak* problem. Fix the leaks, then scale.",
+      "box": "Fix the leaks, then scale."
     },
     {
       "layout": "bix",
@@ -131,10 +205,19 @@
       "label": "Audit your store",
       "headline": "Follow for *more*",
       "chips": [
-        { "icon": "camera", "text": "Save the prompt", "at": "save" },
-        { "icon": "users", "text": "Follow", "kind": "hot", "at": "follow" }
+        {
+          "icon": "camera",
+          "text": "Save the prompt",
+          "at": "save"
+        },
+        {
+          "icon": "users",
+          "text": "Follow",
+          "kind": "hot",
+          "at": "follow"
+        }
       ],
-      "say": "*Save* this, audit your store tonight, and follow for more."
+      "say": "*Save* this before your next ad spend, and follow for more teardowns."
     }
   ]
 }
