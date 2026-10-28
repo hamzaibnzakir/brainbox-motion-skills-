@@ -213,6 +213,9 @@
       if (P.pose && P.title && P.title.offsetTop + P.title.offsetHeight > 340) { const d = P.title.offsetTop + P.title.offsetHeight - 330; P.pose.style.top = (360 + d) + 'px'; P.pose.style.height = (760 - d) + 'px'; P.pose.style.width = (700 - d * .9) + 'px'; P.pose.style.left = (190 + d * .45) + 'px'; }
       P.chunks.forEach(({ n }) => {
         n.style.visibility = 'hidden'; n.style.opacity = 1;
+        // a highlight box never wraps, so shrink its words until it fits the frame width
+        n.querySelectorAll('.box').forEach((bx) => { const ws = [...bx.querySelectorAll('.w')]; let fs = parseFloat(getComputedStyle(ws[0]).fontSize);
+          while (bx.offsetWidth > 960 && fs > 40) { fs -= 3; ws.forEach((w) => { w.style.fontSize = fs + 'px'; }); } });
         if (P.layout === 'punch') { fitEl(n, 760); const hh = n.offsetHeight * (parseFloat(n.style.zoom) || 1); n.style.top = Math.round((P.kick ? 1000 : 940) - hh / 2) / (parseFloat(n.style.zoom) || 1) + 'px'; }
         else { const top = P.layout === 'bix' ? (P.tags ? 1220 : 1160) : (P.tags ? 1178 : 1110); fitEl(n, 1440 - top); n.style.top = top / (parseFloat(n.style.zoom) || 1) + 'px'; }
         n.style.visibility = '';
