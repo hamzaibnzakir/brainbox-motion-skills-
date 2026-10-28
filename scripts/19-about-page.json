@@ -57,7 +57,7 @@
       "chips": [
         { "icon": "user", "text": "A face, not a logo", "kind": "hot", "at": "face" }
       ],
-      "say": "Fix one, a real face. *Swap* the stock photo for you. Your photo, your first name, where you work from. A logo can't earn trust. A *face* can."
+      "say": "Fix one, a real face. *Swap* the stock photo for you. Your photo, your first name, where you work from. A logo can't earn trust. A face *can.*"
     },
     {
       "bg": "ink",
