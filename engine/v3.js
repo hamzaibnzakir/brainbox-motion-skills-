@@ -11,7 +11,8 @@
   const h = (tag, cls, html) => { const e = document.createElement(tag); if (cls) e.className = cls; if (html != null) e.innerHTML = html; return e; };
   const setT = (el, tr, o) => { el.style.transform = tr; if (o != null) el.style.opacity = o; };
   const STAR = '<svg viewBox="0 0 24 24" fill="currentColor" class="ic"><path d="M12 1.5c.6 5.6 4.9 9.9 10.5 10.5-5.6.6-9.9 4.9-10.5 10.5C11.4 16.9 7.1 12.6 1.5 12 7.1 11.4 11.4 7.1 12 1.5z"/></svg>';
-  const sentence = (s) => { const x = s.replace(/\*/g, '').toLowerCase(); return x.charAt(0).toUpperCase() + x.slice(1); };
+  const ACR = /\b(ai|seo|ugc|roas|cta|faq|dm|dms|url|ceo|api|gpt|aov|cro)\b/gi;
+  const sentence = (s) => { const x = s.replace(/\*/g, '').toLowerCase(); return (x.charAt(0).toUpperCase() + x.slice(1)).replace(ACR, (m) => m.toUpperCase()); };
   const norm = (s) => String(s).toLowerCase().replace(/[^a-z0-9%$']/g, '');
   const isDark = (b) => !!(b.bg === 'void' || (b.visual && b.visual.type === 'prompt'));
   const isData = (b) => !!(b.visual && (b.visual.type === 'gauge' || b.visual.type === 'stat'));
@@ -166,7 +167,7 @@
       if (b.header) {
         const m = b.header.match(/^(\d+)\s*[·.:-]\s*(.*)$/), bo = b.header.match(/^BONUS\s*·\s*(.*)$/i);
         if (m) { kick = 'Step ' + String(m[1]).padStart(2, '0'); title = m[2]; } else if (bo) { kick = 'Bonus'; title = bo[1]; } else title = b.header;
-        title = title.split('*').map((s, k) => (k % 2 ? '*' + s.toLowerCase() + '*' : s.toLowerCase())).join(''); title = title.replace(/^(\W*)(\w)/, (a, p, c) => p + c.toUpperCase());
+        title = title.split('*').map((s, k) => (k % 2 ? '*' + s.toLowerCase() + '*' : s.toLowerCase())).join(''); title = title.replace(/^(\W*)(\w)/, (a, p, c) => p + c.toUpperCase()); title = title.replace(/\b(ai|seo|ugc|roas|cta|faq|dm|dms|url|ceo|api|gpt|aov|cro)\b/gi, (m) => m.toUpperCase());
       } else if (b.headline) title = b.headline;
       if (kick) { P.kick = h('div', 'kicker', esc(kick)); P.kick.style.top = '178px'; P.L.append(P.kick); }
       if (title) { P.title = h('div', 'title', acc(title)); P.title.style.top = kick ? '222px' : '200px'; P.L.append(P.title); }
