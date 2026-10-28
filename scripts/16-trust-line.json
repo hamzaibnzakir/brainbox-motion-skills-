@@ -25,7 +25,7 @@
           "at": "trust"
         }
       ],
-      "say": "New visitors don't *trust* your store yet. One tiny line under your buy button changes that."
+      "say": "New visitors don't trust your store *yet.* One tiny line under your buy button changes that."
     },
     {
       "bg": "ink",
@@ -43,7 +43,7 @@
         "at": "called",
         "y": 860
       },
-      "say": "It's *called* a trust line, and it takes five minutes to add.",
+      "say": "It's called a trust line, and it takes five minutes to add.",
       "box": "it takes five minutes to add."
     },
     {
@@ -209,7 +209,7 @@
           "at": "same"
         }
       ],
-      "say": "Bonus. Put the *same* line in your *cart* too. That's where doubt hits hardest, right before they pay."
+      "say": "Bonus. Put the same line in your *cart* too. That's where doubt hits hardest, right before they pay."
     },
     {
       "layout": "punch",
