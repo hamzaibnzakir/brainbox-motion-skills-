@@ -1,0 +1,1086 @@
+{
+ "audio": "voice.wav",
+ "words": [
+  {
+   "text": "This",
+   "start": 0.12,
+   "end": 0.24
+  },
+  {
+   "text": "store",
+   "start": 0.3,
+   "end": 0.54
+  },
+  {
+   "text": "had",
+   "start": 0.62,
+   "end": 0.72
+  },
+  {
+   "text": "twelve",
+   "start": 0.82,
+   "end": 1.08
+  },
+  {
+   "text": "thousand",
+   "start": 1.14,
+   "end": 1.5
+  },
+  {
+   "text": "visitors",
+   "start": 1.58,
+   "end": 1.96
+  },
+  {
+   "text": "last",
+   "start": 2.06,
+   "end": 2.26
+  },
+  {
+   "text": "month...",
+   "start": 2.38,
+   "end": 2.56
+  },
+  {
+   "text": "and",
+   "start": 3.36,
+   "end": 3.42
+  },
+  {
+   "text": "nine",
+   "start": 3.48,
+   "end": 3.66
+  },
+  {
+   "text": "sales.",
+   "start": 3.76,
+   "end": 4.06
+  },
+  {
+   "text": "Here's",
+   "start": 4.16,
+   "end": 4.32
+  },
+  {
+   "text": "where",
+   "start": 4.34,
+   "end": 4.46
+  },
+  {
+   "text": "the",
+   "start": 4.48,
+   "end": 4.54
+  },
+  {
+   "text": "money",
+   "start": 4.6,
+   "end": 4.74
+  },
+  {
+   "text": "went.",
+   "start": 4.82,
+   "end": 5.0
+  },
+  {
+   "text": "Give",
+   "start": 5.08,
+   "end": 5.2
+  },
+  {
+   "text": "me",
+   "start": 5.24,
+   "end": 5.28
+  },
+  {
+   "text": "sixty",
+   "start": 5.38,
+   "end": 5.66
+  },
+  {
+   "text": "seconds.",
+   "start": 5.74,
+   "end": 6.1
+  },
+  {
+   "text": "I'll",
+   "start": 6.56,
+   "end": 6.7
+  },
+  {
+   "text": "find",
+   "start": 6.76,
+   "end": 6.92
+  },
+  {
+   "text": "the",
+   "start": 6.98,
+   "end": 7.04
+  },
+  {
+   "text": "leaks,",
+   "start": 7.08,
+   "end": 7.3
+  },
+  {
+   "text": "and",
+   "start": 7.38,
+   "end": 7.46
+  },
+  {
+   "text": "hand",
+   "start": 7.5,
+   "end": 7.64
+  },
+  {
+   "text": "you",
+   "start": 7.72,
+   "end": 7.8
+  },
+  {
+   "text": "the",
+   "start": 7.86,
+   "end": 7.92
+  },
+  {
+   "text": "prompt",
+   "start": 7.98,
+   "end": 8.26
+  },
+  {
+   "text": "to",
+   "start": 8.28,
+   "end": 8.32
+  },
+  {
+   "text": "find",
+   "start": 8.4,
+   "end": 8.58
+  },
+  {
+   "text": "yours.",
+   "start": 8.66,
+   "end": 8.92
+  },
+  {
+   "text": "They",
+   "start": 10.08,
+   "end": 10.16
+  },
+  {
+   "text": "kept",
+   "start": 10.22,
+   "end": 10.36
+  },
+  {
+   "text": "buying",
+   "start": 10.4,
+   "end": 10.66
+  },
+  {
+   "text": "ads.",
+   "start": 10.82,
+   "end": 11.02
+  },
+  {
+   "text": "Pouring",
+   "start": 11.52,
+   "end": 11.8
+  },
+  {
+   "text": "water",
+   "start": 11.88,
+   "end": 12.06
+  },
+  {
+   "text": "into",
+   "start": 12.08,
+   "end": 12.2
+  },
+  {
+   "text": "a",
+   "start": 12.26,
+   "end": 12.28
+  },
+  {
+   "text": "leaky",
+   "start": 12.34,
+   "end": 12.58
+  },
+  {
+   "text": "bucket.",
+   "start": 12.66,
+   "end": 12.9
+  },
+  {
+   "text": "Three",
+   "start": 13.0,
+   "end": 13.18
+  },
+  {
+   "text": "leaks.",
+   "start": 13.26,
+   "end": 13.5
+  },
+  {
+   "text": "The",
+   "start": 13.72,
+   "end": 13.78
+  },
+  {
+   "text": "last",
+   "start": 13.84,
+   "end": 14.0
+  },
+  {
+   "text": "one",
+   "start": 14.08,
+   "end": 14.16
+  },
+  {
+   "text": "is",
+   "start": 14.2,
+   "end": 14.26
+  },
+  {
+   "text": "killing",
+   "start": 14.32,
+   "end": 14.58
+  },
+  {
+   "text": "them.",
+   "start": 14.62,
+   "end": 14.72
+  },
+  {
+   "text": "Leak",
+   "start": 15.44,
+   "end": 15.58
+  },
+  {
+   "text": "one.",
+   "start": 15.74,
+   "end": 15.86
+  },
+  {
+   "text": "The",
+   "start": 15.96,
+   "end": 16.04
+  },
+  {
+   "text": "headline",
+   "start": 16.08,
+   "end": 16.38
+  },
+  {
+   "text": "says,",
+   "start": 16.44,
+   "end": 16.62
+  },
+  {
+   "text": "elevate",
+   "start": 16.74,
+   "end": 17.0
+  },
+  {
+   "text": "your",
+   "start": 17.04,
+   "end": 17.14
+  },
+  {
+   "text": "lifestyle.",
+   "start": 17.18,
+   "end": 17.66
+  },
+  {
+   "text": "Elevate",
+   "start": 17.8,
+   "end": 18.04
+  },
+  {
+   "text": "it",
+   "start": 18.08,
+   "end": 18.12
+  },
+  {
+   "text": "with",
+   "start": 18.16,
+   "end": 18.24
+  },
+  {
+   "text": "what?",
+   "start": 18.32,
+   "end": 18.48
+  },
+  {
+   "text": "A",
+   "start": 18.6,
+   "end": 18.62
+  },
+  {
+   "text": "candle?",
+   "start": 18.68,
+   "end": 19.02
+  },
+  {
+   "text": "A",
+   "start": 19.16,
+   "end": 19.18
+  },
+  {
+   "text": "chair?",
+   "start": 19.24,
+   "end": 19.46
+  },
+  {
+   "text": "Shoppers",
+   "start": 19.9,
+   "end": 20.26
+  },
+  {
+   "text": "decide",
+   "start": 20.32,
+   "end": 20.62
+  },
+  {
+   "text": "in",
+   "start": 20.68,
+   "end": 20.72
+  },
+  {
+   "text": "seconds,",
+   "start": 20.82,
+   "end": 21.18
+  },
+  {
+   "text": "and",
+   "start": 21.38,
+   "end": 21.44
+  },
+  {
+   "text": "this",
+   "start": 21.48,
+   "end": 21.6
+  },
+  {
+   "text": "tells",
+   "start": 21.66,
+   "end": 21.84
+  },
+  {
+   "text": "them",
+   "start": 21.9,
+   "end": 22.0
+  },
+  {
+   "text": "nothing.",
+   "start": 22.08,
+   "end": 22.36
+  },
+  {
+   "text": "Fix:",
+   "start": 22.82,
+   "end": 22.96
+  },
+  {
+   "text": "product",
+   "start": 23.16,
+   "end": 23.44
+  },
+  {
+   "text": "plus",
+   "start": 23.5,
+   "end": 23.66
+  },
+  {
+   "text": "result.",
+   "start": 23.72,
+   "end": 24.0
+  },
+  {
+   "text": "Vitamin",
+   "start": 24.12,
+   "end": 24.44
+  },
+  {
+   "text": "C",
+   "start": 24.54,
+   "end": 24.56
+  },
+  {
+   "text": "serum",
+   "start": 24.78,
+   "end": 25.0
+  },
+  {
+   "text": "for",
+   "start": 25.06,
+   "end": 25.14
+  },
+  {
+   "text": "dull",
+   "start": 25.2,
+   "end": 25.38
+  },
+  {
+   "text": "skin.",
+   "start": 25.44,
+   "end": 25.64
+  },
+  {
+   "text": "Leak",
+   "start": 25.9,
+   "end": 26.02
+  },
+  {
+   "text": "two.",
+   "start": 26.1,
+   "end": 26.22
+  },
+  {
+   "text": "You",
+   "start": 26.54,
+   "end": 26.6
+  },
+  {
+   "text": "find",
+   "start": 26.7,
+   "end": 26.86
+  },
+  {
+   "text": "the",
+   "start": 26.92,
+   "end": 26.98
+  },
+  {
+   "text": "product,",
+   "start": 27.04,
+   "end": 27.34
+  },
+  {
+   "text": "add",
+   "start": 27.5,
+   "end": 27.56
+  },
+  {
+   "text": "it",
+   "start": 27.62,
+   "end": 27.66
+  },
+  {
+   "text": "to",
+   "start": 27.68,
+   "end": 27.76
+  },
+  {
+   "text": "cart,",
+   "start": 27.82,
+   "end": 28.0
+  },
+  {
+   "text": "and",
+   "start": 28.08,
+   "end": 28.16
+  },
+  {
+   "text": "boom.",
+   "start": 28.22,
+   "end": 28.36
+  },
+  {
+   "text": "Fifteen",
+   "start": 28.84,
+   "end": 29.2
+  },
+  {
+   "text": "dollars",
+   "start": 29.28,
+   "end": 29.6
+  },
+  {
+   "text": "shipping,",
+   "start": 29.66,
+   "end": 29.96
+  },
+  {
+   "text": "at",
+   "start": 30.0,
+   "end": 30.04
+  },
+  {
+   "text": "the",
+   "start": 30.08,
+   "end": 30.14
+  },
+  {
+   "text": "very",
+   "start": 30.18,
+   "end": 30.32
+  },
+  {
+   "text": "last",
+   "start": 30.4,
+   "end": 30.56
+  },
+  {
+   "text": "step.",
+   "start": 30.62,
+   "end": 30.84
+  },
+  {
+   "text": "That's",
+   "start": 31.12,
+   "end": 31.3
+  },
+  {
+   "text": "exactly",
+   "start": 31.36,
+   "end": 31.74
+  },
+  {
+   "text": "where",
+   "start": 31.78,
+   "end": 31.92
+  },
+  {
+   "text": "carts",
+   "start": 32.0,
+   "end": 32.24
+  },
+  {
+   "text": "die.",
+   "start": 32.3,
+   "end": 32.56
+  },
+  {
+   "text": "Fix:",
+   "start": 32.7,
+   "end": 32.86
+  },
+  {
+   "text": "show",
+   "start": 33.18,
+   "end": 33.36
+  },
+  {
+   "text": "shipping",
+   "start": 33.6,
+   "end": 33.86
+  },
+  {
+   "text": "upfront,",
+   "start": 33.94,
+   "end": 34.3
+  },
+  {
+   "text": "or",
+   "start": 34.6,
+   "end": 34.66
+  },
+  {
+   "text": "bake",
+   "start": 34.74,
+   "end": 34.9
+  },
+  {
+   "text": "it",
+   "start": 34.94,
+   "end": 34.98
+  },
+  {
+   "text": "into",
+   "start": 35.04,
+   "end": 35.2
+  },
+  {
+   "text": "the",
+   "start": 35.24,
+   "end": 35.32
+  },
+  {
+   "text": "price.",
+   "start": 35.38,
+   "end": 35.66
+  },
+  {
+   "text": "And",
+   "start": 36.2,
+   "end": 36.28
+  },
+  {
+   "text": "leak",
+   "start": 36.34,
+   "end": 36.48
+  },
+  {
+   "text": "three?",
+   "start": 36.58,
+   "end": 36.8
+  },
+  {
+   "text": "Leak",
+   "start": 37.46,
+   "end": 37.6
+  },
+  {
+   "text": "three.",
+   "start": 37.66,
+   "end": 37.84
+  },
+  {
+   "text": "On",
+   "start": 38.32,
+   "end": 38.36
+  },
+  {
+   "text": "mobile,",
+   "start": 38.46,
+   "end": 38.8
+  },
+  {
+   "text": "this",
+   "start": 38.88,
+   "end": 39.0
+  },
+  {
+   "text": "store",
+   "start": 39.06,
+   "end": 39.28
+  },
+  {
+   "text": "takes",
+   "start": 39.34,
+   "end": 39.56
+  },
+  {
+   "text": "six",
+   "start": 39.62,
+   "end": 39.76
+  },
+  {
+   "text": "seconds",
+   "start": 39.86,
+   "end": 40.18
+  },
+  {
+   "text": "to",
+   "start": 40.24,
+   "end": 40.32
+  },
+  {
+   "text": "load.",
+   "start": 40.4,
+   "end": 40.62
+  },
+  {
+   "text": "Six.",
+   "start": 41.12,
+   "end": 41.3
+  },
+  {
+   "text": "Most",
+   "start": 41.82,
+   "end": 41.98
+  },
+  {
+   "text": "shoppers",
+   "start": 42.06,
+   "end": 42.44
+  },
+  {
+   "text": "are",
+   "start": 42.52,
+   "end": 42.6
+  },
+  {
+   "text": "on",
+   "start": 42.66,
+   "end": 42.7
+  },
+  {
+   "text": "their",
+   "start": 42.76,
+   "end": 42.88
+  },
+  {
+   "text": "phones,",
+   "start": 42.92,
+   "end": 43.24
+  },
+  {
+   "text": "and",
+   "start": 43.3,
+   "end": 43.36
+  },
+  {
+   "text": "they're",
+   "start": 43.4,
+   "end": 43.54
+  },
+  {
+   "text": "gone",
+   "start": 43.58,
+   "end": 43.74
+  },
+  {
+   "text": "before",
+   "start": 43.86,
+   "end": 44.1
+  },
+  {
+   "text": "it",
+   "start": 44.16,
+   "end": 44.2
+  },
+  {
+   "text": "loads.",
+   "start": 44.28,
+   "end": 44.54
+  },
+  {
+   "text": "Fix:",
+   "start": 44.82,
+   "end": 44.98
+  },
+  {
+   "text": "compress",
+   "start": 45.18,
+   "end": 45.52
+  },
+  {
+   "text": "your",
+   "start": 45.58,
+   "end": 45.68
+  },
+  {
+   "text": "images",
+   "start": 45.76,
+   "end": 46.12
+  },
+  {
+   "text": "and",
+   "start": 46.2,
+   "end": 46.26
+  },
+  {
+   "text": "delete",
+   "start": 46.32,
+   "end": 46.6
+  },
+  {
+   "text": "apps",
+   "start": 46.72,
+   "end": 46.88
+  },
+  {
+   "text": "you",
+   "start": 46.94,
+   "end": 47.0
+  },
+  {
+   "text": "don't",
+   "start": 47.06,
+   "end": 47.22
+  },
+  {
+   "text": "use.",
+   "start": 47.42,
+   "end": 47.6
+  },
+  {
+   "text": "Now",
+   "start": 48.0,
+   "end": 48.1
+  },
+  {
+   "text": "find",
+   "start": 48.2,
+   "end": 48.36
+  },
+  {
+   "text": "your",
+   "start": 48.42,
+   "end": 48.52
+  },
+  {
+   "text": "leaks.",
+   "start": 48.56,
+   "end": 48.78
+  },
+  {
+   "text": "Paste",
+   "start": 48.88,
+   "end": 49.08
+  },
+  {
+   "text": "your",
+   "start": 49.12,
+   "end": 49.22
+  },
+  {
+   "text": "homepage",
+   "start": 49.28,
+   "end": 49.7
+  },
+  {
+   "text": "into",
+   "start": 49.74,
+   "end": 49.88
+  },
+  {
+   "text": "any",
+   "start": 50.0,
+   "end": 50.12
+  },
+  {
+   "text": "AI.",
+   "start": 50.26,
+   "end": 50.52
+  },
+  {
+   "text": "Tell",
+   "start": 50.78,
+   "end": 50.94
+  },
+  {
+   "text": "it:",
+   "start": 51.02,
+   "end": 51.06
+  },
+  {
+   "text": "act",
+   "start": 51.32,
+   "end": 51.44
+  },
+  {
+   "text": "like",
+   "start": 51.52,
+   "end": 51.62
+  },
+  {
+   "text": "a",
+   "start": 51.7,
+   "end": 51.72
+  },
+  {
+   "text": "first-time",
+   "start": 51.78,
+   "end": 52.22
+  },
+  {
+   "text": "shopper.",
+   "start": 52.3,
+   "end": 52.62
+  },
+  {
+   "text": "What's",
+   "start": 53.0,
+   "end": 53.18
+  },
+  {
+   "text": "confusing,",
+   "start": 53.24,
+   "end": 53.76
+  },
+  {
+   "text": "what's",
+   "start": 53.84,
+   "end": 54.02
+  },
+  {
+   "text": "missing,",
+   "start": 54.08,
+   "end": 54.38
+  },
+  {
+   "text": "what",
+   "start": 54.46,
+   "end": 54.56
+  },
+  {
+   "text": "would",
+   "start": 54.6,
+   "end": 54.74
+  },
+  {
+   "text": "stop",
+   "start": 54.8,
+   "end": 55.0
+  },
+  {
+   "text": "you",
+   "start": 55.06,
+   "end": 55.14
+  },
+  {
+   "text": "buying?",
+   "start": 55.24,
+   "end": 55.5
+  },
+  {
+   "text": "It'll",
+   "start": 55.8,
+   "end": 55.98
+  },
+  {
+   "text": "be",
+   "start": 56.0,
+   "end": 56.06
+  },
+  {
+   "text": "brutally",
+   "start": 56.12,
+   "end": 56.44
+  },
+  {
+   "text": "honest.",
+   "start": 56.52,
+   "end": 56.8
+  },
+  {
+   "text": "Most",
+   "start": 57.08,
+   "end": 57.24
+  },
+  {
+   "text": "stores",
+   "start": 57.3,
+   "end": 57.56
+  },
+  {
+   "text": "don't",
+   "start": 57.62,
+   "end": 57.78
+  },
+  {
+   "text": "have",
+   "start": 57.84,
+   "end": 57.96
+  },
+  {
+   "text": "a",
+   "start": 58.0,
+   "end": 58.02
+  },
+  {
+   "text": "traffic",
+   "start": 58.08,
+   "end": 58.38
+  },
+  {
+   "text": "problem.",
+   "start": 58.44,
+   "end": 58.78
+  },
+  {
+   "text": "They",
+   "start": 59.0,
+   "end": 59.1
+  },
+  {
+   "text": "have",
+   "start": 59.16,
+   "end": 59.28
+  },
+  {
+   "text": "a",
+   "start": 59.32,
+   "end": 59.34
+  },
+  {
+   "text": "leak",
+   "start": 59.38,
+   "end": 59.52
+  },
+  {
+   "text": "problem.",
+   "start": 59.62,
+   "end": 59.98
+  },
+  {
+   "text": "Fix",
+   "start": 60.32,
+   "end": 60.46
+  },
+  {
+   "text": "the",
+   "start": 60.6,
+   "end": 60.66
+  },
+  {
+   "text": "leaks,",
+   "start": 60.72,
+   "end": 60.98
+  },
+  {
+   "text": "then",
+   "start": 61.16,
+   "end": 61.28
+  },
+  {
+   "text": "scale.",
+   "start": 61.42,
+   "end": 61.74
+  },
+  {
+   "text": "Save",
+   "start": 62.26,
+   "end": 62.44
+  },
+  {
+   "text": "this",
+   "start": 62.5,
+   "end": 62.62
+  },
+  {
+   "text": "before",
+   "start": 62.68,
+   "end": 62.94
+  },
+  {
+   "text": "your",
+   "start": 62.96,
+   "end": 63.08
+  },
+  {
+   "text": "next",
+   "start": 63.1,
+   "end": 63.26
+  },
+  {
+   "text": "ad",
+   "start": 63.42,
+   "end": 63.52
+  },
+  {
+   "text": "spend,",
+   "start": 63.62,
+   "end": 63.9
+  },
+  {
+   "text": "and",
+   "start": 63.98,
+   "end": 64.06
+  },
+  {
+   "text": "follow",
+   "start": 64.12,
+   "end": 64.36
+  },
+  {
+   "text": "for",
+   "start": 64.44,
+   "end": 64.52
+  },
+  {
+   "text": "more",
+   "start": 64.58,
+   "end": 64.72
+  },
+  {
+   "text": "teardowns.",
+   "start": 64.76,
+   "end": 65.22
+  }
+ ],
+ "provider": "ctc-forced"
+}
