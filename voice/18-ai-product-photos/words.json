@@ -1,0 +1,916 @@
+{
+ "audio": "voice.wav",
+ "words": [
+  {
+   "text": "This",
+   "start": 0.22,
+   "end": 0.34
+  },
+  {
+   "text": "product",
+   "start": 0.42,
+   "end": 0.68
+  },
+  {
+   "text": "photo",
+   "start": 0.76,
+   "end": 0.98
+  },
+  {
+   "text": "cost",
+   "start": 1.06,
+   "end": 1.24
+  },
+  {
+   "text": "me",
+   "start": 1.32,
+   "end": 1.42
+  },
+  {
+   "text": "almost",
+   "start": 1.7,
+   "end": 1.96
+  },
+  {
+   "text": "nothing.",
+   "start": 2.04,
+   "end": 2.28
+  },
+  {
+   "text": "No",
+   "start": 2.52,
+   "end": 2.6
+  },
+  {
+   "text": "studio.",
+   "start": 2.7,
+   "end": 3.06
+  },
+  {
+   "text": "No",
+   "start": 3.32,
+   "end": 3.38
+  },
+  {
+   "text": "photographer.",
+   "start": 3.46,
+   "end": 4.0
+  },
+  {
+   "text": "Just",
+   "start": 4.1,
+   "end": 4.24
+  },
+  {
+   "text": "my",
+   "start": 4.28,
+   "end": 4.36
+  },
+  {
+   "text": "phone.",
+   "start": 4.44,
+   "end": 4.7
+  },
+  {
+   "text": "Three",
+   "start": 5.04,
+   "end": 5.22
+  },
+  {
+   "text": "steps",
+   "start": 5.3,
+   "end": 5.56
+  },
+  {
+   "text": "to",
+   "start": 5.62,
+   "end": 5.7
+  },
+  {
+   "text": "ten",
+   "start": 5.76,
+   "end": 5.9
+  },
+  {
+   "text": "store-ready",
+   "start": 6.04,
+   "end": 6.48
+  },
+  {
+   "text": "photos,",
+   "start": 6.56,
+   "end": 6.96
+  },
+  {
+   "text": "in",
+   "start": 7.18,
+   "end": 7.22
+  },
+  {
+   "text": "one",
+   "start": 7.34,
+   "end": 7.44
+  },
+  {
+   "text": "afternoon.",
+   "start": 7.52,
+   "end": 7.96
+  },
+  {
+   "text": "Bad",
+   "start": 8.48,
+   "end": 8.66
+  },
+  {
+   "text": "photos",
+   "start": 8.74,
+   "end": 9.02
+  },
+  {
+   "text": "make",
+   "start": 9.1,
+   "end": 9.22
+  },
+  {
+   "text": "good",
+   "start": 9.28,
+   "end": 9.42
+  },
+  {
+   "text": "products",
+   "start": 9.48,
+   "end": 9.82
+  },
+  {
+   "text": "look",
+   "start": 9.86,
+   "end": 10.0
+  },
+  {
+   "text": "cheap.",
+   "start": 10.08,
+   "end": 10.28
+  },
+  {
+   "text": "Three",
+   "start": 10.5,
+   "end": 10.68
+  },
+  {
+   "text": "steps.",
+   "start": 10.72,
+   "end": 11.0
+  },
+  {
+   "text": "The",
+   "start": 11.06,
+   "end": 11.12
+  },
+  {
+   "text": "last",
+   "start": 11.18,
+   "end": 11.34
+  },
+  {
+   "text": "one",
+   "start": 11.42,
+   "end": 11.5
+  },
+  {
+   "text": "makes",
+   "start": 11.54,
+   "end": 11.68
+  },
+  {
+   "text": "it",
+   "start": 11.72,
+   "end": 11.76
+  },
+  {
+   "text": "look",
+   "start": 11.78,
+   "end": 11.9
+  },
+  {
+   "text": "expensive.",
+   "start": 11.94,
+   "end": 12.38
+  },
+  {
+   "text": "Step",
+   "start": 13.0,
+   "end": 13.2
+  },
+  {
+   "text": "one,",
+   "start": 13.42,
+   "end": 13.54
+  },
+  {
+   "text": "shoot",
+   "start": 13.72,
+   "end": 13.9
+  },
+  {
+   "text": "it",
+   "start": 13.96,
+   "end": 14.0
+  },
+  {
+   "text": "right.",
+   "start": 14.06,
+   "end": 14.22
+  },
+  {
+   "text": "Put",
+   "start": 14.56,
+   "end": 14.66
+  },
+  {
+   "text": "the",
+   "start": 14.7,
+   "end": 14.78
+  },
+  {
+   "text": "product",
+   "start": 14.82,
+   "end": 15.12
+  },
+  {
+   "text": "next",
+   "start": 15.18,
+   "end": 15.32
+  },
+  {
+   "text": "to",
+   "start": 15.34,
+   "end": 15.4
+  },
+  {
+   "text": "a",
+   "start": 15.46,
+   "end": 15.48
+  },
+  {
+   "text": "window,",
+   "start": 15.54,
+   "end": 15.74
+  },
+  {
+   "text": "on",
+   "start": 15.8,
+   "end": 15.84
+  },
+  {
+   "text": "a",
+   "start": 15.9,
+   "end": 15.92
+  },
+  {
+   "text": "plain",
+   "start": 15.98,
+   "end": 16.16
+  },
+  {
+   "text": "white",
+   "start": 16.28,
+   "end": 16.52
+  },
+  {
+   "text": "background.",
+   "start": 16.6,
+   "end": 17.02
+  },
+  {
+   "text": "Take",
+   "start": 17.28,
+   "end": 17.44
+  },
+  {
+   "text": "five",
+   "start": 17.52,
+   "end": 17.74
+  },
+  {
+   "text": "angles.",
+   "start": 17.82,
+   "end": 18.08
+  },
+  {
+   "text": "No",
+   "start": 18.14,
+   "end": 18.22
+  },
+  {
+   "text": "flash.",
+   "start": 18.32,
+   "end": 18.64
+  },
+  {
+   "text": "Step",
+   "start": 19.02,
+   "end": 19.2
+  },
+  {
+   "text": "two.",
+   "start": 19.3,
+   "end": 19.42
+  },
+  {
+   "text": "Drop",
+   "start": 19.64,
+   "end": 19.82
+  },
+  {
+   "text": "it",
+   "start": 19.9,
+   "end": 19.94
+  },
+  {
+   "text": "into",
+   "start": 20.0,
+   "end": 20.2
+  },
+  {
+   "text": "any",
+   "start": 20.32,
+   "end": 20.44
+  },
+  {
+   "text": "free",
+   "start": 20.56,
+   "end": 20.78
+  },
+  {
+   "text": "AI",
+   "start": 20.9,
+   "end": 21.08
+  },
+  {
+   "text": "background",
+   "start": 21.2,
+   "end": 21.56
+  },
+  {
+   "text": "remover.",
+   "start": 21.62,
+   "end": 21.94
+  },
+  {
+   "text": "Messy",
+   "start": 22.14,
+   "end": 22.36
+  },
+  {
+   "text": "table,",
+   "start": 22.42,
+   "end": 22.66
+  },
+  {
+   "text": "gone.",
+   "start": 22.72,
+   "end": 22.96
+  },
+  {
+   "text": "Clean",
+   "start": 23.08,
+   "end": 23.26
+  },
+  {
+   "text": "cutout",
+   "start": 23.3,
+   "end": 23.54
+  },
+  {
+   "text": "in",
+   "start": 23.6,
+   "end": 23.64
+  },
+  {
+   "text": "two",
+   "start": 23.68,
+   "end": 23.78
+  },
+  {
+   "text": "seconds.",
+   "start": 23.86,
+   "end": 24.28
+  },
+  {
+   "text": "And",
+   "start": 24.56,
+   "end": 24.64
+  },
+  {
+   "text": "step",
+   "start": 24.84,
+   "end": 25.04
+  },
+  {
+   "text": "three?",
+   "start": 25.2,
+   "end": 25.42
+  },
+  {
+   "text": "Step",
+   "start": 25.92,
+   "end": 26.08
+  },
+  {
+   "text": "three,",
+   "start": 26.18,
+   "end": 26.36
+  },
+  {
+   "text": "the",
+   "start": 26.46,
+   "end": 26.52
+  },
+  {
+   "text": "magic.",
+   "start": 26.58,
+   "end": 26.84
+  },
+  {
+   "text": "Upload",
+   "start": 27.46,
+   "end": 27.72
+  },
+  {
+   "text": "the",
+   "start": 27.78,
+   "end": 27.84
+  },
+  {
+   "text": "cutout",
+   "start": 27.88,
+   "end": 28.14
+  },
+  {
+   "text": "to",
+   "start": 28.2,
+   "end": 28.26
+  },
+  {
+   "text": "an",
+   "start": 28.32,
+   "end": 28.38
+  },
+  {
+   "text": "AI",
+   "start": 28.48,
+   "end": 28.68
+  },
+  {
+   "text": "image",
+   "start": 28.84,
+   "end": 29.04
+  },
+  {
+   "text": "tool",
+   "start": 29.12,
+   "end": 29.3
+  },
+  {
+   "text": "and",
+   "start": 29.32,
+   "end": 29.38
+  },
+  {
+   "text": "describe",
+   "start": 29.42,
+   "end": 29.74
+  },
+  {
+   "text": "the",
+   "start": 29.82,
+   "end": 29.88
+  },
+  {
+   "text": "scene.",
+   "start": 29.94,
+   "end": 30.18
+  },
+  {
+   "text": "Kitchen",
+   "start": 30.48,
+   "end": 30.7
+  },
+  {
+   "text": "counter.",
+   "start": 30.74,
+   "end": 31.04
+  },
+  {
+   "text": "Beach",
+   "start": 31.2,
+   "end": 31.4
+  },
+  {
+   "text": "towel.",
+   "start": 31.5,
+   "end": 31.8
+  },
+  {
+   "text": "Office",
+   "start": 32.14,
+   "end": 32.4
+  },
+  {
+   "text": "desk.",
+   "start": 32.46,
+   "end": 32.68
+  },
+  {
+   "text": "Always",
+   "start": 32.94,
+   "end": 33.18
+  },
+  {
+   "text": "add:",
+   "start": 33.4,
+   "end": 33.52
+  },
+  {
+   "text": "don't",
+   "start": 33.8,
+   "end": 33.96
+  },
+  {
+   "text": "change",
+   "start": 34.04,
+   "end": 34.24
+  },
+  {
+   "text": "the",
+   "start": 34.3,
+   "end": 34.36
+  },
+  {
+   "text": "product.",
+   "start": 34.42,
+   "end": 34.72
+  },
+  {
+   "text": "One",
+   "start": 34.94,
+   "end": 35.02
+  },
+  {
+   "text": "afternoon.",
+   "start": 35.1,
+   "end": 35.48
+  },
+  {
+   "text": "Ten",
+   "start": 35.74,
+   "end": 35.86
+  },
+  {
+   "text": "photos.",
+   "start": 35.96,
+   "end": 36.32
+  },
+  {
+   "text": "Enough",
+   "start": 36.48,
+   "end": 36.66
+  },
+  {
+   "text": "for",
+   "start": 36.74,
+   "end": 36.84
+  },
+  {
+   "text": "your",
+   "start": 36.88,
+   "end": 37.02
+  },
+  {
+   "text": "product",
+   "start": 37.18,
+   "end": 37.44
+  },
+  {
+   "text": "pages,",
+   "start": 37.48,
+   "end": 37.8
+  },
+  {
+   "text": "your",
+   "start": 37.84,
+   "end": 37.96
+  },
+  {
+   "text": "ads,",
+   "start": 38.08,
+   "end": 38.26
+  },
+  {
+   "text": "and",
+   "start": 38.32,
+   "end": 38.38
+  },
+  {
+   "text": "your",
+   "start": 38.4,
+   "end": 38.5
+  },
+  {
+   "text": "emails.",
+   "start": 38.58,
+   "end": 38.88
+  },
+  {
+   "text": "One",
+   "start": 39.22,
+   "end": 39.3
+  },
+  {
+   "text": "rule.",
+   "start": 39.36,
+   "end": 39.56
+  },
+  {
+   "text": "Keep",
+   "start": 40.0,
+   "end": 40.14
+  },
+  {
+   "text": "the",
+   "start": 40.2,
+   "end": 40.26
+  },
+  {
+   "text": "product",
+   "start": 40.32,
+   "end": 40.6
+  },
+  {
+   "text": "accurate.",
+   "start": 40.7,
+   "end": 41.06
+  },
+  {
+   "text": "Same",
+   "start": 41.52,
+   "end": 41.7
+  },
+  {
+   "text": "color,",
+   "start": 41.78,
+   "end": 42.0
+  },
+  {
+   "text": "same",
+   "start": 42.12,
+   "end": 42.3
+  },
+  {
+   "text": "size,",
+   "start": 42.38,
+   "end": 42.62
+  },
+  {
+   "text": "same",
+   "start": 42.7,
+   "end": 42.86
+  },
+  {
+   "text": "details.",
+   "start": 42.94,
+   "end": 43.36
+  },
+  {
+   "text": "If",
+   "start": 43.52,
+   "end": 43.56
+  },
+  {
+   "text": "the",
+   "start": 43.64,
+   "end": 43.7
+  },
+  {
+   "text": "photo",
+   "start": 43.74,
+   "end": 43.96
+  },
+  {
+   "text": "lies,",
+   "start": 44.04,
+   "end": 44.26
+  },
+  {
+   "text": "you'll",
+   "start": 44.3,
+   "end": 44.5
+  },
+  {
+   "text": "eat",
+   "start": 44.56,
+   "end": 44.64
+  },
+  {
+   "text": "the",
+   "start": 44.7,
+   "end": 44.76
+  },
+  {
+   "text": "refunds.",
+   "start": 44.82,
+   "end": 45.32
+  },
+  {
+   "text": "Bonus.",
+   "start": 46.26,
+   "end": 46.62
+  },
+  {
+   "text": "Film",
+   "start": 47.12,
+   "end": 47.28
+  },
+  {
+   "text": "one",
+   "start": 47.4,
+   "end": 47.48
+  },
+  {
+   "text": "quick",
+   "start": 47.56,
+   "end": 47.72
+  },
+  {
+   "text": "video",
+   "start": 47.82,
+   "end": 48.02
+  },
+  {
+   "text": "of",
+   "start": 48.1,
+   "end": 48.14
+  },
+  {
+   "text": "the",
+   "start": 48.18,
+   "end": 48.24
+  },
+  {
+   "text": "product",
+   "start": 48.3,
+   "end": 48.58
+  },
+  {
+   "text": "on",
+   "start": 48.68,
+   "end": 48.72
+  },
+  {
+   "text": "your",
+   "start": 48.76,
+   "end": 48.86
+  },
+  {
+   "text": "phone",
+   "start": 48.9,
+   "end": 49.1
+  },
+  {
+   "text": "too.",
+   "start": 49.18,
+   "end": 49.34
+  },
+  {
+   "text": "AI",
+   "start": 49.84,
+   "end": 50.0
+  },
+  {
+   "text": "photos",
+   "start": 50.1,
+   "end": 50.42
+  },
+  {
+   "text": "sell",
+   "start": 50.46,
+   "end": 50.62
+  },
+  {
+   "text": "the",
+   "start": 50.66,
+   "end": 50.74
+  },
+  {
+   "text": "vibe.",
+   "start": 50.78,
+   "end": 51.04
+  },
+  {
+   "text": "Real",
+   "start": 51.18,
+   "end": 51.36
+  },
+  {
+   "text": "video",
+   "start": 51.46,
+   "end": 51.7
+  },
+  {
+   "text": "proves",
+   "start": 51.8,
+   "end": 52.02
+  },
+  {
+   "text": "it",
+   "start": 52.04,
+   "end": 52.08
+  },
+  {
+   "text": "exists.",
+   "start": 52.1,
+   "end": 52.46
+  },
+  {
+   "text": "Your",
+   "start": 52.54,
+   "end": 52.66
+  },
+  {
+   "text": "phone",
+   "start": 52.7,
+   "end": 52.88
+  },
+  {
+   "text": "is",
+   "start": 52.94,
+   "end": 52.98
+  },
+  {
+   "text": "now",
+   "start": 53.04,
+   "end": 53.14
+  },
+  {
+   "text": "the",
+   "start": 53.2,
+   "end": 53.28
+  },
+  {
+   "text": "studio.",
+   "start": 53.32,
+   "end": 53.66
+  },
+  {
+   "text": "Save",
+   "start": 53.82,
+   "end": 54.06
+  },
+  {
+   "text": "this,",
+   "start": 54.14,
+   "end": 54.3
+  },
+  {
+   "text": "shoot",
+   "start": 54.38,
+   "end": 54.54
+  },
+  {
+   "text": "your",
+   "start": 54.6,
+   "end": 54.7
+  },
+  {
+   "text": "product",
+   "start": 54.74,
+   "end": 55.0
+  },
+  {
+   "text": "tonight,",
+   "start": 55.04,
+   "end": 55.32
+  },
+  {
+   "text": "and",
+   "start": 55.46,
+   "end": 55.54
+  },
+  {
+   "text": "follow",
+   "start": 55.64,
+   "end": 55.9
+  },
+  {
+   "text": "for",
+   "start": 56.06,
+   "end": 56.22
+  },
+  {
+   "text": "more.",
+   "start": 56.32,
+   "end": 56.5
+  }
+ ],
+ "provider": "ctc-forced"
+}
