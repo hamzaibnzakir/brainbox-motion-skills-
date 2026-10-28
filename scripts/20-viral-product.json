@@ -1,0 +1,151 @@
+{
+  "id": "20-viral-product",
+  "title": "Find a viral product before it blows up (3 signals)",
+  "caption": "Everyone finds viral products after they go viral. 3 signals to spot them early: the search, the comments, the trend. Plus the prompt that stress-tests it. #productresearch #tiktokmademebuyit #dropshipping #ecommerce",
+  "avatar": {
+    "dir": "assets/hero"
+  },
+  "beats": [
+    {
+      "layout": "bix",
+      "pose": "presenting",
+      "bg": "ink",
+      "bix": "smug",
+      "headline": "Find it *before* | it blows up.",
+      "chips": [
+        { "icon": "timer", "text": "Too late", "kind": "bad", "at": "after" },
+        { "icon": "rocket", "text": "Early", "kind": "hot", "at": "before" }
+      ],
+      "say": "Everyone finds viral products after they go *viral.* Here's how to find them before."
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "headline": "Spot it *early*",
+      "visual": { "type": "icon", "icon": "radar", "badge": "check", "badgeTone": "good", "badgeAt": "prompt" },
+      "stamp": { "text": "3 SIGNALS", "at": "three", "y": 860 },
+      "say": "Three signals, ten minutes a day, and one prompt to check if it'll *last.*",
+      "box": "one prompt to check if it'll last."
+    },
+    {
+      "layout": "punch",
+      "bg": "neon",
+      "bix": "serious",
+      "headline": "Everywhere means | *late.*",
+      "say": "[sigh] By the time it's everywhere, you're *late.*"
+    },
+    {
+      "layout": "punch",
+      "bg": "void",
+      "bix": "smug",
+      "header": "3 *SIGNALS*",
+      "headline": "The last one | confirms *it.*",
+      "say": "Three signals. The last one confirms the *trend.*"
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "header": "1 · THE *SEARCH*",
+      "visual": {
+        "type": "flow",
+        "nodes": [
+          { "icon": "search", "text": "\"made me buy it\"", "at": "search" },
+          { "icon": "calendar", "text": "Filter: this week", "at": "filter" },
+          { "icon": "eye", "text": "Big views, few sellers", "at": "tons" }
+        ]
+      },
+      "say": "Signal one, the search. On TikTok, search made me buy it. Filter to this week. Look for products with tons of views, but only a few sellers *yet.*"
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "header": "2 · THE *COMMENTS*",
+      "visual": {
+        "type": "checklist",
+        "items": [
+          { "text": "\"Where do I buy this?\"", "at": "where" },
+          { "text": "\"Link??\"", "at": "link" },
+          { "text": "\"Does it ship to me?\"", "at": "ship" }
+        ]
+      },
+      "chips": [
+        { "icon": "magnet", "text": "Demand signal", "kind": "hot", "at": "every" }
+      ],
+      "say": "Signal two, the comments. Where do I buy this? Link? Does it ship to me? Every one of those is a buyer with no store to buy *from.*",
+      "box": "a buyer with no store to buy from."
+    },
+    {
+      "layout": "punch",
+      "bg": "void",
+      "bix": "think",
+      "headline": "And signal *three?*",
+      "say": "And signal three? [question-oh]"
+    },
+    {
+      "bg": "ink",
+      "bix": "shock",
+      "header": "3 · THE *TREND*",
+      "visual": {
+        "type": "compare",
+        "beforeLabel": "PEAKED",
+        "afterLabel": "RISING",
+        "before": ["Huge spike", "Already falling"],
+        "after": ["Steady climb", "You're early"],
+        "at": "steady"
+      },
+      "chips": [
+        { "icon": "trending", "text": "Rising = early", "kind": "hot", "at": "early" }
+      ],
+      "say": "Signal three, the trend. Type the product into Google Trends. A spike that's already falling? Skip it. A steady climb? You're *early.*"
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "header": "STRESS-TEST *IT*",
+      "visual": {
+        "type": "prompt",
+        "prompt": "Product: [x]. Is this a fad or a trend? Who buys it, what problem does it solve, and how easy is it to copy?",
+        "at": "ask",
+        "reply": [
+          "Problem: real and recurring",
+          "Buyer: busy parents, 25-40",
+          "Copy risk: high, win on brand",
+          "Verdict: trend. Test small."
+        ],
+        "replyAt": "who"
+      },
+      "say": "Then stress-test it. *Ask* AI: is this a fad or a trend? Who buys it, what problem does it solve, and how easy is it to copy?"
+    },
+    {
+      "bg": "ink",
+      "bix": "smug",
+      "header": "BONUS · TEST *SMALL*",
+      "visual": { "type": "icon", "icon": "target", "badge": "check", "badgeTone": "good", "badgeAt": "cheap" },
+      "chips": [
+        { "icon": "package", "text": "A few units", "at": "few" },
+        { "icon": "megaphone", "text": "One cheap ad", "kind": "hot", "at": "cheap" }
+      ],
+      "say": "Bonus. Test small. Order a few units, or run one cheap ad first. Viral today can be dead next *month.*"
+    },
+    {
+      "layout": "punch",
+      "bg": "neon",
+      "bix": "smug",
+      "headline": "Spot it | *early.*",
+      "say": "Don't chase viral. Spot it *early.*"
+    },
+    {
+      "layout": "bix",
+      "pose": "celebrating",
+      "bg": "ink",
+      "bix": "happy",
+      "label": "Next product hunt",
+      "headline": "Follow for *more*",
+      "chips": [
+        { "icon": "camera", "text": "Save this", "at": "save" },
+        { "icon": "users", "text": "Follow", "kind": "hot", "at": "follow" }
+      ],
+      "say": "*Save* this for your next product hunt, and follow for more."
+    }
+  ]
+}
