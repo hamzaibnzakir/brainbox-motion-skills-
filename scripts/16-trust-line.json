@@ -13,8 +13,17 @@
       "bix": "smug",
       "headline": "One line. | More *trust.*",
       "chips": [
-        { "icon": "user", "text": "New visitor", "at": "new" },
-        { "icon": "shield", "text": "No trust yet", "kind": "bad", "at": "trust" }
+        {
+          "icon": "user",
+          "text": "New visitor",
+          "at": "new"
+        },
+        {
+          "icon": "shield",
+          "text": "No trust yet",
+          "kind": "bad",
+          "at": "trust"
+        }
       ],
       "say": "New visitors don't *trust* your store yet. One tiny line under your buy button changes that."
     },
@@ -22,8 +31,18 @@
       "bg": "ink",
       "bix": "talk",
       "headline": "The trust *line*",
-      "visual": { "type": "icon", "icon": "shield", "badge": "check", "badgeTone": "good", "badgeAt": "minutes" },
-      "stamp": { "text": "1 LINE", "at": "called", "y": 860 },
+      "visual": {
+        "type": "icon",
+        "icon": "shield",
+        "badge": "check",
+        "badgeTone": "good",
+        "badgeAt": "minutes"
+      },
+      "stamp": {
+        "text": "1 LINE",
+        "at": "called",
+        "y": 860
+      },
       "say": "It's *called* a trust line, and it takes five minutes to add.",
       "box": "it takes five minutes to add."
     },
@@ -46,9 +65,22 @@
       "bg": "ink",
       "bix": "talk",
       "header": "1 · YOUR *RATING*",
-      "visual": { "type": "stat", "from": 0, "to": 4.8, "decimals": 1, "suffix": " / 5", "label": "From 1,200 reviews", "at": "four" },
+      "visual": {
+        "type": "stat",
+        "from": 0,
+        "to": 4.8,
+        "decimals": 1,
+        "suffix": " / 5",
+        "label": "From 1,200 reviews",
+        "at": "four"
+      },
       "chips": [
-        { "icon": "users", "text": "Show the count", "kind": "hot", "at": "number" }
+        {
+          "icon": "users",
+          "text": "Show the count",
+          "kind": "hot",
+          "at": "number"
+        }
       ],
       "say": "Piece one, your rating. *Four* point eight stars, from twelve hundred reviews. The *number* of reviews matters as much as the stars."
     },
@@ -60,12 +92,22 @@
         "type": "compare",
         "beforeLabel": "VAGUE",
         "afterLabel": "CLEAR",
-        "before": ["Fast shipping"],
-        "after": ["Arrives Thursday", "Tracked, free over $50"],
+        "before": [
+          "Fast shipping"
+        ],
+        "after": [
+          "Arrives Thursday",
+          "Tracked, free over $50"
+        ],
         "at": "say"
       },
       "chips": [
-        { "icon": "truck", "text": "Give a date", "kind": "hot", "at": "date" }
+        {
+          "icon": "truck",
+          "text": "Give a date",
+          "kind": "hot",
+          "at": "date"
+        }
       ],
       "say": "Piece two, delivery. Not fast shipping. That means nothing. *Say* the actual *date.* Arrives Thursday. People trust specifics.",
       "box": "People trust specifics."
@@ -84,13 +126,27 @@
       "visual": {
         "type": "checklist",
         "items": [
-          { "text": "Free returns", "at": "free" },
-          { "text": "30 days", "at": "thirty" },
-          { "text": "No questions asked", "at": "no" }
+          {
+            "text": "Free returns",
+            "at": "free"
+          },
+          {
+            "text": "30 days",
+            "at": "thirty"
+          },
+          {
+            "text": "No questions asked",
+            "at": "no"
+          }
         ]
       },
       "chips": [
-        { "icon": "shield", "text": "Risk removed", "kind": "hot", "at": "risk" }
+        {
+          "icon": "shield",
+          "text": "Risk removed",
+          "kind": "hot",
+          "at": "risk"
+        }
       ],
       "say": "Piece three, returns. *Free* returns, thirty days, no questions asked. That takes the *risk* off the buyer, so they click buy."
     },
@@ -106,7 +162,14 @@
         "ship": "4.8/5 (1,200 reviews) · Arrives Thursday · Free returns",
         "scroll": 150,
         "scrollAt": "row",
-        "marks": [ { "target": "ship", "kind": "good", "text": "TRUST LINE", "at": "right" } ]
+        "marks": [
+          {
+            "target": "ship",
+            "kind": "good",
+            "text": "TRUST LINE",
+            "at": "right"
+          }
+        ]
       },
       "say": "Now put all three in one *row*, right under your buy button. That's your trust line."
     },
@@ -128,6 +191,27 @@
       "say": "Stuck on the wording? *Ask* any AI to write three trust lines under ten words. Give it your real rating, delivery time and return policy. Real numbers only."
     },
     {
+      "bg": "ink",
+      "bix": "smug",
+      "header": "BONUS · THE *CART*",
+      "visual": {
+        "type": "icon",
+        "icon": "cart",
+        "badge": "check",
+        "badgeTone": "good",
+        "badgeAt": "cart"
+      },
+      "chips": [
+        {
+          "icon": "shield",
+          "text": "Trust line here too",
+          "kind": "hot",
+          "at": "same"
+        }
+      ],
+      "say": "Bonus. Put the *same* line in your *cart* too. That's where doubt hits hardest, right before they pay."
+    },
+    {
       "layout": "punch",
       "bg": "neon",
       "bix": "smug",
@@ -143,8 +227,17 @@
       "label": "Add it today",
       "headline": "Follow for *more*",
       "chips": [
-        { "icon": "camera", "text": "Save this", "at": "save" },
-        { "icon": "users", "text": "Follow", "kind": "hot", "at": "follow" }
+        {
+          "icon": "camera",
+          "text": "Save this",
+          "at": "save"
+        },
+        {
+          "icon": "users",
+          "text": "Follow",
+          "kind": "hot",
+          "at": "follow"
+        }
       ],
       "say": "*Save* this, add it today, and follow for more."
     }
