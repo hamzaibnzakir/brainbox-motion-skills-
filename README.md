@@ -50,6 +50,7 @@ node tools/render.mjs scripts/03-name.json                      # 5. final MP4 w
 - `--draft`: half resolution, ~3× faster, for checks
 - `node tools/proof.mjs 03-name`: contact sheet of one frame per scene
 - `node tools/batch.mjs`: renders every script that doesn't have a video yet
+- `node tools/export-pack.mjs [12 13 …]`: zips the finished HD videos in `examples/` (1080×1920) with `manifest.json` + `captions.csv` for the auto-posting agent → `out/export/brainbox-reels-<date>.zip`
 - Background music: put a file at `assets/music.mp3` and add `"music": "assets/music.mp3"` to the script
 
 ## Hermes task

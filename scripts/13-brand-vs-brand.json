@@ -13,18 +13,18 @@
       "bix": "smug",
       "headline": "Same product. | *Different* sales.",
       "chips": [
-        { "icon": "store", "text": "Store A vs B", "kind": "hot", "at": "two" }
+        { "icon": "store", "text": "Left vs right", "kind": "hot", "at": "exact" }
       ],
-      "say": "*Two* stores. Same product. One sells way more. Here's exactly why."
+      "say": "Two stores sell the *exact* same product. One makes way more sales. Let me show you why."
     },
     {
       "bg": "ink",
       "bix": "talk",
       "headline": "Score your *store*",
       "visual": { "type": "icon", "icon": "trophy", "badge": "check", "badgeTone": "good", "badgeAt": "prompt" },
-      "stamp": { "text": "3 ROUNDS", "at": "three", "y": 860 },
-      "say": "I'll score them in three rounds, then give you the *prompt* to score yours.",
-      "box": "the prompt to score yours."
+      "stamp": { "text": "3 ROUNDS", "at": "side", "y": 860 },
+      "say": "I'll judge them side by side, then hand you the *prompt* to score your own store.",
+      "box": "the prompt to score your own store."
     },
     {
       "layout": "punch",
@@ -47,16 +47,16 @@
       "header": "1 · THE *HEADLINE*",
       "visual": {
         "type": "compare",
-        "beforeLabel": "STORE A",
-        "afterLabel": "STORE B",
+        "beforeLabel": "LEFT STORE",
+        "afterLabel": "RIGHT STORE",
         "before": ["Premium posture support"],
         "after": ["Stand straighter in 14 days"],
-        "at": "B"
+        "at": "right"
       },
       "chips": [
-        { "icon": "target", "text": "Sell the result", "kind": "hot", "at": "sells" }
+        { "icon": "target", "text": "Sell the result", "kind": "hot", "at": "result" }
       ],
-      "say": "Round one, the headline. Store A says premium posture support. *Store* B says stand straighter in fourteen days. A sells the thing. B *sells* the result."
+      "say": "Round one, the headline. The left store says, premium posture support. The *right* store says, stand straighter in fourteen days. One sells a thing. The other sells a *result.*"
     },
     {
       "bg": "ink",
@@ -64,16 +64,16 @@
       "header": "2 · THE *PROOF*",
       "visual": {
         "type": "compare",
-        "beforeLabel": "STORE A",
-        "afterLabel": "STORE B",
-        "before": ["4 text reviews", "Hidden at the bottom"],
-        "after": ["Customer video", "Before / after photo", "First screen"],
-        "at": "B"
+        "beforeLabel": "LEFT STORE",
+        "afterLabel": "RIGHT STORE",
+        "before": ["4 text reviews", "Buried at the bottom"],
+        "after": ["Real customer video", "Before / after photo", "On the first screen"],
+        "at": "right"
       },
       "chips": [
         { "icon": "video", "text": "Proof up top", "kind": "hot", "at": "before" }
       ],
-      "say": "Round two, proof. Store A has four reviews hidden at the bottom. *Store* B shows a customer video before you even *scroll.*",
+      "say": "Round two, proof. The left store has four reviews, buried at the bottom. The *right* store shows a real customer video before you even *scroll.*",
       "box": "before you even scroll."
     },
     {
@@ -81,7 +81,7 @@
       "bg": "void",
       "bix": "think",
       "headline": "And round *three?*",
-      "say": "And round three? [question-ah]"
+      "say": "And round *three?*"
     },
     {
       "bg": "ink",
@@ -89,16 +89,16 @@
       "header": "3 · THE *OFFER*",
       "visual": {
         "type": "compare",
-        "beforeLabel": "STORE A",
-        "afterLabel": "STORE B",
+        "beforeLabel": "LEFT STORE",
+        "afterLabel": "RIGHT STORE",
         "before": ["$29.99", "That's it"],
-        "after": ["Buy 2, save 20%", "30-day guarantee", "Free shipping"],
-        "at": "B"
+        "after": ["2-pack deal", "Free shipping", "30-day guarantee"],
+        "at": "right"
       },
       "chips": [
         { "icon": "shield", "text": "Risk removed", "kind": "hot", "at": "removed" }
       ],
-      "say": "[surprise-oh] Round three, the offer. Store A is just a price. *Store* B has a two-pack bundle and a thirty-day guarantee. B *removed* the risk."
+      "say": "Round three, the offer. The left store shows a price, and that's it. The *right* store adds a two-pack deal, free shipping, and a thirty-day guarantee. It *removed* the risk."
     },
     {
       "bg": "ink",
@@ -107,12 +107,12 @@
       "visual": {
         "type": "checklist",
         "items": [
-          { "text": "Headline: B wins", "at": "headline" },
-          { "text": "Proof: B wins", "at": "proof" },
-          { "text": "Offer: B wins", "at": "offer" }
+          { "text": "Headline: right store", "at": "headline" },
+          { "text": "Proof: right store", "at": "proof" },
+          { "text": "Offer: right store", "at": "offer" }
         ]
       },
-      "say": "Final score. Headline, proof, offer. Three to zero. And B's product isn't even *better.*"
+      "say": "[laughter] Final score. Headline, proof, offer. Three to zero. And that product isn't even *better.*"
     },
     {
       "bg": "ink",
@@ -131,15 +131,15 @@
         ],
         "replyAt": "ask"
       },
-      "say": "Now score yours. *Paste* your product page and a competitor's into any AI. Then ask: who wins each round, and what's the exact fix?"
+      "say": "Now score yours. *Paste* your product page and a competitor's into any AI. Ask it to judge headline, proof, and offer, and give you the exact fix for every round you lose."
     },
     {
       "layout": "punch",
       "bg": "neon",
       "bix": "smug",
       "headline": "Better *pitch*, | not product.",
-      "say": "B doesn't have a better product. B has a better *pitch.*",
-      "box": "B has a better pitch."
+      "say": "They didn't win with a better product. They won with a better *pitch.*",
+      "box": "a better pitch."
     },
     {
       "layout": "bix",
@@ -152,7 +152,7 @@
         { "icon": "camera", "text": "Save the prompt", "at": "save" },
         { "icon": "users", "text": "Follow", "kind": "hot", "at": "follow" }
       ],
-      "say": "*Save* this, score your store tonight, and follow for more teardowns."
+      "say": "*Save* this, score your store tonight, and follow for more teardowns like this."
     }
   ]
 }
