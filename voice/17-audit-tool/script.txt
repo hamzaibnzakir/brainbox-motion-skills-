@@ -1,0 +1,23 @@
+I got tired of auditing stores by hand. So I built an AI tool that does it for me. [laughter]
+
+Here's exactly how it works, so you can build a mini version today.
+
+[sigh] A manual audit eats a whole afternoon.
+
+Four steps. The last one is the magic.
+
+Step one, crawl. Paste a store URL. It grabs the homepage, a product page and the cart, then runs a speed test.
+
+Step two, score. AI checks the basics. Is the headline clear? Is shipping shown early? Are reviews up top? Is mobile fast?
+
+Step three, spy. It runs the same checks on three competitors, so you see exactly where they beat you.
+
+And the last step? [question-oh]
+
+Step four, rank. Feed every result into one prompt, and ask for the top five fixes, ranked by impact versus effort. Easy wins first.
+
+No code? Do it by hand. Run a free speed test, paste your page and a competitor's into AI, then use that ranking prompt. Twenty minutes, tops.
+
+Stop guessing what to fix. Let the data rank it.
+
+Save this, and follow to watch me build the full version.

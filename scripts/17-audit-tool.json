@@ -1,0 +1,229 @@
+{
+  "id": "17-audit-tool",
+  "title": "I built an AI store audit tool (here's how it works)",
+  "caption": "I got tired of auditing stores by hand, so I built an AI auditor. Crawl, score, spy, rank. Here's the whole thing, plus a no-code version you can run today. #buildinpublic #aitools #ecommerce #automation",
+  "avatar": {
+    "dir": "assets/hero"
+  },
+  "beats": [
+    {
+      "layout": "bix",
+      "pose": "presenting",
+      "bg": "ink",
+      "bix": "smug",
+      "headline": "I built an | *auditor.*",
+      "chips": [
+        {
+          "icon": "clock",
+          "text": "Manual audits",
+          "kind": "bad",
+          "at": "hand"
+        },
+        {
+          "icon": "bot",
+          "text": "AI auditor",
+          "kind": "hot",
+          "at": "built"
+        }
+      ],
+      "say": "I got tired of auditing stores by hand. So I built an AI tool that does it for *me.* [laughter]"
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "headline": "How it *works*",
+      "visual": {
+        "type": "icon",
+        "icon": "bot",
+        "badge": "check",
+        "badgeTone": "good",
+        "badgeAt": "mini"
+      },
+      "stamp": {
+        "text": "4 STEPS",
+        "at": "exactly",
+        "y": 860
+      },
+      "say": "Here's exactly how it works, so you can build a mini version today.",
+      "box": "build a mini version today."
+    },
+    {
+      "layout": "punch",
+      "bg": "neon",
+      "bix": "serious",
+      "headline": "Audits eat | *afternoons.*",
+      "say": "[sigh] A manual audit eats a whole *afternoon.*"
+    },
+    {
+      "layout": "punch",
+      "bg": "void",
+      "bix": "smug",
+      "header": "4 *STEPS*",
+      "headline": "The last one | is the *magic.*",
+      "say": "Four steps. The last one is the *magic.*"
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "header": "1 · CRAWL THE *STORE*",
+      "visual": {
+        "type": "flow",
+        "nodes": [
+          {
+            "icon": "link",
+            "text": "Paste a store URL",
+            "at": "paste"
+          },
+          {
+            "icon": "file",
+            "text": "Home, product, cart",
+            "at": "grabs"
+          },
+          {
+            "icon": "gauge",
+            "text": "Speed test",
+            "at": "speed"
+          }
+        ]
+      },
+      "say": "Step one, crawl. *Paste* a store URL. It grabs the homepage, a product page and the cart, then runs a speed test."
+    },
+    {
+      "bg": "ink",
+      "bix": "serious",
+      "header": "2 · SCORE THE *BASICS*",
+      "visual": {
+        "type": "checklist",
+        "items": [
+          {
+            "text": "Clear headline",
+            "at": "headline"
+          },
+          {
+            "text": "Shipping shown early",
+            "ok": false,
+            "at": "shipping"
+          },
+          {
+            "text": "Reviews above the fold",
+            "ok": false,
+            "at": "reviews"
+          },
+          {
+            "text": "Fast on mobile",
+            "ok": false,
+            "at": "mobile"
+          }
+        ]
+      },
+      "say": "Step two, score. AI checks the basics. Is the headline *clear?* Is shipping shown early? Are reviews up top? Is mobile fast?"
+    },
+    {
+      "bg": "ink",
+      "bix": "talk",
+      "header": "3 · SPY ON *RIVALS*",
+      "visual": {
+        "type": "compare",
+        "beforeLabel": "YOUR STORE",
+        "afterLabel": "COMPETITOR",
+        "before": [
+          "Score: 54",
+          "Reviews buried"
+        ],
+        "after": [
+          "Score: 81",
+          "Video review up top"
+        ],
+        "at": "see"
+      },
+      "chips": [
+        {
+          "icon": "spy",
+          "text": "Same checks",
+          "kind": "hot",
+          "at": "same"
+        }
+      ],
+      "say": "Step three, spy. It runs the same checks on three competitors, so you see exactly where they beat *you.*"
+    },
+    {
+      "layout": "punch",
+      "bg": "void",
+      "bix": "think",
+      "headline": "And the *last* step?",
+      "say": "And the last step? [question-oh]"
+    },
+    {
+      "bg": "ink",
+      "bix": "shock",
+      "header": "4 · RANK THE *FIXES*",
+      "visual": {
+        "type": "prompt",
+        "prompt": "Here are audit results for my store and 3 competitors. Rank the top 5 fixes by impact vs effort. Easy wins first.",
+        "at": "feed",
+        "reply": [
+          "1. Move reviews above the fold",
+          "2. Show shipping on product page",
+          "3. Rewrite the headline",
+          "4. Compress hero images",
+          "5. Add a bundle offer"
+        ],
+        "replyAt": "ask"
+      },
+      "say": "Step four, rank. *Feed* every result into one prompt, and ask for the top five fixes, ranked by impact versus *effort*. Easy wins first."
+    },
+    {
+      "bg": "ink",
+      "bix": "happy",
+      "header": "THE *NO-CODE* VERSION",
+      "visual": {
+        "type": "checklist",
+        "items": [
+          {
+            "text": "Run a free speed test",
+            "at": "run"
+          },
+          {
+            "text": "Paste both pages into AI",
+            "at": "paste"
+          },
+          {
+            "text": "Use the ranking prompt",
+            "at": "use"
+          }
+        ]
+      },
+      "say": "No code? Do it by hand. *Run* a free speed test, paste your page and a competitor's into AI, then use that ranking prompt. Twenty minutes, tops.",
+      "box": "Twenty minutes, tops."
+    },
+    {
+      "layout": "punch",
+      "bg": "neon",
+      "bix": "smug",
+      "headline": "Don't guess. | *Rank.*",
+      "say": "Stop guessing what to fix. Let the data *rank* it."
+    },
+    {
+      "layout": "bix",
+      "pose": "celebrating",
+      "bg": "ink",
+      "bix": "happy",
+      "label": "Building in public",
+      "headline": "Follow the *build*",
+      "chips": [
+        {
+          "icon": "camera",
+          "text": "Save the steps",
+          "at": "save"
+        },
+        {
+          "icon": "users",
+          "text": "Follow",
+          "kind": "hot",
+          "at": "follow"
+        }
+      ],
+      "say": "*Save* this, and follow to watch me build the full version."
+    }
+  ]
+}
